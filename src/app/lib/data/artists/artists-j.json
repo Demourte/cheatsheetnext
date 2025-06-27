@@ -1,0 +1,242 @@
+[
+  {
+    "id": "Jacinto-Jorge",
+    "name": "Jacinto, Jorge",
+    "imagePath": "/artists/Jorge-Jacinto.webp",
+    "prompt": "artwork in the style of Jacinto, Jorge, illustration, concept art, sci-fi, fantasy, MTG",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Sci-Fi",
+      "Fantasy",
+      "Game Art",
+      "MTG",
+      "Portugal"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Jacklin-Bill",
+    "name": "Jacklin, Bill",
+    "imagePath": "/artists/Bill-Jacklin.webp",
+    "prompt": "artwork in the style of Jacklin, Bill, painting, oil, Pastels, portrait, landscape, still life, UK",
+    "category": [
+      "Painting",
+      "Oil",
+      "Pastels",
+      "Portrait",
+      "Landscape",
+      "Still Life",
+      "UK"
+    ],
+    "birthYear": 1943,
+    "deathYear": null
+  },
+  {
+    "id": "Jakubowski-Marcin",
+    "name": "Jakubowski, Marcin",
+    "imagePath": "/artists/Marcin-Jakubowski.webp",
+    "prompt": "artwork in the style of Jakubowski, Marcin, illustration, concept art, Poland",
+    "category": [
+      "Illustration",
+      "Character Design",
+      "Concept Art",
+      "Poland"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Jansson-Alexander",
+    "name": "Jansson, Alexander",
+    "imagePath": "/artists/Alexander-Jansson.webp",
+    "prompt": "artwork in the style of Jansson, Alexander, illustration, Sweden",
+    "category": [
+      "Illustration",
+      "Sweden"
+    ],
+    "birthYear": 1977,
+    "deathYear": null
+  },
+  {
+    "id": "Jasinski-Aaron",
+    "name": "Jasinski, Aaron",
+    "imagePath": "/artists/Aaron-Jasinski.webp",
+    "prompt": "artwork in the style of Jasinski, Aaron, illustration, Children's Book",
+    "category": [
+      "Illustration",
+      "Children's Book",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Jean-James",
+    "name": "Jean, James",
+    "imagePath": "/artists/James-Jean.webp",
+    "prompt": "artwork in the style of Jean, James, illustration, painting, Taiwan",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Taiwan"
+    ],
+    "birthYear": 1979,
+    "deathYear": null
+  },
+  {
+    "id": "Jeffers-Oliver",
+    "name": "Jeffers, Oliver",
+    "imagePath": "/artists/Oliver-Jeffers.webp",
+    "prompt": "artwork in the style of Jeffers, Oliver, illustration, Author",
+    "category": [
+      "Author",
+      "Illustration",
+      "Children's Book",
+      "Australia"
+    ],
+    "birthYear": 1977,
+    "deathYear": null
+  },
+  {
+    "id": "Jewett-Ellen",
+    "name": "Jewett, Ellen",
+    "imagePath": "/artists/Ellen-Jewett.webp",
+    "prompt": "artwork in the style of Jewett, Ellen, sculpture, Canada",
+    "category": [
+      "Sculpture",
+      "Canada"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Jia-Ruan",
+    "name": "Jia, Ruan",
+    "imagePath": "/artists/Ruan-Jia.webp",
+    "prompt": "artwork in the style of Jia, Ruan, illustration, concept art, China",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Game Art",
+      "China"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Jimenez-Phil",
+    "name": "Jimenez, Phil",
+    "imagePath": "/artists/Phil-Jimenez.webp",
+    "prompt": "artwork in the style of Jimenez, Phil, comic, dc comics, USA",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "USA"
+    ],
+    "birthYear": 1970,
+    "deathYear": null
+  },
+  {
+    "id": "Johnstone-Dorothy",
+    "name": "Johnstone, Dorothy",
+    "imagePath": "/artists/Dorothy-Johnstone.webp",
+    "prompt": "artwork in the style of Johnstone, Dorothy, painting, oil, watercolor, gouache, portrait, Scotland",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Gouache",
+      "Portrait",
+      "Scotland",
+      "UK"
+    ],
+    "birthYear": 1892,
+    "deathYear": 1980
+  },
+  {
+    "id": "Jones-Android-Andrew",
+    "name": "Jones, (Android) Andrew",
+    "imagePath": "/artists/Andrew-Android-Jones.webp",
+    "prompt": "artwork in the style of Jones, (Android) Andrew, illustration, concept art, USA",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Game Art",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Jones-Jeffrey-Catherine",
+    "name": "Jones, Jeffrey Catherine",
+    "imagePath": "/artists/Jeffrey-Catherine-Jones.webp",
+    "prompt": "artwork in the style of Jones, Jeffrey Catherine, illustration, USA",
+    "category": [
+      "Illustration",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1944,
+    "deathYear": 2011
+  },
+  {
+    "id": "Jover-Loui",
+    "name": "Jover, Loui",
+    "imagePath": "/artists/Loui-Jover.webp",
+    "prompt": "artwork in the style of Jover, Loui, ink, Collage",
+    "category": [
+      "Collage",
+      "Ink",
+      "B&W",
+      "Australia"
+    ],
+    "birthYear": 1967,
+    "deathYear": null
+  },
+  {
+    "id": "Jullien-Jean",
+    "name": "Jullien, Jean",
+    "imagePath": "/artists/Jean-Jullien.webp",
+    "prompt": "artwork in the style of Jullien, Jean, illustration, Flat Style",
+    "category": [
+      "Illustration",
+      "Flat Style",
+      "France"
+    ],
+    "birthYear": 1983,
+    "deathYear": null
+  },
+  {
+    "id": "Jurgens-Mandy",
+    "name": "Jurgens, Mandy",
+    "imagePath": "/artists/Mandy-Jurgens.webp",
+    "prompt": "artwork in the style of Jurgens, Mandy, illustration, portrait, USA",
+    "category": [
+      "Illustration",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Jusko-Joe",
+    "name": "Jusko, Joe",
+    "imagePath": "/artists/Joe-Jusko.webp",
+    "prompt": "artwork in the style of Jusko, Joe, illustration, comic, dc comics, fantasy, Marvel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Fantasy",
+      "DC Comics",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1959,
+    "deathYear": null
+  }
+]

@@ -37,8 +37,8 @@ Before you begin, make sure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Demourte/sdhelper.git
-   cd sdhelper
+   git clone https://github.com/Demourte/cheatsheetnext.git
+   cd cheatsheetnext
    ```
 2. **Install dependencies:**
    ```bash

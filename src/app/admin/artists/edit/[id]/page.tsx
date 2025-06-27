@@ -2,9 +2,9 @@
 
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
-import Navbar from "@/components/Navbar";
-import ArtistForm from "@/components/ArtistForm";
-import { Artist } from "@/data/artistTypes";
+import Navbar from "@/app/common/components/Navbar";
+import ArtistForm from "@/app/admin/artists/components/ArtistForm";
+import { Artist } from "@/app/lib/data/artistTypes";
 
 export default function EditArtistPage({ params }: { params: { id: string } }) {
   const [artist, setArtist] = useState<Partial<Artist> | null>(null);
@@ -59,8 +59,10 @@ export default function EditArtistPage({ params }: { params: { id: string } }) {
       }
       
       // Navigate back to settings page with artists tab active
-      router.push("/settings?tab=artists");
-      router.refresh();
+      // Use replace instead of push for a cleaner navigation history
+      router.replace("/ui/settings?tab=artists");
+      // Force a full refresh to ensure the UI updates
+      window.location.href = "/ui/settings?tab=artists";
     } catch (err) {
       setError("Error updating artist: " + (err instanceof Error ? err.message : String(err)));
       setIsSubmitting(false);
@@ -69,7 +71,8 @@ export default function EditArtistPage({ params }: { params: { id: string } }) {
   
   // Handle cancel
   const handleCancel = () => {
-    router.push("/settings?tab=artists");
+    // Navigate to settings page with artists tab active
+    window.location.href = "/ui/settings?tab=artists";
   };
   
   if (isLoading) {
@@ -93,7 +96,7 @@ export default function EditArtistPage({ params }: { params: { id: string } }) {
         <div className="mt-4">
           <button 
             className="btn btn-primary" 
-            onClick={() => router.push("/settings?tab=artists")}
+            onClick={() => router.push("/ui/settings?tab=artists")}
           >
             Back to Settings
           </button>
