@@ -352,8 +352,7 @@ export default function PromptGenerator() {
       </h2>
       
       <p className="text-sm mb-4">
-        Generate random prompts optimized for different Stable Diffusion models.
-        Click the button to create a new prompt, then copy it to your clipboard.
+        Used as a basic test for different models / capabilities. Might transform this to something more useful in the future.
       </p>
       
       <div className="flex flex-wrap gap-2 mb-6">

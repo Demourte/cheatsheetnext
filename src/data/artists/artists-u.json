@@ -1,0 +1,72 @@
+[
+  {
+    "id": "Uesugi-Tadahiro",
+    "name": "Uesugi, Tadahiro",
+    "imagePath": "/artists/Tadahiro-Uesugi.webp",
+    "prompt": "artwork in the style of Uesugi, Tadahiro, illustration, Japan",
+    "category": [
+      "Illustration",
+      "Japan"
+    ],
+    "birthYear": 1966,
+    "deathYear": null
+  },
+  {
+    "id": "Uglow-Euan",
+    "name": "Uglow, Euan",
+    "imagePath": "/artists/Euan-Uglow.webp",
+    "prompt": "artwork in the style of Uglow, Euan, painting, oil, still life, portrait, UK",
+    "category": [
+      "Painting",
+      "Oil",
+      "Still Life",
+      "Portrait",
+      "UK"
+    ],
+    "birthYear": 1932,
+    "deathYear": 2000
+  },
+  {
+    "id": "Uhlig-Daniela",
+    "name": "Uhlig, Daniela",
+    "imagePath": "/artists/Daniela-Uhlig.webp",
+    "prompt": "artwork in the style of Uhlig, Daniela, illustration, Germany",
+    "category": [
+      "Illustration",
+      "Character Design",
+      "Game Art",
+      "Germany"
+    ],
+    "birthYear": 1982,
+    "deathYear": null
+  },
+  {
+    "id": "Ural-Halil",
+    "name": "Ural, Halil",
+    "imagePath": "/artists/Halil-Ural.webp",
+    "prompt": "artwork in the style of Ural, Halil, illustration, concept art, Turkey",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Game Art",
+      "Turkey"
+    ],
+    "birthYear": 1983,
+    "deathYear": null
+  },
+  {
+    "id": "Urschel-Jan",
+    "name": "Urschel, Jan",
+    "imagePath": "/artists/Jan-Urschel.webp",
+    "prompt": "artwork in the style of Urschel, Jan, illustration, concept art, sci-fi, Germany",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Sci-Fi",
+      "Game Art",
+      "Germany"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  }
+]

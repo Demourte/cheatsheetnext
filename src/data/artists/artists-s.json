@@ -1,0 +1,952 @@
+[
+  {
+    "id": "Saftleven-Cornelis",
+    "name": "Saftleven, Cornelis",
+    "imagePath": "/artists/Cornelis-Saftleven.webp",
+    "prompt": "artwork in the style of Saftleven, Cornelis, painting, oil, landscape, portrait, 17th Century, Netherlands",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Portrait",
+      "Netherlands",
+      "17th Century"
+    ],
+    "birthYear": 1607,
+    "deathYear": 1681
+  },
+  {
+    "id": "Sage-Amanda",
+    "name": "Sage, Amanda",
+    "imagePath": "/artists/Amanda-Sage.webp",
+    "prompt": "artwork in the style of Sage, Amanda, painting, oil, Psychedelic Art",
+    "category": [
+      "Painting",
+      "Oil",
+      "Psychedelic Art",
+      "USA"
+    ],
+    "birthYear": 1978,
+    "deathYear": null
+  },
+  {
+    "id": "Saintclair-Apollonia",
+    "name": "Saintclair, Apollonia",
+    "imagePath": "/artists/Apollonia-Saintclair.webp",
+    "prompt": "artwork in the style of Saintclair, Apollonia, illustration, ink, Nudity",
+    "category": [
+      "Illustration",
+      "Ink",
+      "Nudity",
+      "B&W",
+      "France"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Salminen-John",
+    "name": "Salminen, John",
+    "imagePath": "/artists/John-Salminen.webp",
+    "prompt": "artwork in the style of Salminen, John, illustration, watercolor, landscape, USA",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Landscape",
+      "USA"
+    ],
+    "birthYear": 1945,
+    "deathYear": null
+  },
+  {
+    "id": "Samor-Nicola",
+    "name": "Samorì, Nicola",
+    "imagePath": "/artists/Nicola-Samori.webp",
+    "prompt": "artwork in the style of Samorì, Nicola, painting, oil, sculpture, Italy",
+    "category": [
+      "Painting",
+      "Oil",
+      "Sculpture",
+      "Italy"
+    ],
+    "birthYear": 1977,
+    "deathYear": null
+  },
+  {
+    "id": "Sandoval-Tony",
+    "name": "Sandoval, Tony",
+    "imagePath": "/artists/Tony-Sandoval.webp",
+    "prompt": "artwork in the style of Sandoval, Tony, illustration, watercolor, USA",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "USA"
+    ],
+    "birthYear": 1973,
+    "deathYear": null
+  },
+  {
+    "id": "Sargent-John-Singer",
+    "name": "Sargent, John Singer",
+    "imagePath": "/artists/John-Singer-Sargent.webp",
+    "prompt": "artwork in the style of Sargent, John Singer, painting, oil, watercolor, portrait, 19th Century, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Portrait",
+      "USA",
+      "19th Century"
+    ],
+    "birthYear": 1856,
+    "deathYear": 1925
+  },
+  {
+    "id": "Sarnoff-Arthur",
+    "name": "Sarnoff, Arthur",
+    "imagePath": "/artists/Arthur-Sarnoff.webp",
+    "prompt": "artwork in the style of Sarnoff, Arthur, illustration, painting, oil, portrait, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1912,
+    "deathYear": 2000
+  },
+  {
+    "id": "Sarrailh-Sylvain",
+    "name": "Sarrailh, Sylvain",
+    "imagePath": "/artists/Sylvain-Sarrailh.webp",
+    "prompt": "artwork in the style of Sarrailh, Sylvain, illustration, concept art, France",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Game Art",
+      "France"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Sarto-Andrea-del",
+    "name": "Sarto, Andrea del",
+    "imagePath": "/artists/Andrea-del-Sarto.webp",
+    "prompt": "artwork in the style of Sarto, Andrea del, painting, oil, portrait, mythology, 16th Century, Italy",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Mythology",
+      "Italy",
+      "16th Century"
+    ],
+    "birthYear": 1486,
+    "deathYear": 1531
+  },
+  {
+    "id": "Saryan-Martiros",
+    "name": "Saryan, Martiros",
+    "imagePath": "/artists/Martiros-Saryan.webp",
+    "prompt": "artwork in the style of Saryan, Martiros, painting, oil, tempera, landscape, Russia",
+    "category": [
+      "Painting",
+      "Oil",
+      "Tempera",
+      "Landscape",
+      "Russia",
+      "Armenia"
+    ],
+    "birthYear": 1880,
+    "deathYear": 1972
+  },
+  {
+    "id": "Savrasov-Alexei",
+    "name": "Savrasov, Alexei",
+    "imagePath": "/artists/Aleksey-Savrasov.webp",
+    "prompt": "artwork in the style of Savrasov, Alexei, painting, oil, landscape, 19th Century, Russia",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Russia",
+      "19th Century"
+    ],
+    "birthYear": 1830,
+    "deathYear": 1897
+  },
+  {
+    "id": "Scarry-Richard",
+    "name": "Scarry, Richard",
+    "imagePath": "/artists/Richard-Scarry.webp",
+    "prompt": "artwork in the style of Scarry, Richard, illustration, watercolor, Children's Book",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Children's Book",
+      "USA"
+    ],
+    "birthYear": 1919,
+    "deathYear": 1994
+  },
+  {
+    "id": "Schalcken-Godfried",
+    "name": "Schalcken, Godfried",
+    "imagePath": "/artists/Godfried-Schalcken.webp",
+    "prompt": "artwork in the style of Schalcken, Godfried, painting, oil, portrait, 17th Century, Netherlands",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Netherlands",
+      "17th Century"
+    ],
+    "birthYear": 1643,
+    "deathYear": 1706
+  },
+  {
+    "id": "Schaller-Thomas-W",
+    "name": "Schaller, Thomas W.",
+    "imagePath": "/artists/Thomas-W-Schaller.webp",
+    "prompt": "artwork in the style of Schaller, Thomas W., painting, watercolor, cityscape, Architecture",
+    "category": [
+      "Painting",
+      "Watercolor",
+      "Architecture",
+      "Cityscape",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Scher-Paula",
+    "name": "Scher, Paula",
+    "imagePath": "/artists/Paula-Scher.webp",
+    "prompt": "artwork in the style of Scher, Paula, illustration, painting, Graphic Design",
+    "category": [
+      "Illustration",
+      "Graphic Design",
+      "Painting",
+      "USA"
+    ],
+    "birthYear": 1948,
+    "deathYear": null
+  },
+  {
+    "id": "Schjerfbeck-Helene",
+    "name": "Schjerfbeck, Helene",
+    "imagePath": "/artists/Helene-Schjerfbeck.webp",
+    "prompt": "artwork in the style of Schjerfbeck, Helene, painting, oil, Realism, portrait, 19th Century, Finland",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Realism",
+      "Finland",
+      "19th Century"
+    ],
+    "birthYear": 1862,
+    "deathYear": 1946
+  },
+  {
+    "id": "Schoeller-Martin",
+    "name": "Schoeller, Martin",
+    "imagePath": "/artists/Martin-Schoeller.webp",
+    "prompt": "artwork in the style of Schoeller, Martin, photography, portrait, Germany",
+    "category": [
+      "Photography",
+      "Portrait",
+      "Germany"
+    ],
+    "birthYear": 1968,
+    "deathYear": null
+  },
+  {
+    "id": "Schoenherr-John-Carl",
+    "name": "Schoenherr, John Carl",
+    "imagePath": "/artists/John-Schoenherr.webp",
+    "prompt": "artwork in the style of Schoenherr, John Carl, illustration, sci-fi, Children's Book",
+    "category": [
+      "Illustration",
+      "Children's Book",
+      "Sci-Fi",
+      "Dune",
+      "USA"
+    ],
+    "birthYear": 1935,
+    "deathYear": 2010
+  },
+  {
+    "id": "Schomburg-Alex",
+    "name": "Schomburg, Alex",
+    "imagePath": "/artists/Alex-Schomburg.webp",
+    "prompt": "artwork in the style of Schomburg, Alex, illustration, comic, Marvel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Marvel",
+      "Cover Art",
+      "Puerto Rico",
+      "USA"
+    ],
+    "birthYear": 1905,
+    "deathYear": 1998
+  },
+  {
+    "id": "Schongauer-Martin",
+    "name": "Schongauer, Martin",
+    "imagePath": "/artists/Martin-Schongauer.webp",
+    "prompt": "artwork in the style of Schongauer, Martin, painting, illustration, engraving, mythology, 15th Century, Germany",
+    "category": [
+      "Painting",
+      "Illustration",
+      "Engraving",
+      "Mythology",
+      "Germany",
+      "15th Century"
+    ],
+    "birthYear": 1448,
+    "deathYear": 1491
+  },
+  {
+    "id": "Schrieck-Otto-Marseus-van",
+    "name": "Schrieck, Otto Marseus van",
+    "imagePath": "/artists/Otto-Marseus-van-Schrieck.webp",
+    "prompt": "artwork in the style of Schrieck, Otto Marseus van, painting, oil, still life, botanical, 17th Century, Netherlands",
+    "category": [
+      "Painting",
+      "Oil",
+      "Still Life",
+      "Botanical",
+      "Netherlands",
+      "17th Century"
+    ],
+    "birthYear": 1613,
+    "deathYear": 1678
+  },
+  {
+    "id": "Schuiten-Franois",
+    "name": "Schuiten, François",
+    "imagePath": "/artists/Francois-Schuiten.webp",
+    "prompt": "artwork in the style of Schuiten, François, comic, Graphic Novel",
+    "category": [
+      "Comic",
+      "Graphic Novel",
+      "Belgium"
+    ],
+    "birthYear": 1956,
+    "deathYear": null
+  },
+  {
+    "id": "Schwabe-Carlos",
+    "name": "Schwabe, Carlos",
+    "imagePath": "/artists/Carlos-Schwabe.webp",
+    "prompt": "artwork in the style of Schwabe, Carlos, illustration, painting, Art Nouveau, 19th Century, Germany",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Art Nouveau",
+      "Germany",
+      "19th Century"
+    ],
+    "birthYear": 1866,
+    "deathYear": 1926
+  },
+  {
+    "id": "Schwitters-Kurt",
+    "name": "Schwitters, Kurt",
+    "imagePath": "/artists/Kurt-Schwitters.webp",
+    "prompt": "artwork in the style of Schwitters, Kurt, painting, oil, watercolor, Surrealism, Collage",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Collage",
+      "Dada",
+      "Surrealism",
+      "Germany",
+      "UK"
+    ],
+    "birthYear": 1887,
+    "deathYear": 1948
+  },
+  {
+    "id": "Seddon-Boulet-Susan",
+    "name": "Seddon-Boulet, Susan",
+    "imagePath": "/artists/Susan-Seddon-Boulet.webp",
+    "prompt": "artwork in the style of Seddon-Boulet, Susan, painting, ink, Brazil",
+    "category": [
+      "Painting",
+      "Ink",
+      "Brazil"
+    ],
+    "birthYear": 1941,
+    "deathYear": 1997
+  },
+  {
+    "id": "Seignac-Guillaume",
+    "name": "Seignac, Guillaume",
+    "imagePath": "/artists/Guillaume-Seignac.webp",
+    "prompt": "artwork in the style of Seignac, Guillaume, painting, oil, portrait, France",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "France"
+    ],
+    "birthYear": 1870,
+    "deathYear": 1924
+  },
+  {
+    "id": "Semenov-Anton",
+    "name": "Semenov, Anton",
+    "imagePath": "/artists/Anton-Semenov.webp",
+    "prompt": "artwork in the style of Semenov, Anton, illustration, horror, Russia",
+    "category": [
+      "Illustration",
+      "Horror",
+      "Russia"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Seurat-Georges",
+    "name": "Seurat, Georges",
+    "imagePath": "/artists/Georges-Seurat.webp",
+    "prompt": "artwork in the style of Seurat, Georges, painting, oil, Pointillism",
+    "category": [
+      "Painting",
+      "Oil",
+      "Pointillism",
+      "France"
+    ],
+    "birthYear": 1859,
+    "deathYear": 1891
+  },
+  {
+    "id": "Severin-Marie",
+    "name": "Severin, Marie",
+    "imagePath": "/artists/Marie-Severin.webp",
+    "prompt": "artwork in the style of Severin, Marie, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1929,
+    "deathYear": 2018
+  },
+  {
+    "id": "Seveso-Alberto",
+    "name": "Seveso, Alberto",
+    "imagePath": "/artists/Alberto-Seveso.webp",
+    "prompt": "artwork in the style of Seveso, Alberto, illustration, photography, portrait, UK",
+    "category": [
+      "Illustration",
+      "Photography",
+      "Portrait",
+      "UK"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Shaden-Brooke",
+    "name": "Shaden, Brooke",
+    "imagePath": "/artists/Brooke-Shaden.webp",
+    "prompt": "artwork in the style of Shaden, Brooke, photography, portrait, USA",
+    "category": [
+      "Photography",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1987,
+    "deathYear": null
+  },
+  {
+    "id": "Shaw-Barclay",
+    "name": "Shaw, Barclay",
+    "imagePath": "/artists/Barclay-Shaw.webp",
+    "prompt": "artwork in the style of Shaw, Barclay, painting, acrylic, fantasy, sci-fi, USA",
+    "category": [
+      "Painting",
+      "Acrylic",
+      "Fantasy",
+      "Sci-Fi",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1949,
+    "deathYear": null
+  },
+  {
+    "id": "Shepard-Ernest-Howard",
+    "name": "Shepard, Ernest Howard",
+    "imagePath": "/artists/E-H-Shepard.webp",
+    "prompt": "artwork in the style of Shepard, Ernest Howard, painting, Illustrator",
+    "category": [
+      "Illustrator",
+      "Painting",
+      "Winnie-the-Pooh",
+      "UK"
+    ],
+    "birthYear": 1879,
+    "deathYear": 1976
+  },
+  {
+    "id": "Sheppard-Cynthia",
+    "name": "Sheppard, Cynthia",
+    "imagePath": "/artists/Cynthia-Sheppard.webp",
+    "prompt": "artwork in the style of Sheppard, Cynthia, illustration, MTG",
+    "category": [
+      "Illustration",
+      "MTG",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Shields-Tyler",
+    "name": "Shields, Tyler",
+    "imagePath": "/artists/Tyler-Shields.webp",
+    "prompt": "artwork in the style of Shields, Tyler, photography, portrait, USA",
+    "category": [
+      "Photography",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1982,
+    "deathYear": null
+  },
+  {
+    "id": "Shimizu-Yuko",
+    "name": "Shimizu, Yuko",
+    "imagePath": "/artists/Yuko-Shimizu.webp",
+    "prompt": "artwork in the style of Shimizu, Yuko, illustration, USA",
+    "category": [
+      "Illustration",
+      "USA"
+    ],
+    "birthYear": 1965,
+    "deathYear": null
+  },
+  {
+    "id": "Shinkai-Makoto",
+    "name": "Shinkai, Makoto",
+    "imagePath": "/artists/Makoto-Shinkai.webp",
+    "prompt": "artwork in the style of Shinkai, Makoto, Anime",
+    "category": [
+      "Anime",
+      "Japan"
+    ],
+    "birthYear": 1973,
+    "deathYear": null
+  },
+  {
+    "id": "Shinkawa-Yji",
+    "name": "Shinkawa, Yōji",
+    "imagePath": "/artists/Yoji-Shinkawa.webp",
+    "prompt": "artwork in the style of Shinkawa, Yōji, illustration, concept art, Japan",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Japan"
+    ],
+    "birthYear": 1971,
+    "deathYear": null
+  },
+  {
+    "id": "Shinn-Everett",
+    "name": "Shinn, Everett",
+    "imagePath": "/artists/Everett-Shinn.webp",
+    "prompt": "artwork in the style of Shinn, Everett, illustration, painting, oil, watercolor, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "USA"
+    ],
+    "birthYear": 1876,
+    "deathYear": 1953
+  },
+  {
+    "id": "Shirow-Masamune",
+    "name": "Shirow, Masamune",
+    "imagePath": "/artists/Masamune-Shirow.webp",
+    "prompt": "artwork in the style of Shirow, Masamune, illustration, sci-fi, Manga",
+    "category": [
+      "Illustration",
+      "Manga",
+      "Sci-Fi",
+      "Japan"
+    ],
+    "birthYear": 1961,
+    "deathYear": null
+  },
+  {
+    "id": "Shiu-Emmanuel",
+    "name": "Shiu, Emmanuel",
+    "imagePath": "/artists/Emmanuel-Shiu.webp",
+    "prompt": "artwork in the style of Shiu, Emmanuel, concept art, sci-fi, USA",
+    "category": [
+      "Concept Art",
+      "Sci-Fi",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Sienkiewicz-Bill",
+    "name": "Sienkiewicz, Bill",
+    "imagePath": "/artists/Bill-Sienkiewicz.webp",
+    "prompt": "artwork in the style of Sienkiewicz, Bill, illustration, comic, dc comics, Marvel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1958,
+    "deathYear": null
+  },
+  {
+    "id": "Signac-Paul",
+    "name": "Signac, Paul",
+    "imagePath": "/artists/Paul-Signac.webp",
+    "prompt": "artwork in the style of Signac, Paul, painting, oil, Pointillism",
+    "category": [
+      "Painting",
+      "Oil",
+      "Pointillism",
+      "France"
+    ],
+    "birthYear": 1863,
+    "deathYear": 1935
+  },
+  {
+    "id": "Silvestri-Marc",
+    "name": "Silvestri, Marc",
+    "imagePath": "/artists/Marc-Silvestri.webp",
+    "prompt": "artwork in the style of Silvestri, Marc, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1958,
+    "deathYear": null
+  },
+  {
+    "id": "Simkins-Greg",
+    "name": "Simkins, Greg",
+    "imagePath": "/artists/Greg-Simkins.webp",
+    "prompt": "artwork in the style of Simkins, Greg, painting, acrylic, Graffiti",
+    "category": [
+      "Painting",
+      "Acrylic",
+      "Graffiti",
+      "USA"
+    ],
+    "birthYear": 1975,
+    "deathYear": null
+  },
+  {
+    "id": "Simonetti-Marc-",
+    "name": "Simonetti, Marc ",
+    "imagePath": "/artists/Marc-Simonetti.webp",
+    "prompt": "artwork in the style of Simonetti, Marc , illustration, concept art, France",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Game Art",
+      "France"
+    ],
+    "birthYear": 1977,
+    "deathYear": null
+  },
+  {
+    "id": "Siqueiros-David-Alfaro",
+    "name": "Siqueiros, David Alfaro",
+    "imagePath": "/artists/David-Alfaro-Siqueiros.webp",
+    "prompt": "artwork in the style of Siqueiros, David Alfaro, painting, Realism, portrait, Muralismo",
+    "category": [
+      "Painting",
+      "Portrait",
+      "Muralismo",
+      "Realism",
+      "Mexico"
+    ],
+    "birthYear": 1896,
+    "deathYear": 1974
+  },
+  {
+    "id": "Sloan-Kevin",
+    "name": "Sloan, Kevin",
+    "imagePath": "/artists/Kevin-Sloan.webp",
+    "prompt": "artwork in the style of Sloan, Kevin, painting, oil, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "USA"
+    ],
+    "birthYear": 1958,
+    "deathYear": null
+  },
+  {
+    "id": "Smith-Grace-Cossington",
+    "name": "Smith, Grace Cossington",
+    "imagePath": "/artists/Grace-Cossington-Smith.webp",
+    "prompt": "artwork in the style of Smith, Grace Cossington, painting, oil, Australia",
+    "category": [
+      "Painting",
+      "Oil",
+      "Australia"
+    ],
+    "birthYear": 1892,
+    "deathYear": 1984
+  },
+  {
+    "id": "Spare-Austin-Osman",
+    "name": "Spare, Austin Osman",
+    "imagePath": "/artists/Austin-Osman-Spare.webp",
+    "prompt": "artwork in the style of Spare, Austin Osman, illustration, painting, pastel, Art Nouveau, Symbolism, Chalk",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Chalk",
+      "Pastel",
+      "Art Nouveau",
+      "Symbolism",
+      "Occultism",
+      "UK"
+    ],
+    "birthYear": 1886,
+    "deathYear": 1956
+  },
+  {
+    "id": "Sparth",
+    "name": "Sparth",
+    "imagePath": "/artists/Sparth.webp",
+    "prompt": "artwork in the style of Sparth, illustration, concept art, sci-fi, USA",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Game Art",
+      "Sci-Fi",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Sperry-Chuck",
+    "name": "Sperry, Chuck",
+    "imagePath": "/artists/Chuck-Sperry.webp",
+    "prompt": "artwork in the style of Sperry, Chuck, illustration, screen print, portrait, USA",
+    "category": [
+      "Illustration",
+      "Screen Print",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1962,
+    "deathYear": null
+  },
+  {
+    "id": "Spratt-Sam",
+    "name": "Spratt, Sam",
+    "imagePath": "/artists/Sam-Spratt.webp",
+    "prompt": "artwork in the style of Spratt, Sam, illustration, painting, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Steadman-Ralph",
+    "name": "Steadman, Ralph",
+    "imagePath": "/artists/Ralph-Steadman.webp",
+    "prompt": "artwork in the style of Steadman, Ralph, illustration, comic, Author",
+    "category": [
+      "Author",
+      "Illustration",
+      "Comic",
+      "Cartoon",
+      "UK"
+    ],
+    "birthYear": 1936,
+    "deathYear": null
+  },
+  {
+    "id": "Stelfreeze-Brian",
+    "name": "Stelfreeze, Brian",
+    "imagePath": "/artists/Brian-Stelfreeze.webp",
+    "prompt": "artwork in the style of Stelfreeze, Brian, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Stieglitz-Alfred",
+    "name": "Stieglitz, Alfred",
+    "imagePath": "/artists/Alfred-Stieglitz.webp",
+    "prompt": "artwork in the style of Stieglitz, Alfred, photography, portrait, 19th Century, USA",
+    "category": [
+      "Photography",
+      "Portrait",
+      "B&W",
+      "USA",
+      "19th Century"
+    ],
+    "birthYear": 1864,
+    "deathYear": 1946
+  },
+  {
+    "id": "Stokoe-James",
+    "name": "Stokoe, James",
+    "imagePath": "/artists/James-Stokoe.webp",
+    "prompt": "artwork in the style of Stokoe, James, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "Canada"
+    ],
+    "birthYear": 1985,
+    "deathYear": null
+  },
+  {
+    "id": "Streeton-Arthur-Ernest",
+    "name": "Streeton, Arthur Ernest",
+    "imagePath": "/artists/Arthur-Ernest-Streeton.webp",
+    "prompt": "artwork in the style of Streeton, Arthur Ernest, painting, oil, watercolor, landscape, 19th Century, Australia",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Landscape",
+      "Australia",
+      "19th Century"
+    ],
+    "birthYear": 1867,
+    "deathYear": 1943
+  },
+  {
+    "id": "Struzan-Drew",
+    "name": "Struzan, Drew",
+    "imagePath": "/artists/Drew-Struzan.webp",
+    "prompt": "artwork in the style of Struzan, Drew, illustration, Poster",
+    "category": [
+      "Illustration",
+      "Poster",
+      "USA"
+    ],
+    "birthYear": 1947,
+    "deathYear": null
+  },
+  {
+    "id": "Strzalkowski-Tomasz",
+    "name": "Strzalkowski, Tomasz",
+    "imagePath": "/artists/Tomasz-Strzalkowski.webp",
+    "prompt": "artwork in the style of Strzalkowski, Tomasz, 3D",
+    "category": [
+      "3D",
+      "Character Design",
+      "Game Art",
+      "Poland"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Stlenhag-Simon",
+    "name": "Stålenhag, Simon",
+    "imagePath": "/artists/Simon-Stalenhag.webp",
+    "prompt": "artwork in the style of Stålenhag, Simon, concept art, sci-fi, Sweden",
+    "category": [
+      "Concept Art",
+      "Sci-Fi",
+      "Sweden"
+    ],
+    "birthYear": 1984,
+    "deathYear": null
+  },
+  {
+    "id": "Sugimori-Ken",
+    "name": "Sugimori, Ken",
+    "imagePath": "/artists/Ken-Sugimori.webp",
+    "prompt": "artwork in the style of Sugimori, Ken, illustration, Pokemon",
+    "category": [
+      "Illustration",
+      "Game Art",
+      "Pokemon",
+      "Japan"
+    ],
+    "birthYear": 1966,
+    "deathYear": null
+  },
+  {
+    "id": "Suydam-Arthur",
+    "name": "Suydam, Arthur",
+    "imagePath": "/artists/Arthur-Suydam.webp",
+    "prompt": "artwork in the style of Suydam, Arthur, illustration, comic, Marvel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1953,
+    "deathYear": null
+  },
+  {
+    "id": "Swanland-Raymond",
+    "name": "Swanland, Raymond",
+    "imagePath": "/artists/Raymond-Swanland.webp",
+    "prompt": "artwork in the style of Swanland, Raymond, illustration, concept art, sci-fi, fantasy, MTG",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Sci-Fi",
+      "Fantasy",
+      "Game Art",
+      "MTG",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Sve-Peter-de",
+    "name": "Sève, Peter de",
+    "imagePath": "/artists/Peter-De-Seve.webp",
+    "prompt": "artwork in the style of Sève, Peter de, illustration, Animation",
+    "category": [
+      "Illustration",
+      "Animation",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1958,
+    "deathYear": null
+  }
+]

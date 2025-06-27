@@ -1,5 +1,7 @@
 import Navbar from "@/components/Navbar";
 import MetadataViewer from "@/components/MetadataViewer";
+import Footer from "@/components/Footer";
+import { FileSearch } from "lucide-react";
 
 export default function MetadataPage() {
   return (
@@ -7,8 +9,12 @@ export default function MetadataPage() {
       <Navbar />
       
       <main className="container mx-auto px-4 py-8">
-        <section>
-          <h1 className="text-2xl font-bold mb-4">Image Metadata</h1>
+        <div className="flex items-center gap-3 mb-6">
+          <FileSearch size={28} className="text-primary" />
+          <h1 className="text-2xl font-bold">Image Metadata</h1>
+        </div>
+        
+        <div className="space-y-6">
           
           <p className="mb-6">
             This will check an image for embedded Stable Diffusion data. 
@@ -16,14 +22,10 @@ export default function MetadataPage() {
           </p>
           
           <MetadataViewer />
-        </section>
+        </div>
       </main>
       
-      <footer className="footer footer-center p-4 bg-base-300 text-base-content">
-        <div>
-          <p>Stable Diffusion Cheatsheet - A comprehensive reference for AI image generation</p>
-        </div>
-      </footer>
+      <Footer />
     </div>
   );
 }

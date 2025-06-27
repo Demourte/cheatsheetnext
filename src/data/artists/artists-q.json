@@ -1,0 +1,19 @@
+[
+  {
+    "id": "Quitely-Frank",
+    "name": "Quitely, Frank",
+    "imagePath": "/artists/Frank-Quitely.webp",
+    "prompt": "artwork in the style of Quitely, Frank, illustration, comic, dc comics, Marvel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "Cover Art",
+      "Scotland",
+      "UK"
+    ],
+    "birthYear": 1968,
+    "deathYear": null
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "Yata-Hannah",
+    "name": "Yata, Hannah",
+    "imagePath": "/artists/Hannah-Yata.webp",
+    "prompt": "artwork in the style of Yata, Hannah, painting, oil, Surrealism, Psychedelic Art",
+    "category": [
+      "Painting",
+      "Oil",
+      "Psychedelic Art",
+      "Surrealism",
+      "USA"
+    ],
+    "birthYear": 1989,
+    "deathYear": null
+  },
+  {
+    "id": "Ye-Liu",
+    "name": "Ye, Liu",
+    "imagePath": "/artists/Liu-Ye.webp",
+    "prompt": "artwork in the style of Ye, Liu, painting, China",
+    "category": [
+      "Painting",
+      "China"
+    ],
+    "birthYear": 1964,
+    "deathYear": null
+  },
+  {
+    "id": "Yeager-Bunny",
+    "name": "Yeager, Bunny",
+    "imagePath": "/artists/Bunny-Yeager.webp",
+    "prompt": "artwork in the style of Yeager, Bunny, photography, portrait, Pin-Ups",
+    "category": [
+      "Photography",
+      "Portrait",
+      "Pin-Ups",
+      "USA"
+    ],
+    "birthYear": 1929,
+    "deathYear": 2014
+  },
+  {
+    "id": "Yerka-Jacek",
+    "name": "Yerka, Jacek",
+    "imagePath": "/artists/Jacek-Yerka.webp",
+    "prompt": "artwork in the style of Yerka, Jacek, illustration, painting, Surrealism, Poland",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Surrealism",
+      "Poland"
+    ],
+    "birthYear": 1952,
+    "deathYear": null
+  },
+  {
+    "id": "Yokoo-Tadanori",
+    "name": "Yokoo, Tadanori",
+    "imagePath": "/artists/Tadanori-Yokoo.webp",
+    "prompt": "artwork in the style of Yokoo, Tadanori, illustration, Graphic Design",
+    "category": [
+      "Illustration",
+      "Graphic Design",
+      "Poster",
+      "Japan"
+    ],
+    "birthYear": 1936,
+    "deathYear": null
+  },
+  {
+    "id": "Yoro-Sean-HULA",
+    "name": "Yoro, Sean (HULA)",
+    "imagePath": "/artists/Sean-Yoro.webp",
+    "prompt": "artwork in the style of Yoro, Sean (HULA), painting, portrait, Street Art",
+    "category": [
+      "Painting",
+      "Street Art",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1989,
+    "deathYear": null
+  },
+  {
+    "id": "Yoshida-Akihiko",
+    "name": "Yoshida, Akihiko",
+    "imagePath": "/artists/Akihiko-Yoshida.webp",
+    "prompt": "artwork in the style of Yoshida, Akihiko, illustration, Japan",
+    "category": [
+      "Illustration",
+      "Character Design",
+      "Game Art",
+      "Japan"
+    ],
+    "birthYear": 1967,
+    "deathYear": null
+  },
+  {
+    "id": "Yoshida-Hiroshi",
+    "name": "Yoshida, Hiroshi",
+    "imagePath": "/artists/Hiroshi-Yoshida.webp",
+    "prompt": "artwork in the style of Yoshida, Hiroshi, painting, landscape, Japan",
+    "category": [
+      "Painting",
+      "Landscape",
+      "Japan"
+    ],
+    "birthYear": 1876,
+    "deathYear": 1950
+  },
+  {
+    "id": "Young-Skottie",
+    "name": "Young, Skottie",
+    "imagePath": "/artists/Skottie-Young.webp",
+    "prompt": "artwork in the style of Young, Skottie, illustration, comic, Children's Book",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Children's Book",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1978,
+    "deathYear": null
+  }
+]

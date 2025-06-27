@@ -1,0 +1,689 @@
+[
+  {
+    "id": "Kago-Shintar",
+    "name": "Kago, Shintarō",
+    "imagePath": "/artists/Shintaro-Kago.webp",
+    "prompt": "artwork in the style of Kago, Shintarō, illustration, horror, Manga",
+    "category": [
+      "Illustration",
+      "Manga",
+      "Horror",
+      "Japan"
+    ],
+    "birthYear": 1969,
+    "deathYear": null
+  },
+  {
+    "id": "Kahraman-Hayv",
+    "name": "Kahraman, Hayv",
+    "imagePath": "/artists/Hayv-Kahraman.webp",
+    "prompt": "artwork in the style of Kahraman, Hayv, painting, oil, portrait, Iraq",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Iraq",
+      "USA"
+    ],
+    "birthYear": 1981,
+    "deathYear": null
+  },
+  {
+    "id": "Kaluta-Michael-William",
+    "name": "Kaluta, Michael William",
+    "imagePath": "/artists/Michael-William-Kaluta.webp",
+    "prompt": "artwork in the style of Kaluta, Michael William, illustration, comic, dc comics, Marvel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "Cover Art",
+      "Guatemala",
+      "USA"
+    ],
+    "birthYear": 1947,
+    "deathYear": null
+  },
+  {
+    "id": "Kandinsky-Wassily",
+    "name": "Kandinsky, Wassily",
+    "imagePath": "/artists/Wassily-Kandinsky.webp",
+    "prompt": "artwork in the style of Kandinsky, Wassily, painting, Expressionism, Abstract, Russia",
+    "category": [
+      "Painting",
+      "Expressionism",
+      "Abstract",
+      "Russia"
+    ],
+    "birthYear": 1866,
+    "deathYear": 1944
+  },
+  {
+    "id": "Kashin-Wadim",
+    "name": "Kashin, Wadim",
+    "imagePath": "/artists/Wadim-Kashin.webp",
+    "prompt": "artwork in the style of Kashin, Wadim, concept art, sci-fi, Poland",
+    "category": [
+      "Concept Art",
+      "Sci-Fi",
+      "Poland"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Katz-Alex",
+    "name": "Katz, Alex",
+    "imagePath": "/artists/Alex-Katz.webp",
+    "prompt": "artwork in the style of Katz, Alex, painting, Pop-Art, USA",
+    "category": [
+      "Painting",
+      "Pop-Art",
+      "USA"
+    ],
+    "birthYear": 1927,
+    "deathYear": null
+  },
+  {
+    "id": "Kawasaki-Audrey",
+    "name": "Kawasaki, Audrey",
+    "imagePath": "/artists/Audrey-Kawasaki.webp",
+    "prompt": "artwork in the style of Kawasaki, Audrey, illustration, painting, oil, portrait, Charcoal",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Charcoal",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1982,
+    "deathYear": null
+  },
+  {
+    "id": "Keane-Glen",
+    "name": "Keane, Glen",
+    "imagePath": "/artists/Glen-Keane.webp",
+    "prompt": "artwork in the style of Keane, Glen, illustration, Animation",
+    "category": [
+      "Illustration",
+      "Animation",
+      "Disney",
+      "USA"
+    ],
+    "birthYear": 1954,
+    "deathYear": null
+  },
+  {
+    "id": "Keever-Kim",
+    "name": "Keever, Kim",
+    "imagePath": "/artists/Kim-Keever.webp",
+    "prompt": "artwork in the style of Keever, Kim, photography, USA",
+    "category": [
+      "Photography",
+      "USA"
+    ],
+    "birthYear": 1955,
+    "deathYear": null
+  },
+  {
+    "id": "Kehoe-Andy",
+    "name": "Kehoe, Andy",
+    "imagePath": "/artists/Andy-Kehoe.webp",
+    "prompt": "artwork in the style of Kehoe, Andy, illustration, fantasy, USA",
+    "category": [
+      "Illustration",
+      "Fantasy",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Kelly-Ken",
+    "name": "Kelly, Ken",
+    "imagePath": "/artists/Ken-Kelly.webp",
+    "prompt": "artwork in the style of Kelly, Ken, painting, fantasy, USA",
+    "category": [
+      "Painting",
+      "Fantasy",
+      "USA"
+    ],
+    "birthYear": 1946,
+    "deathYear": 2022
+  },
+  {
+    "id": "Kelly-Freas-Frank",
+    "name": "Kelly-Freas, Frank",
+    "imagePath": "/artists/Frank-Kelly-Freas.webp",
+    "prompt": "artwork in the style of Kelly-Freas, Frank, illustration, painting, fantasy, sci-fi, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Fantasy",
+      "Sci-Fi",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1922,
+    "deathYear": 2005
+  },
+  {
+    "id": "Kentridge-William",
+    "name": "Kentridge, William",
+    "imagePath": "/artists/William-Kentridge.webp",
+    "prompt": "artwork in the style of Kentridge, William, illustration, Charcoal",
+    "category": [
+      "Illustration",
+      "Charcoal",
+      "B&W",
+      "South Africa"
+    ],
+    "birthYear": 1955,
+    "deathYear": null
+  },
+  {
+    "id": "Kesinger-Brian",
+    "name": "Kesinger, Brian",
+    "imagePath": "/artists/Brian-Kesinger.webp",
+    "prompt": "artwork in the style of Kesinger, Brian, illustration, comic, Disney",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Disney",
+      "USA"
+    ],
+    "birthYear": 1975,
+    "deathYear": null
+  },
+  {
+    "id": "Ketner-Jeremiah",
+    "name": "Ketner, Jeremiah",
+    "imagePath": "/artists/Jeremiah-Ketner.webp",
+    "prompt": "artwork in the style of Ketner, Jeremiah, illustration, USA",
+    "category": [
+      "Illustration",
+      "USA",
+      "Japan"
+    ],
+    "birthYear": 1974,
+    "deathYear": null
+  },
+  {
+    "id": "Kiefer-Anselm",
+    "name": "Kiefer, Anselm",
+    "imagePath": "/artists/Anselm-Kiefer.webp",
+    "prompt": "artwork in the style of Kiefer, Anselm, painting, oil, acrylic, Germany",
+    "category": [
+      "Painting",
+      "Oil",
+      "Acrylic",
+      "Germany"
+    ],
+    "birthYear": 1945,
+    "deathYear": null
+  },
+  {
+    "id": "Kieth-Sam",
+    "name": "Kieth, Sam",
+    "imagePath": "/artists/Sam-Kieth.webp",
+    "prompt": "artwork in the style of Kieth, Sam, comic, dc comics, USA",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "USA"
+    ],
+    "birthYear": 1963,
+    "deathYear": null
+  },
+  {
+    "id": "Kim-Jung-Gi",
+    "name": "Kim, Jung-Gi",
+    "imagePath": "/artists/Kim-Jung-Gi.webp",
+    "prompt": "artwork in the style of Kim, Jung-Gi, illustration, South Korea",
+    "category": [
+      "Illustration",
+      "B&W",
+      "South Korea"
+    ],
+    "birthYear": 1975,
+    "deathYear": 2022
+  },
+  {
+    "id": "Kinkade-Thomas",
+    "name": "Kinkade, Thomas",
+    "imagePath": "/artists/Thomas-Kinkade.webp",
+    "prompt": "artwork in the style of Kinkade, Thomas, painting, oil, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "USA"
+    ],
+    "birthYear": 1958,
+    "deathYear": 2012
+  },
+  {
+    "id": "Kirby-Jack",
+    "name": "Kirby, Jack",
+    "imagePath": "/artists/Jack-Kirby.webp",
+    "prompt": "artwork in the style of Kirby, Jack, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1917,
+    "deathYear": 1994
+  },
+  {
+    "id": "Kirchner-Ernst-Ludwig",
+    "name": "Kirchner, Ernst Ludwig",
+    "imagePath": "/artists/Ernst-Ludwig-Kirchner.webp",
+    "prompt": "artwork in the style of Kirchner, Ernst Ludwig, painting, oil, Expressionism, portrait, landscape, Germany",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Landscape",
+      "Expressionism",
+      "Germany"
+    ],
+    "birthYear": 1880,
+    "deathYear": 1938
+  },
+  {
+    "id": "Kirchner-Raphael",
+    "name": "Kirchner, Raphael",
+    "imagePath": "/artists/Raphael-Kirchner.webp",
+    "prompt": "artwork in the style of Kirchner, Raphael, illustration, painting, Art Nouveau, 19th Century, Austria",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Art Nouveau",
+      "Austria",
+      "19th Century"
+    ],
+    "birthYear": 1875,
+    "deathYear": 1917
+  },
+  {
+    "id": "Kiuchi-Tatsuro",
+    "name": "Kiuchi, Tatsuro",
+    "imagePath": "/artists/Tatsuro-Kiuchi.webp",
+    "prompt": "artwork in the style of Kiuchi, Tatsuro, illustration, painting, Japan",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Japan"
+    ],
+    "birthYear": 1966,
+    "deathYear": null
+  },
+  {
+    "id": "Klarwein-Abdul-Mati",
+    "name": "Klarwein, Abdul Mati",
+    "imagePath": "/artists/Mati-Klarwein.webp",
+    "prompt": "artwork in the style of Klarwein, Abdul Mati, painting, oil, Surrealism, portrait, Germany",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Cover Art",
+      "Surrealism",
+      "Germany",
+      "France"
+    ],
+    "birthYear": 1932,
+    "deathYear": 2002
+  },
+  {
+    "id": "Klassen-Jon",
+    "name": "Klassen, Jon",
+    "imagePath": "/artists/Jon-Klassen.webp",
+    "prompt": "artwork in the style of Klassen, Jon, illustration, Animation",
+    "category": [
+      "Illustration",
+      "Animation",
+      "Children's Book",
+      "Canada"
+    ],
+    "birthYear": 1981,
+    "deathYear": null
+  },
+  {
+    "id": "Klee-Paul",
+    "name": "Klee, Paul",
+    "imagePath": "/artists/Paul-Klee.webp",
+    "prompt": "artwork in the style of Klee, Paul, painting, oil, watercolor, Expressionism, Bauhaus",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Expressionism",
+      "Bauhaus",
+      "Switzerland"
+    ],
+    "birthYear": 1879,
+    "deathYear": 1940
+  },
+  {
+    "id": "Klimt-Gustav",
+    "name": "Klimt, Gustav",
+    "imagePath": "/artists/Gustav-Klimt.webp",
+    "prompt": "artwork in the style of Klimt, Gustav, painting, oil, Symbolism, Art Nouveau, 19th Century, Austria",
+    "category": [
+      "Painting",
+      "Oil",
+      "Symbolism",
+      "Art Nouveau",
+      "Austria",
+      "19th Century"
+    ],
+    "birthYear": 1862,
+    "deathYear": 1918
+  },
+  {
+    "id": "Klint-Hilma-af",
+    "name": "Klint, Hilma af",
+    "imagePath": "/artists/Hilma-af-Klint.webp",
+    "prompt": "artwork in the style of Klint, Hilma af, painting, oil, watercolor, Abstract, Symbolism, Sweden",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Abstract",
+      "Symbolism",
+      "Sweden"
+    ],
+    "birthYear": 1862,
+    "deathYear": 1944
+  },
+  {
+    "id": "Knab-Ferdinand",
+    "name": "Knab, Ferdinand",
+    "imagePath": "/artists/Ferdinand-Knab.webp",
+    "prompt": "artwork in the style of Knab, Ferdinand, painting, oil, 19th Century, Architecture",
+    "category": [
+      "Painting",
+      "Oil",
+      "Architecture",
+      "Germany",
+      "19th Century"
+    ],
+    "birthYear": 1834,
+    "deathYear": 1902
+  },
+  {
+    "id": "Knight-Nick",
+    "name": "Knight, Nick",
+    "imagePath": "/artists/Nick-Knight.webp",
+    "prompt": "artwork in the style of Knight, Nick, photography, Fashion",
+    "category": [
+      "Photography",
+      "Fashion",
+      "UK"
+    ],
+    "birthYear": 1958,
+    "deathYear": null
+  },
+  {
+    "id": "Knights-Winifred-Margaret",
+    "name": "Knights, Winifred Margaret",
+    "imagePath": "/artists/Winifred-Knights.webp",
+    "prompt": "artwork in the style of Knights, Winifred Margaret, painting, oil, Naive Art",
+    "category": [
+      "Painting",
+      "Oil",
+      "Naive Art",
+      "UK"
+    ],
+    "birthYear": 1899,
+    "deathYear": 1947
+  },
+  {
+    "id": "Kojima-Ayami",
+    "name": "Kojima, Ayami",
+    "imagePath": "/artists/Ayami-Kojima.webp",
+    "prompt": "artwork in the style of Kojima, Ayami, illustration, concept art, Konami",
+    "category": [
+      "Illustration",
+      "Character Design",
+      "Concept Art",
+      "Konami",
+      "Japan"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Kokoschka-Oskar",
+    "name": "Kokoschka, Oskar",
+    "imagePath": "/artists/Oskar-Kokoschka.webp",
+    "prompt": "artwork in the style of Kokoschka, Oskar, painting, oil, Expressionism, portrait, landscape, Austria",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Landscape",
+      "Expressionism",
+      "Austria"
+    ],
+    "birthYear": 1886,
+    "deathYear": 1980
+  },
+  {
+    "id": "Kollwitz-Kthe",
+    "name": "Kollwitz, Käthe",
+    "imagePath": "/artists/Kathe-Kollwitz.webp",
+    "prompt": "artwork in the style of Kollwitz, Käthe, painting, sculpture, Expressionism, Lithography",
+    "category": [
+      "Painting",
+      "Lithography",
+      "Expressionism",
+      "B&W",
+      "Sculpture",
+      "Germany"
+    ],
+    "birthYear": 1867,
+    "deathYear": 1945
+  },
+  {
+    "id": "Kon-Satoshi",
+    "name": "Kon, Satoshi",
+    "imagePath": "/artists/Satoshi-Kon.webp",
+    "prompt": "artwork in the style of Kon, Satoshi, Anime",
+    "category": [
+      "Anime",
+      "Japan"
+    ],
+    "birthYear": 1963,
+    "deathYear": 2010
+  },
+  {
+    "id": "Kooning-Willem-de",
+    "name": "Kooning, Willem de",
+    "imagePath": "/artists/Willem-de-Kooning.webp",
+    "prompt": "artwork in the style of Kooning, Willem de, painting, oil, Abstract, Expressionism, Netherlands",
+    "category": [
+      "Painting",
+      "Oil",
+      "Abstract",
+      "Expressionism",
+      "Netherlands",
+      "USA"
+    ],
+    "birthYear": 1904,
+    "deathYear": 1997
+  },
+  {
+    "id": "Koons-Jeff",
+    "name": "Koons, Jeff",
+    "imagePath": "/artists/Jeff-Koons.webp",
+    "prompt": "artwork in the style of Koons, Jeff, sculpture, Postmodernism",
+    "category": [
+      "Sculpture",
+      "Postmodernism",
+      "USA"
+    ],
+    "birthYear": 1955,
+    "deathYear": null
+  },
+  {
+    "id": "Koson-Ohara",
+    "name": "Koson, Ohara",
+    "imagePath": "/artists/Ohara-Koson.webp",
+    "prompt": "artwork in the style of Koson, Ohara, illustration, painting, Japan",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Japan"
+    ],
+    "birthYear": 1877,
+    "deathYear": 1945
+  },
+  {
+    "id": "Kotak-Bella",
+    "name": "Kotak, Bella",
+    "imagePath": "/artists/Bella-Kotak.webp",
+    "prompt": "artwork in the style of Kotak, Bella, photography, portrait, UK",
+    "category": [
+      "Photography",
+      "Portrait",
+      "UK"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Krishnamani-Ranganath",
+    "name": "Krishnamani, Ranganath",
+    "imagePath": "/artists/Ranganath-Krishnamani.webp",
+    "prompt": "artwork in the style of Krishnamani, Ranganath, illustration, Flat Style",
+    "category": [
+      "Illustration",
+      "Flat Style",
+      "India"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Krull-Germaine",
+    "name": "Krull, Germaine",
+    "imagePath": "/artists/Germaine-Krull.webp",
+    "prompt": "artwork in the style of Krull, Germaine, photography, portrait, Germany",
+    "category": [
+      "Photography",
+      "Portrait",
+      "B&W",
+      "Germany"
+    ],
+    "birthYear": 1897,
+    "deathYear": 1985
+  },
+  {
+    "id": "Kubin-Alfred",
+    "name": "Kubin, Alfred",
+    "imagePath": "/artists/Alfred-Kubin.webp",
+    "prompt": "artwork in the style of Kubin, Alfred, illustration, Expressionism, Symbolism, Author",
+    "category": [
+      "Author",
+      "Illustration",
+      "Expressionism",
+      "Symbolism",
+      "B&W",
+      "Austria",
+      "Hungary"
+    ],
+    "birthYear": 1877,
+    "deathYear": 1959
+  },
+  {
+    "id": "Kuciara-Maciej",
+    "name": "Kuciara, Maciej",
+    "imagePath": "/artists/Maciej-Kuciara.webp",
+    "prompt": "artwork in the style of Kuciara, Maciej, illustration, concept art, sci-fi, Poland",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Sci-Fi",
+      "Game Art",
+      "Poland"
+    ],
+    "birthYear": 1984,
+    "deathYear": null
+  },
+  {
+    "id": "Kunisada-Utagawa",
+    "name": "Kunisada, Utagawa",
+    "imagePath": "/artists/Utagawa-Kunisada.webp",
+    "prompt": "artwork in the style of Kunisada, Utagawa, woodcut, portrait, 19th Century, Drawing",
+    "category": [
+      "Drawing",
+      "Portrait",
+      "Woodcut",
+      "Japan",
+      "19th Century"
+    ],
+    "birthYear": 1786,
+    "deathYear": 1865
+  },
+  {
+    "id": "Kurtzman-Harvey",
+    "name": "Kurtzman, Harvey",
+    "imagePath": "/artists/Harvey-Kurtzman.webp",
+    "prompt": "artwork in the style of Kurtzman, Harvey, comic, Mad Magazine",
+    "category": [
+      "Comic",
+      "Mad Magazine",
+      "USA"
+    ],
+    "birthYear": 1924,
+    "deathYear": 1993
+  },
+  {
+    "id": "Kusama-Yayoi",
+    "name": "Kusama, Yayoi",
+    "imagePath": "/artists/Yayoi-Kusama.webp",
+    "prompt": "artwork in the style of Kusama, Yayoi, painting, sculpture, Pop-Art, Pattern",
+    "category": [
+      "Painting",
+      "Sculpture",
+      "Pattern",
+      "Pop-Art",
+      "Japan"
+    ],
+    "birthYear": 1929,
+    "deathYear": null
+  },
+  {
+    "id": "Kutsche-Michael",
+    "name": "Kutsche, Michael",
+    "imagePath": "/artists/Michael-Kutsche.webp",
+    "prompt": "artwork in the style of Kutsche, Michael, illustration, fantasy, Germany",
+    "category": [
+      "Illustration",
+      "Character Design",
+      "Fantasy",
+      "Germany"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Kuvshinov-Ilya",
+    "name": "Kuvshinov, Ilya",
+    "imagePath": "/artists/Ilya-Kuvshinov.webp",
+    "prompt": "artwork in the style of Kuvshinov, Ilya, illustration, Animation",
+    "category": [
+      "Illustration",
+      "Animation",
+      "Character Design",
+      "Russia"
+    ],
+    "birthYear": 1990,
+    "deathYear": null
+  }
+]

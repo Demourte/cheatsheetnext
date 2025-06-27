@@ -1,0 +1,145 @@
+[
+  {
+    "id": "Icart-Louis",
+    "name": "Icart, Louis",
+    "imagePath": "/artists/Louis_Icart.webp",
+    "prompt": "artwork in the style of Icart, Louis, illustration, painting, 19th Century, France",
+    "category": [
+      "Illustration",
+      "Painting",
+      "France",
+      "19th Century"
+    ],
+    "birthYear": 1888,
+    "deathYear": 1950
+  },
+  {
+    "id": "Immonen-Stuart",
+    "name": "Immonen, Stuart",
+    "imagePath": "/artists/Stuart_Immonen.webp",
+    "prompt": "artwork in the style of Immonen, Stuart, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "Canada"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Inceoglu-Ismail",
+    "name": "Inceoglu, Ismail",
+    "imagePath": "/artists/Ismail_Inceoglu.webp",
+    "prompt": "artwork in the style of Inceoglu, Ismail, illustration, concept art, fantasy, Bulgaria",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Fantasy",
+      "Bulgaria"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Infantino-Carmine",
+    "name": "Infantino, Carmine",
+    "imagePath": "/artists/Carmine-Infantino.webp",
+    "prompt": "artwork in the style of Infantino, Carmine, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1925,
+    "deathYear": 2013
+  },
+  {
+    "id": "Ingpen-Robert",
+    "name": "Ingpen, Robert",
+    "imagePath": "/artists/Robert-Ingpen.webp",
+    "prompt": "artwork in the style of Ingpen, Robert, illustration, Children's Book",
+    "category": [
+      "Illustration",
+      "Children's Book",
+      "Australia"
+    ],
+    "birthYear": 1936,
+    "deathYear": null
+  },
+  {
+    "id": "Ingres-Jean-Auguste-Dominique",
+    "name": "Ingres, Jean-Auguste-Dominique",
+    "imagePath": "/artists/Jean-Auguste-Dominique-Ingres.webp",
+    "prompt": "artwork in the style of Ingres, Jean-Auguste-Dominique, painting, oil, portrait, 19th Century, Neoclassicism",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Neoclassicism",
+      "Orientalism",
+      "France",
+      "19th Century"
+    ],
+    "birthYear": 1780,
+    "deathYear": 1867
+  },
+  {
+    "id": "Inoue-Takehiko",
+    "name": "Inoue, Takehiko",
+    "imagePath": "/artists/Takehiko-Inoue.webp",
+    "prompt": "artwork in the style of Inoue, Takehiko, illustration, Manga",
+    "category": [
+      "Illustration",
+      "Manga",
+      "Japan"
+    ],
+    "birthYear": 1967,
+    "deathYear": null
+  },
+  {
+    "id": "Ishida-Sui",
+    "name": "Ishida, Sui",
+    "imagePath": "/artists/Sui-Ishida.webp",
+    "prompt": "artwork in the style of Ishida, Sui, illustration, Manga",
+    "category": [
+      "Illustration",
+      "Manga",
+      "Japan"
+    ],
+    "birthYear": 1986,
+    "deathYear": null
+  },
+  {
+    "id": "Itten-Johannes",
+    "name": "Itten, Johannes",
+    "imagePath": "/artists/Johannes-Itten.webp",
+    "prompt": "artwork in the style of Itten, Johannes, painting, oil, watercolor, Expressionism, Bauhaus",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Expressionism",
+      "Bauhaus",
+      "Switzerland"
+    ],
+    "birthYear": 1888,
+    "deathYear": 1967
+  },
+  {
+    "id": "It-Junji",
+    "name": "Itō, Junji",
+    "imagePath": "/artists/Junji_Ito.webp",
+    "prompt": "artwork in the style of Itō, Junji, illustration, horror, Manga",
+    "category": [
+      "Illustration",
+      "Manga",
+      "Horror",
+      "B&W",
+      "Japan"
+    ],
+    "birthYear": 1963,
+    "deathYear": null
+  }
+]

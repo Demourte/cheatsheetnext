@@ -1,0 +1,802 @@
+[
+  {
+    "id": "Cadell-Francis",
+    "name": "Cadell, Francis",
+    "imagePath": "/artists/Francis_Cadell.webp",
+    "prompt": "artwork in the style of Cadell, Francis, painting, oil, portrait, Scotland",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Scotland",
+      "UK"
+    ],
+    "birthYear": 1883,
+    "deathYear": 1937
+  },
+  {
+    "id": "Cadmus-Paul",
+    "name": "Cadmus, Paul",
+    "imagePath": "/artists/Paul-Cadmus.webp",
+    "prompt": "artwork in the style of Cadmus, Paul, painting, oil, tempera, portrait, Nudity",
+    "category": [
+      "Painting",
+      "Oil",
+      "Tempera",
+      "Portrait",
+      "Nudity",
+      "USA"
+    ],
+    "birthYear": 1904,
+    "deathYear": 1999
+  },
+  {
+    "id": "Caldwell-Clyde",
+    "name": "Caldwell, Clyde",
+    "imagePath": "/artists/Clyde-Caldwell.webp",
+    "prompt": "artwork in the style of Caldwell, Clyde, illustration, painting, oil, acrylic, fantasy, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Acrylic",
+      "Fantasy",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1948,
+    "deathYear": null
+  },
+  {
+    "id": "Calleri-Fred",
+    "name": "Calleri, Fred",
+    "imagePath": "/artists/Fred-Calleri.webp",
+    "prompt": "artwork in the style of Calleri, Fred, painting, oil, portrait, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1964,
+    "deathYear": null
+  },
+  {
+    "id": "Camoin-Charles",
+    "name": "Camoin, Charles",
+    "imagePath": "/artists/Charles-Camoin.webp",
+    "prompt": "artwork in the style of Camoin, Charles, painting, oil, portrait, France",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "France"
+    ],
+    "birthYear": 1879,
+    "deathYear": 1965
+  },
+  {
+    "id": "Campbell-Cooper-Colin",
+    "name": "Campbell Cooper, Colin",
+    "imagePath": "/artists/Colin-Campbell-Cooper.webp",
+    "prompt": "artwork in the style of Campbell Cooper, Colin, painting, oil, watercolor, cityscape, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Cityscape",
+      "USA"
+    ],
+    "birthYear": 1856,
+    "deathYear": 1937
+  },
+  {
+    "id": "Campion-Pascal",
+    "name": "Campion, Pascal",
+    "imagePath": "/artists/Pascal-Campion.webp",
+    "prompt": "artwork in the style of Campion, Pascal, illustration, Animation",
+    "category": [
+      "Illustration",
+      "Animation",
+      "France"
+    ],
+    "birthYear": 1973,
+    "deathYear": null
+  },
+  {
+    "id": "Caniff-Milton",
+    "name": "Caniff, Milton",
+    "imagePath": "/artists/Milton_Caniff.webp",
+    "prompt": "artwork in the style of Caniff, Milton, comic, USA",
+    "category": [
+      "Comic",
+      "B&W",
+      "USA"
+    ],
+    "birthYear": 1907,
+    "deathYear": 1988
+  },
+  {
+    "id": "Carpio-Pablo",
+    "name": "Carpio, Pablo",
+    "imagePath": "/artists/Pablo-Carpio.webp",
+    "prompt": "artwork in the style of Carpio, Pablo, concept art, Spain",
+    "category": [
+      "Character Design",
+      "Concept Art",
+      "Game Art",
+      "Spain"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Carson-Michael",
+    "name": "Carson, Michael",
+    "imagePath": "/artists/Michael_Carson.webp",
+    "prompt": "artwork in the style of Carson, Michael, painting, oil, portrait, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1972,
+    "deathYear": null
+  },
+  {
+    "id": "Caruso-Santiago",
+    "name": "Caruso, Santiago",
+    "imagePath": "/artists/Santiago-Caruso.webp",
+    "prompt": "artwork in the style of Caruso, Santiago, illustration, concept art, Symbolism, Surrealism, horror, Gothic",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Cover Art",
+      "Gothic",
+      "Horror",
+      "Symbolism",
+      "Surrealism",
+      "Argentina"
+    ],
+    "birthYear": 1982,
+    "deathYear": null
+  },
+  {
+    "id": "Cassegrain-Didier",
+    "name": "Cassegrain, Didier",
+    "imagePath": "/artists/Didier-Cassegrain.webp",
+    "prompt": "artwork in the style of Cassegrain, Didier, illustration, comic, France",
+    "category": [
+      "Illustration",
+      "Comic",
+      "France"
+    ],
+    "birthYear": 1966,
+    "deathYear": null
+  },
+  {
+    "id": "Casson-Alfred-Joseph",
+    "name": "Casson, Alfred Joseph",
+    "imagePath": "/artists/Alfred_J_Casson.webp",
+    "prompt": "artwork in the style of Casson, Alfred Joseph, painting, oil, landscape, Canada",
+    "category": [
+      "Painting",
+      "Landscape",
+      "Oil",
+      "Canada"
+    ],
+    "birthYear": 1898,
+    "deathYear": 1992
+  },
+  {
+    "id": "Catherall-Paul",
+    "name": "Catherall, Paul",
+    "imagePath": "/artists/Paul-Catherall.webp",
+    "prompt": "artwork in the style of Catherall, Paul, illustration, linocut, print, Poster",
+    "category": [
+      "Illustration",
+      "Linocut",
+      "Print",
+      "Cover Art",
+      "Poster",
+      "UK"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Cearley-Clint",
+    "name": "Cearley, Clint",
+    "imagePath": "/artists/Clint-Cearley.webp",
+    "prompt": "artwork in the style of Cearley, Clint, illustration, Blizzard",
+    "category": [
+      "Illustration",
+      "Blizzard",
+      "DnD",
+      "MTG",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Cecile-Agnes-Silvia-Pelissero",
+    "name": "Cecile, Agnes (Silvia Pelissero)",
+    "imagePath": "/artists/Agnes-Cecile.webp",
+    "prompt": "artwork in the style of Cecile, Agnes (Silvia Pelissero), illustration, painting, watercolor, portrait, Italy",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Watercolor",
+      "Portrait",
+      "Italy"
+    ],
+    "birthYear": 1991,
+    "deathYear": null
+  },
+  {
+    "id": "Chagall-Marc",
+    "name": "Chagall, Marc",
+    "imagePath": "/artists/Marc-Chagall.webp",
+    "prompt": "artwork in the style of Chagall, Marc, painting, Cubism, Expressionism, Belarus",
+    "category": [
+      "Painting",
+      "Cubism",
+      "Expressionism",
+      "Belarus",
+      "France"
+    ],
+    "birthYear": 1887,
+    "deathYear": 1985
+  },
+  {
+    "id": "Chamberlain-John",
+    "name": "Chamberlain, John",
+    "imagePath": "/artists/John_Chamberlain.webp",
+    "prompt": "artwork in the style of Chamberlain, John, sculpture, Pop-Art, USA",
+    "category": [
+      "Sculpture",
+      "Pop-Art",
+      "USA"
+    ],
+    "birthYear": 1927,
+    "deathYear": 2011
+  },
+  {
+    "id": "Chardin-Jean-Simon",
+    "name": "Chardin, Jean Siméon",
+    "imagePath": "/artists/Jean-Simeon-Chardin.webp",
+    "prompt": "artwork in the style of Chardin, Jean Siméon, painting, oil, still life, portrait, 18th Century, France",
+    "category": [
+      "Painting",
+      "Oil",
+      "Still Life",
+      "Portrait",
+      "18th Century",
+      "France"
+    ],
+    "birthYear": 1699,
+    "deathYear": 1779
+  },
+  {
+    "id": "Charest-Travis",
+    "name": "Charest, Travis",
+    "imagePath": "/artists/Travis_Charest.webp",
+    "prompt": "artwork in the style of Charest, Travis, illustration, comic, ink, dc comics, Canada",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Ink",
+      "DC Comics",
+      "Canada"
+    ],
+    "birthYear": 1969,
+    "deathYear": null
+  },
+  {
+    "id": "Chavannes-Pierre-Puvis-de",
+    "name": "Chavannes, Pierre Puvis de",
+    "imagePath": "/artists/Pierre-Puvis-de-Chavannes.webp",
+    "prompt": "artwork in the style of Chavannes, Pierre Puvis de, painting, oil, Symbolism, 19th Century, France",
+    "category": [
+      "Painting",
+      "Oil",
+      "Symbolism",
+      "France",
+      "19th Century"
+    ],
+    "birthYear": 1824,
+    "deathYear": 1898
+  },
+  {
+    "id": "Cheng-Hsiao-Ron-",
+    "name": "Cheng, Hsiao-Ron ",
+    "imagePath": "/artists/Hsiao-Ron-Cheng.webp",
+    "prompt": "artwork in the style of Cheng, Hsiao-Ron , illustration, portrait, Taiwan",
+    "category": [
+      "Illustration",
+      "Portrait",
+      "Taiwan"
+    ],
+    "birthYear": 1986,
+    "deathYear": null
+  },
+  {
+    "id": "Cheng-Yanjun",
+    "name": "Cheng, Yanjun",
+    "imagePath": "/artists/Yanjun-Cheng.webp",
+    "prompt": "artwork in the style of Cheng, Yanjun, illustration, portrait",
+    "category": [
+      "Illustration",
+      "Portrait"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Chermayeff-Ivan",
+    "name": "Chermayeff, Ivan",
+    "imagePath": "/artists/Ivan-Chermayeff.webp",
+    "prompt": "artwork in the style of Chermayeff, Ivan, illustration, Graphic Design",
+    "category": [
+      "Illustration",
+      "Graphic Design",
+      "Logo",
+      "UK",
+      "USA"
+    ],
+    "birthYear": 1932,
+    "deathYear": 2017
+  },
+  {
+    "id": "Cheval-Michael",
+    "name": "Cheval, Michael",
+    "imagePath": "/artists/Michael-Cheval.webp",
+    "prompt": "artwork in the style of Cheval, Michael, painting, oil, Surrealism, portrait, Russia",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Surrealism",
+      "Russia",
+      "USA"
+    ],
+    "birthYear": 1966,
+    "deathYear": null
+  },
+  {
+    "id": "Chevrier-Sandra",
+    "name": "Chevrier, Sandra",
+    "imagePath": "/artists/Sandra-Chevrier.webp",
+    "prompt": "artwork in the style of Chevrier, Sandra, painting, acrylic, portrait, Canada",
+    "category": [
+      "Painting",
+      "Acrylic",
+      "Portrait",
+      "Canada"
+    ],
+    "birthYear": 1983,
+    "deathYear": null
+  },
+  {
+    "id": "Cho-Frank",
+    "name": "Cho, Frank",
+    "imagePath": "/artists/Frank-Cho.webp",
+    "prompt": "artwork in the style of Cho, Frank, illustration, comic, dc comics, Marvel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "Cover Art",
+      "South Korea",
+      "USA"
+    ],
+    "birthYear": 1971,
+    "deathYear": null
+  },
+  {
+    "id": "Christensen-James-C",
+    "name": "Christensen, James C.",
+    "imagePath": "/artists/James-C-Christensen.webp",
+    "prompt": "artwork in the style of Christensen, James C., illustration, painting, oil, mythology, fantasy, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Mythology",
+      "Fantasy",
+      "USA"
+    ],
+    "birthYear": 1942,
+    "deathYear": 2017
+  },
+  {
+    "id": "Cimabue-Cenni-di-Pepo",
+    "name": "Cimabue (Cenni di Pepo)",
+    "imagePath": "/artists/Cimabue.webp",
+    "prompt": "artwork in the style of Cimabue (Cenni di Pepo), painting, tempera, portrait, mythology, 13th Century, Italy",
+    "category": [
+      "Painting",
+      "Tempera",
+      "Portrait",
+      "Mythology",
+      "Italy",
+      "13th Century"
+    ],
+    "birthYear": 1240,
+    "deathYear": 1302
+  },
+  {
+    "id": "Ciurlionis-Mikalojus",
+    "name": "Ciurlionis, Mikalojus",
+    "imagePath": "/artists/Mikalojus-Ciurlionis.webp",
+    "prompt": "artwork in the style of Ciurlionis, Mikalojus, painting, Symbolism, 19th Century, Lithuania",
+    "category": [
+      "Painting",
+      "Symbolism",
+      "Lithuania",
+      "19th Century"
+    ],
+    "birthYear": 1875,
+    "deathYear": 1911
+  },
+  {
+    "id": "Clarke-Harry",
+    "name": "Clarke, Harry",
+    "imagePath": "/artists/Harry-Clarke.webp",
+    "prompt": "artwork in the style of Clarke, Harry, illustration, Stained Glass",
+    "category": [
+      "Illustration",
+      "Stained Glass",
+      "Ireland"
+    ],
+    "birthYear": 1889,
+    "deathYear": 1931
+  },
+  {
+    "id": "Clive-Henry",
+    "name": "Clive, Henry",
+    "imagePath": "/artists/Henry-Clive.webp",
+    "prompt": "artwork in the style of Clive, Henry, illustration, portrait, Australia",
+    "category": [
+      "Illustration",
+      "Cover Art",
+      "Portrait",
+      "Australia",
+      "USA"
+    ],
+    "birthYear": 1883,
+    "deathYear": 1960
+  },
+  {
+    "id": "Cloonan-Becky",
+    "name": "Cloonan, Becky",
+    "imagePath": "/artists/Becky_Cloonan.webp",
+    "prompt": "artwork in the style of Cloonan, Becky, comic, dc comics, USA",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "B&W",
+      "USA"
+    ],
+    "birthYear": 1980,
+    "deathYear": null
+  },
+  {
+    "id": "Cobb-Ron",
+    "name": "Cobb, Ron",
+    "imagePath": "/artists/Ron-Cobb.webp",
+    "prompt": "artwork in the style of Cobb, Ron, illustration, concept art, USA",
+    "category": [
+      "Illustration",
+      "Character Design",
+      "Concept Art",
+      "USA"
+    ],
+    "birthYear": 1937,
+    "deathYear": 2020
+  },
+  {
+    "id": "Coburn-Alvin-Langdon",
+    "name": "Coburn, Alvin Langdon",
+    "imagePath": "/artists/Alvin-Langdon-Coburn.webp",
+    "prompt": "artwork in the style of Coburn, Alvin Langdon, photography, portrait, USA",
+    "category": [
+      "Photography",
+      "Portrait",
+      "B&W",
+      "USA"
+    ],
+    "birthYear": 1882,
+    "deathYear": 1966
+  },
+  {
+    "id": "Cold-Chris",
+    "name": "Cold, Chris",
+    "imagePath": "/artists/Chris-Cold.webp",
+    "prompt": "artwork in the style of Cold, Chris, illustration, concept art, Spain",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Game Art",
+      "Spain"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Conder-Charles-Edward",
+    "name": "Conder, Charles Edward",
+    "imagePath": "/artists/Charles-Conder.webp",
+    "prompt": "artwork in the style of Conder, Charles Edward, painting, oil, Impressionism, landscape, portrait, 19th Century, UK",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Portrait",
+      "Impressionism",
+      "UK",
+      "19th Century"
+    ],
+    "birthYear": 1868,
+    "deathYear": 1909
+  },
+  {
+    "id": "Condo-George",
+    "name": "Condo, George",
+    "imagePath": "/artists/George-Condo.webp",
+    "prompt": "artwork in the style of Condo, George, painting, oil, Cubism, portrait, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Cubism",
+      "USA"
+    ],
+    "birthYear": 1957,
+    "deathYear": null
+  },
+  {
+    "id": "Constable-John",
+    "name": "Constable, John",
+    "imagePath": "/artists/John-Constable.webp",
+    "prompt": "artwork in the style of Constable, John, painting, oil, landscape, 18th Century, UK",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "UK",
+      "18th Century"
+    ],
+    "birthYear": 1776,
+    "deathYear": 1837
+  },
+  {
+    "id": "Coomber-Yvonne",
+    "name": "Coomber, Yvonne",
+    "imagePath": "/artists/Yvonne-Coomber.webp",
+    "prompt": "artwork in the style of Coomber, Yvonne, painting, oil, botanical, UK",
+    "category": [
+      "Painting",
+      "Oil",
+      "Botanical",
+      "UK"
+    ],
+    "birthYear": 1964,
+    "deathYear": null
+  },
+  {
+    "id": "Corben-Richard",
+    "name": "Corben, Richard",
+    "imagePath": "/artists/Richard-Corben.webp",
+    "prompt": "artwork in the style of Corben, Richard, comic, dc comics, horror, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "Horror",
+      "USA"
+    ],
+    "birthYear": 1940,
+    "deathYear": 2020
+  },
+  {
+    "id": "Corfield-Paul",
+    "name": "Corfield, Paul",
+    "imagePath": "/artists/Paul-Corfield.webp",
+    "prompt": "artwork in the style of Corfield, Paul, painting, landscape, UK",
+    "category": [
+      "Painting",
+      "Landscape",
+      "UK"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Corot-Jean-Baptiste-Camille",
+    "name": "Corot, Jean-Baptiste Camille",
+    "imagePath": "/artists/Jean-Baptiste-Camille-Corot.webp",
+    "prompt": "artwork in the style of Corot, Jean-Baptiste Camille, painting, oil, Realism, landscape, 18th Century, France",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Realism",
+      "France",
+      "18th Century"
+    ],
+    "birthYear": 1796,
+    "deathYear": 1875
+  },
+  {
+    "id": "Coss-Shawn",
+    "name": "Coss, Shawn",
+    "imagePath": "/artists/Shawn-Coss.webp",
+    "prompt": "artwork in the style of Coss, Shawn, illustration, USA",
+    "category": [
+      "Illustration",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Cossa-Francesco-del",
+    "name": "Cossa, Francesco del",
+    "imagePath": "/artists/Francesco-del-Cossa.webp",
+    "prompt": "artwork in the style of Cossa, Francesco del, painting, oil, portrait, mythology, 15th Century, Italy",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Mythology",
+      "Italy",
+      "15th Century"
+    ],
+    "birthYear": 1430,
+    "deathYear": 1478
+  },
+  {
+    "id": "Crane-Walter",
+    "name": "Crane, Walter",
+    "imagePath": "/artists/Walter-Crane.webp",
+    "prompt": "artwork in the style of Crane, Walter, illustration, painting, Art Nouveau, 19th Century, Children's Book",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Art Nouveau",
+      "Children's Book",
+      "UK",
+      "19th Century"
+    ],
+    "birthYear": 1845,
+    "deathYear": 1915
+  },
+  {
+    "id": "Crepax-Guido",
+    "name": "Crepax, Guido",
+    "imagePath": "/artists/Guido-Crepax.webp",
+    "prompt": "artwork in the style of Crepax, Guido, illustration, comic, Graphic Novel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Graphic Novel",
+      "Cover Art",
+      "Nudity",
+      "B&W",
+      "Italy"
+    ],
+    "birthYear": 1933,
+    "deathYear": 2003
+  },
+  {
+    "id": "Crewdson-Gregory",
+    "name": "Crewdson, Gregory",
+    "imagePath": "/artists/Gregory-Crewdson.webp",
+    "prompt": "artwork in the style of Crewdson, Gregory, photography, Realism, portrait, USA",
+    "category": [
+      "Photography",
+      "Portrait",
+      "Realism",
+      "USA"
+    ],
+    "birthYear": 1962,
+    "deathYear": null
+  },
+  {
+    "id": "Criswell-Debbie",
+    "name": "Criswell, Debbie",
+    "imagePath": "/artists/Debbie-Criswell.webp",
+    "prompt": "artwork in the style of Criswell, Debbie, painting, USA",
+    "category": [
+      "Painting",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Crosby-Njideka-Akunyili",
+    "name": "Crosby, Njideka Akunyili",
+    "imagePath": "/artists/Njideka-Akunyili-Crosby.webp",
+    "prompt": "artwork in the style of Crosby, Njideka Akunyili, painting, oil, acrylic, pastels, portrait, Collage",
+    "category": [
+      "Painting",
+      "Oil",
+      "Acrylic",
+      "Pastels",
+      "Collage",
+      "Portrait",
+      "Nigeria",
+      "USA"
+    ],
+    "birthYear": 1983,
+    "deathYear": null
+  },
+  {
+    "id": "Cross-Henri-Edmond",
+    "name": "Cross, Henri Edmond",
+    "imagePath": "/artists/Henri-Edmond-Cross.webp",
+    "prompt": "artwork in the style of Cross, Henri Edmond, painting, oil, watercolor, landscape, 19th Century, Pointillism",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Landscape",
+      "Pointillism",
+      "France",
+      "19th Century"
+    ],
+    "birthYear": 1856,
+    "deathYear": 1910
+  },
+  {
+    "id": "Crcy-Nicolas-de",
+    "name": "Crécy, Nicolas de",
+    "imagePath": "/artists/Nicolas-de-Crecy.webp",
+    "prompt": "artwork in the style of Crécy, Nicolas de, comic, Disney",
+    "category": [
+      "Comic",
+      "Disney",
+      "France"
+    ],
+    "birthYear": 1966,
+    "deathYear": null
+  },
+  {
+    "id": "Currin-John",
+    "name": "Currin, John",
+    "imagePath": "/artists/John-Currin.webp",
+    "prompt": "artwork in the style of Currin, John, painting, oil, portrait, Nudity",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Nudity",
+      "USA"
+    ],
+    "birthYear": 1962,
+    "deathYear": null
+  },
+  {
+    "id": "Czanne-Paul",
+    "name": "Cézanne, Paul",
+    "imagePath": "/artists/Paul-Cezanne.webp",
+    "prompt": "artwork in the style of Cézanne, Paul, painting, oil, Cubism, Impressionism, landscape, portrait, 19th Century, France",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Portrait",
+      "Cubism",
+      "Impressionism",
+      "France",
+      "19th Century"
+    ],
+    "birthYear": 1839,
+    "deathYear": 1906
+  }
+]

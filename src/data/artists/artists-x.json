@@ -1,0 +1,15 @@
+[
+  {
+    "id": "Xu-Zhelong",
+    "name": "Xu, Zhelong",
+    "imagePath": "/artists/Zhelong-Xu.webp",
+    "prompt": "artwork in the style of Xu, Zhelong, illustration, 3D",
+    "category": [
+      "Illustration",
+      "3D",
+      "China"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  }
+]

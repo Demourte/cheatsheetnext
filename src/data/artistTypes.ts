@@ -8,4 +8,7 @@ export interface Artist {
   birthYear?: number | null;
   deathYear?: number | null;
   notes?: string;
+  // Extended fields for form handling
+  firstName?: string;
+  lastName?: string;
 }
