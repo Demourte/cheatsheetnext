@@ -7,6 +7,7 @@ import Footer from "@/app/common/components/Footer";
 import { useSearchParams } from "next/navigation";
 import AboutContent from "./components/AboutContent";
 import ManageArtistsContent from "./components/ManageArtistsContent";
+import { isPublicDeployment } from "@/app/lib/utils/isPublic";
 
 function SettingsContent() {
   const searchParams = useSearchParams();
@@ -41,22 +42,24 @@ function SettingsContent() {
             <ul className="menu menu-vertical w-full p-0">
               <li>
                 <button 
-                  className={activeTab === "about" ? "active" : ""}
-                  onClick={() => setActiveTab("about")}
+                  className={`flex items-center gap-2 ${activeTab === 'about' ? 'active' : ''}`}
+                  onClick={() => setActiveTab('about')}
                 >
                   <Info size={18} />
                   About
                 </button>
               </li>
-              <li>
-                <button 
-                  className={activeTab === "artists" ? "active" : ""}
-                  onClick={() => setActiveTab("artists")}
-                >
-                  <Users size={18} />
-                  Manage Artists
-                </button>
-              </li>
+              {!isPublicDeployment() && (
+                <li>
+                  <button 
+                    className={`flex items-center gap-2 ${activeTab === 'artists' ? 'active' : ''}`}
+                    onClick={() => setActiveTab('artists')}
+                  >
+                    <Users size={18} />
+                    Manage Artists
+                  </button>
+                </li>
+              )}
             </ul>
           </div>
           
