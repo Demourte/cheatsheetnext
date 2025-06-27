@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { Sparkles, Copy, RefreshCw } from "lucide-react";
-import { useToast } from "@/app/common/components/Toast";
+import { useToast } from "@/app/common/components/ToastProvider";
 
 interface PromptElement {
   category: string;
@@ -13,7 +13,7 @@ export default function PromptGenerator() {
   const [generatedPrompt, setGeneratedPrompt] = useState<string>("");
   const [selectedModel, setSelectedModel] = useState<string>("sdxl");
   const [isLoading, setIsLoading] = useState(false);
-  const { showToast, ToastContainer } = useToast();
+  const { showToast } = useToast();
   
   // Prompt building blocks for different models
   const promptElements: Record<string, PromptElement[]> = {
@@ -363,9 +363,6 @@ export default function PromptGenerator() {
           </button>
         </div>
       )}
-      
-      {/* Toast Container */}
-      <ToastContainer />
     </div>
   );
 }
