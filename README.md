@@ -1,4 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Stable Diffusion Cheatsheet
+
+A comprehensive reference application for Stable Diffusion users, rebuilt with Next.js, TypeScript, Tailwind CSS, and DaisyUI.
+
+## About
+
+This project is a modern reimplementation of the [original Stable Diffusion Cheatsheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) using Next.js. It provides a comprehensive reference for artists and creators working with AI image generation models.
+
+### Features
+
+- **Artist Styles**: Over 700 manually tested artist styles with example images
+- **Metadata Viewer**: Extract and view Stable Diffusion metadata from images
+- **Media Examples**: Reference examples for different art media types
+- **Dimensions Calculator**: Calculate optimal image dimensions for different aspect ratios
+- **Art History**: Reference for art history periods, artists, and mediums
+- **Search & Filter**: Find specific styles or artists quickly
+- **Offline Capability**: Works offline as a reference tool
+
+## Technologies
+
+- [Next.js](https://nextjs.org) - React framework
+- [TypeScript](https://www.typescriptlang.org/) - Type safety
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS
+- [DaisyUI](https://daisyui.com/) - Tailwind CSS component library
+- [Lucide Icons](https://lucide.dev/) - Beautiful SVG icons
 
 ## Getting Started
 
@@ -16,21 +40,38 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+/
+├── public/          # Static assets
+├── src/
+│   ├── app/         # Next.js App Router
+│   │   ├── about/   # About page
+│   │   ├── metadata/# Metadata viewer page
+│   │   └── notes/   # Notes and examples page
+│   ├── components/  # React components
+│   └── styles/      # Global styles
+└── package.json     # Project dependencies
+```
 
-## Learn More
+## Components
 
-To learn more about Next.js, take a look at the following resources:
+- **Navbar**: Navigation bar with links to main sections
+- **ArtistCard**: Displays artist style information with copyable prompts
+- **MetadataViewer**: Drag-and-drop interface for extracting image metadata
+- **MediaExamples**: Displays categorized prompt examples
+- **DimensionsCalculator**: Calculates image dimensions based on aspect ratios
+- **ArtHistory**: Collapsible sections for art history periods
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Roadmap
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Add full dataset of artist styles
+- Implement actual metadata extraction using ExifReader
+- Add SDXL-specific features
+- Add Flux-specific features
+- Implement offline storage capabilities
 
-## Deploy on Vercel
+## Credits
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Based on the original [Stable Diffusion Cheatsheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) by SupaGruen.
