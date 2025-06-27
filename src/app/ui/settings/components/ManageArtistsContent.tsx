@@ -1,12 +1,12 @@
 "use client";
 
-import { useState, useEffect } from "react";
-import { Plus, Trash2, Edit } from "lucide-react";
+import { useState, useEffect, useRef, useCallback } from "react";
+import { Plus, Trash2, Edit, Search, X } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Artist } from "@/app/lib/data/artistTypes";
 import ConfirmationModal from "@/app/common/components/ConfirmationModal";
-import { useToast } from "@/app/common/components/Toast";
+import { useToast } from "@/app/common/components/ToastProvider";
 
 export default function ManageArtistsContent() {
   const [artists, setArtists] = useState<Artist[]>([]);
@@ -14,10 +14,21 @@ export default function ManageArtistsContent() {
   const [error, setError] = useState<string | null>(null);
   const [selectedLetter, setSelectedLetter] = useState<string | null>(null);
   const [searchTerm, setSearchTerm] = useState("");
+  const [debouncedSearchTerm, setDebouncedSearchTerm] = useState("");
   const [isDeleteModalOpen, setIsDeleteModalOpen] = useState(false);
   const [artistToDelete, setArtistToDelete] = useState<string | null>(null);
+  const searchInputRef = useRef<HTMLInputElement>(null);
   const router = useRouter();
-  const { showToast, ToastContainer } = useToast();
+  const { showToast } = useToast();
+  
+  // Debounce search term to avoid excessive filtering
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setDebouncedSearchTerm(searchTerm);
+    }, 300);
+    
+    return () => clearTimeout(timer);
+  }, [searchTerm]);
 
   // Load artists on component mount
   useEffect(() => {
@@ -78,13 +89,39 @@ export default function ManageArtistsContent() {
     }
   };
 
-  // Filter artists based on search term and selected letter
+  // Get unique first letters for the alphabet filter
+  const getUniqueFirstLetters = useCallback(() => {
+    const letters = new Set<string>();
+    artists.forEach(artist => {
+      if (artist.name && artist.name.length > 0) {
+        letters.add(artist.name.charAt(0).toUpperCase());
+      }
+    });
+    return Array.from(letters).sort();
+  }, [artists]);
+  
+  // Filter artists based on debounced search term and selected letter
   const filteredArtists = artists
-    .filter(artist => 
-      (searchTerm === "" || artist.name.toLowerCase().includes(searchTerm.toLowerCase())) &&
-      (selectedLetter === null || artist.name.charAt(0).toUpperCase() === selectedLetter)
-    )
+    .filter(artist => {
+      // Search term filter (case insensitive)
+      const matchesSearch = debouncedSearchTerm === "" || 
+        artist.name.toLowerCase().includes(debouncedSearchTerm.toLowerCase());
+      
+      // Letter filter
+      const matchesLetter = selectedLetter === null || 
+        artist.name.charAt(0).toUpperCase() === selectedLetter;
+        
+      return matchesSearch && matchesLetter;
+    })
     .sort((a, b) => a.name.localeCompare(b.name));
+    
+  // Clear search input
+  const clearSearch = () => {
+    setSearchTerm("");
+    if (searchInputRef.current) {
+      searchInputRef.current.focus();
+    }
+  };
 
   return (
     <div className="p-6">
@@ -103,27 +140,42 @@ export default function ManageArtistsContent() {
       )}
       
       {/* Search and filter */}
-      <div className="flex flex-col md:flex-row gap-4 mb-6">
-        <div className="form-control flex-1">
-          <div className="input-group">
+      <div className="flex flex-col gap-4 mb-6">
+        {/* Enhanced search bar */}
+        <div className="form-control w-full">
+          <div className="relative">
+            <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
+              <Search size={18} className="text-gray-500" />
+            </div>
             <input 
+              ref={searchInputRef}
               type="text" 
-              placeholder="Search artists..." 
-              className="input input-bordered w-full" 
+              placeholder="Search artists by name..." 
+              className="input input-bordered w-full pl-10 pr-10" 
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
             />
+            {searchTerm && (
+              <button 
+                className="absolute inset-y-0 right-0 flex items-center pr-3"
+                onClick={clearSearch}
+                aria-label="Clear search"
+              >
+                <X size={18} className="text-gray-500 hover:text-gray-700" />
+              </button>
+            )}
           </div>
         </div>
         
-        <div className="flex flex-wrap gap-1">
+        {/* Alphabet filter - only show letters that have artists */}
+        <div className="flex flex-wrap gap-1 justify-center">
           <button 
             className={`btn btn-sm ${selectedLetter === null ? 'btn-primary' : 'btn-outline'}`}
             onClick={() => setSelectedLetter(null)}
           >
             All
           </button>
-          {Array.from("ABCDEFGHIJKLMNOPQRSTUVWXYZ").map(letter => (
+          {getUniqueFirstLetters().map(letter => (
             <button 
               key={letter}
               className={`btn btn-sm ${selectedLetter === letter ? 'btn-primary' : 'btn-outline'}`}
@@ -215,9 +267,6 @@ export default function ManageArtistsContent() {
         onCancel={() => setIsDeleteModalOpen(false)}
         variant="danger"
       />
-      
-      {/* Toast Container */}
-      <ToastContainer />
     </div>
   );
 }

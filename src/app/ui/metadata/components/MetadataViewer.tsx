@@ -163,7 +163,7 @@ export default function MetadataViewer() {
         }
         
         // If we have raw text but couldn't parse it as JSON, try a more aggressive approach
-        if (comfyRawText && !comfyData) {
+        if (comfyRawText) {
           try {
             // Look for clip_name pattern in the raw text
             const clipNameMatch = comfyRawText.match(/"clip_name"\s*:\s*"([^"]+)"/i);
@@ -177,6 +177,89 @@ export default function MetadataViewer() {
             if (modelMatch && modelMatch[1]) {
               extractedMetadata["Model"] = modelMatch[1];
               foundSDMetadata = true;
+            }
+            
+            // Look for ckpt_name pattern (SDXL models)
+            const ckptMatch = comfyRawText.match(/"ckpt_name"\s*:\s*"([^"]+)"/i);
+            if (ckptMatch && ckptMatch[1]) {
+              extractedMetadata["Model"] = ckptMatch[1].trim();
+              foundSDMetadata = true;
+            }
+            
+            // Look for flux/flux pattern
+            const fluxPatterns = [
+              /"flux\/flux[^"]*"/i,
+              /"filename_prefix"\s*:\s*"flux\/flux[^"]*"/i,
+              /"images"\s*:\s*\[\s*"flux[^"]*"/i,
+              /"flux\/[^"]*_turbo[^"]*"/i,
+              /"flux\/[^"]*_safetensors"/i,
+              /"model_name"\s*:\s*"([^"]+)"/i,
+              /"sd_model_name"\s*:\s*"([^"]+)"/i,
+              /"sd_model_checkpoint"\s*:\s*"([^"]+)"/i
+            ];
+            
+            for (const pattern of fluxPatterns) {
+              const match = comfyRawText.match(pattern);
+              if (match && match[0]) {
+                // Extract just the model name part
+                let modelName;
+                
+                // If we have a capture group, use that
+                if (match[1]) {
+                  modelName = match[1].trim();
+                } else {
+                  modelName = match[0].replace(/"/g, '').trim();
+                  
+                  // Clean up the model name
+                  if (modelName.includes(':')) {
+                    modelName = modelName.split(':')[1].trim();
+                  }
+                  if (modelName.includes('flux/')) {
+                    modelName = modelName.split('flux/')[1].trim();
+                  }
+                }
+                
+                if (!extractedMetadata["Model"]) {
+                  extractedMetadata["Model"] = modelName;
+                }
+                foundSDMetadata = true;
+                break;
+              }
+            }
+            
+            // Look for clip patterns
+            const clipPatterns = [
+              /"flux\/clip[^"]*"/i,
+              /"clip_name"\s*:\s*"[^"]*"/i,
+              /"flux\/[^"]*clip[^"]*"/i
+            ];
+            
+            for (const pattern of clipPatterns) {
+              const match = comfyRawText.match(pattern);
+              if (match && match[0]) {
+                // Extract just the clip name part
+                let clipName = match[0].replace(/"/g, '').trim();
+                
+                // Clean up the clip name
+                if (clipName.includes(':')) {
+                  clipName = clipName.split(':')[1].trim();
+                }
+                if (clipName.includes('clip_name')) {
+                  clipName = clipName.replace('clip_name', '').replace(':', '').trim();
+                }
+                if (clipName.includes('flux/')) {
+                  clipName = clipName.split('flux/')[1].trim();
+                }
+                
+                extractedMetadata["CLIP Model"] = clipName;
+                foundSDMetadata = true;
+                break;
+              }
+            }
+            
+            // Set generator if we found any ComfyUI patterns
+            if (foundSDMetadata && !extractedMetadata["Generator"]) {
+              extractedMetadata["Generator"] = "ComfyUI";
             }
           } catch (e) {
             console.log("Error with regex extraction:", e);
@@ -276,9 +359,8 @@ export default function MetadataViewer() {
   // Helper function to extract ComfyUI model information directly from metadata
   const extractComfyModelInfo = (data: any, metadata: Record<string, any>) => {
     // Direct extraction of model information from ComfyUI data
-    // This is specifically designed for the format shown in the screenshots
     
-    // Check for direct clip_name field (highlighted in screenshot)
+    // Check for direct clip_name field
     const findModelFields = (obj: any) => {
       if (!obj || typeof obj !== 'object') return;
       
@@ -323,7 +405,7 @@ export default function MetadataViewer() {
     const searchForModelFields = (obj: any, path: string = '') => {
       if (!obj || typeof obj !== 'object') return;
       
-      // Check for direct clip_name field (highlighted in screenshot)
+      // Check for direct clip_name field
       if (obj.clip_name && typeof obj.clip_name === 'string') {
         const clipModel = obj.clip_name.trim();
         if (clipModel && !modelsList.includes(clipModel)) {
@@ -424,8 +506,7 @@ export default function MetadataViewer() {
       // Track all possible models found
       const modelsList: string[] = [];
       
-      // Specialized extraction for the format shown in the screenshot
-      // Look for clip_name fields which were highlighted in the screenshot
+      // Look for clip_name fields
       extractSpecializedModelFields(comfyData, metadata, modelsList);
       
       // First look for prompt in widgets_values (most common location)

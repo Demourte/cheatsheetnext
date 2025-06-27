@@ -1,7 +1,7 @@
 import { Artist } from "@/app/lib/data/artistTypes";
 import Image from "next/image";
 import { useState, useEffect } from "react";
-import { useToast } from "@/app/common/components/Toast";
+import { useToast } from "@/app/common/components/ToastProvider";
 
 interface ArtistCardProps {
   artist: Artist;
@@ -11,7 +11,7 @@ export default function ArtistCard({ artist }: ArtistCardProps) {
   const [isLoaded, setIsLoaded] = useState(false);
   const [isVisible, setIsVisible] = useState(false);
   const [imgSrc, setImgSrc] = useState(artist.imagePath || '/images/placeholder.jpg');
-  const { showToast, ToastContainer } = useToast();
+  const { showToast } = useToast(); // Remove ToastContainer from here
   
   // Use Intersection Observer to detect when card is visible
   useEffect(() => {
@@ -77,7 +77,6 @@ export default function ArtistCard({ artist }: ArtistCardProps) {
             Copy Prompt
           </button>
         </div>
-        <ToastContainer />
       </div>
     </div>
   );
