@@ -1,6 +1,7 @@
 import { Artist } from "@/app/lib/data/artistTypes";
 import Image from "next/image";
 import { useState, useEffect } from "react";
+import { Copy, CheckCircle } from "lucide-react";
 import { useToast } from "@/app/common/components/ToastProvider";
 
 interface ArtistCardProps {
@@ -11,7 +12,8 @@ export default function ArtistCard({ artist }: ArtistCardProps) {
   const [isLoaded, setIsLoaded] = useState(false);
   const [isVisible, setIsVisible] = useState(false);
   const [imgSrc, setImgSrc] = useState(artist.imagePath || '/images/placeholder.jpg');
-  const { showToast } = useToast(); // Remove ToastContainer from here
+  const [copyState, setCopyState] = useState<'idle' | 'copying' | 'copied'>('idle');
+  const { showToast } = useToast();
   
   // Use Intersection Observer to detect when card is visible
   useEffect(() => {
@@ -70,11 +72,49 @@ export default function ArtistCard({ artist }: ArtistCardProps) {
           <button 
             className="btn btn-sm btn-primary btn-outline w-full"
             onClick={() => {
-              navigator.clipboard.writeText(artist.prompt);
-              showToast(`Copied ${artist.name}'s prompt to clipboard`, 'success');
+              // Set to copying state (spinner)
+              setCopyState('copying');
+              
+              // Simulate a small delay for the copy operation
+              setTimeout(() => {
+                navigator.clipboard.writeText(artist.prompt)
+                  .then(() => {
+                    // Set to copied state (check mark)
+                    setCopyState('copied');
+                    showToast(`Copied ${artist.name}'s prompt to clipboard`, 'success');
+                    
+                    // Reset back to idle state after 1.5 seconds
+                    setTimeout(() => {
+                      setCopyState('idle');
+                    }, 1500);
+                  })
+                  .catch(err => {
+                    console.error('Failed to copy text: ', err);
+                    showToast("Failed to copy to clipboard", "error");
+                    setCopyState('idle');
+                  });
+              }, 400); // Small delay to show the spinner
             }}
+            disabled={copyState !== 'idle'}
           >
-            Copy Prompt
+            {copyState === 'idle' && (
+              <>
+                <Copy size={16} className="mr-2" />
+                Copy Prompt
+              </>
+            )}
+            {copyState === 'copying' && (
+              <>
+                <span className="loading loading-spinner loading-xs mr-2"></span>
+                Copying...
+              </>
+            )}
+            {copyState === 'copied' && (
+              <>
+                <CheckCircle size={16} className="mr-2 text-success" />
+                Copied!
+              </>
+            )}
           </button>
         </div>
       </div>

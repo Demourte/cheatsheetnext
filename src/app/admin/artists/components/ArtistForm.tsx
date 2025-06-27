@@ -243,7 +243,7 @@ export default function ArtistForm({
     }
     
     // Remove firstName and lastName from the submitted data
-    const { firstName, lastName, ...submissionData } = formData;
+    const { firstName: _firstName, lastName: _lastName, ...submissionData } = formData;
     
     onSubmit(submissionData);
   };

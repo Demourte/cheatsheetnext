@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, Suspense } from "react";
 import { Settings, Info, Users } from "lucide-react";
 import Navbar from "@/app/common/components/Navbar";
 import Footer from "@/app/common/components/Footer";
@@ -8,7 +8,7 @@ import { useSearchParams } from "next/navigation";
 import AboutContent from "./components/AboutContent";
 import ManageArtistsContent from "./components/ManageArtistsContent";
 
-export default function SettingsPage() {
+function SettingsContent() {
   const searchParams = useSearchParams();
   const tabParam = searchParams.get('tab');
   const [activeTab, setActiveTab] = useState<string>(tabParam === 'artists' ? 'artists' : 'about');
@@ -69,5 +69,17 @@ export default function SettingsPage() {
       
       <Footer />
     </div>
+  );
+}
+
+export default function SettingsPage() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen bg-base-200 flex items-center justify-center">
+        <div className="loading loading-spinner loading-lg"></div>
+      </div>
+    }>
+      <SettingsContent />
+    </Suspense>
   );
 }

@@ -1,9 +1,5 @@
 import fs from 'fs';
 import path from 'path';
-import { fileURLToPath } from 'url';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
 
 const artistsFilePath = path.join(process.cwd(), 'src/app/lib/data/artists.json');
 const categoriesFilePath = path.join(process.cwd(), 'src/app/lib/data/categories.json');
@@ -18,7 +14,7 @@ async function extractCategories() {
     
     fs.writeFileSync(categoriesFilePath, JSON.stringify(uniqueCategories, null, 2));
     
-    console.log(`Successfully extracted ${uniqueCategories.length} unique categories.`);
+    // Successfully extracted categories
     return uniqueCategories;
   } catch (error) {
     console.error('Error extracting categories:', error);
