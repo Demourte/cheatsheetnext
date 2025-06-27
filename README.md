@@ -26,17 +26,48 @@ This project is a modern reimplementation of the [original Stable Diffusion Chea
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+Before you begin, make sure you have the following installed:
 
+- [Node.js](https://nodejs.org/) (v18 or higher recommended)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+- [Git](https://git-scm.com/)
+
+### Quick Start Guide
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Demourte/sdhelper.git
+   cd sdhelper
+   ```
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+4. **Open your browser:**
+   Visit [http://localhost:3000](http://localhost:3000) to view the application.
+
+### Building for Production
+To create an optimized production build:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm run build
+npm start
 ```
+
+### First-Time Setup Notes
+- If you are new to Node.js, download it from the [official website](https://nodejs.org/).
+- The `npm install` command downloads all required packages (this may take a few minutes).
+- Use `Ctrl+C` in the terminal to stop the development server at any time.
+- The application will automatically reload when you make code changes.
+
+### Troubleshooting
+- **Node.js version issues:** Use [nvm](https://github.com/nvm-sh/nvm) to manage Node versions.
+- **Dependency installation errors:** Try deleting the `node_modules` folder and `package-lock.json` file, then run `npm install` again.
+- **Port conflicts:** Change the port by editing `package.json` scripts, e.g., `"dev": "next dev -p 3001"`.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
