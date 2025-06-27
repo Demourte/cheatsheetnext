@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, Suspense } from "react";
 import Navbar from "@/app/common/components/Navbar";
 import DimensionsCalculator from "./components/DimensionsCalculator";
 import PromptGenerator from "./components/PromptGenerator";
@@ -9,7 +9,7 @@ import Footer from "@/app/common/components/Footer";
 import { Calculator, Sparkles, LayoutGrid } from "lucide-react";
 import { useSearchParams } from "next/navigation";
 
-export default function UtilitiesPage() {
+function UtilitiesContent() {
   const searchParams = useSearchParams();
   const tabParam = searchParams.get('tab');
   const [activeTab, setActiveTab] = useState<string>(tabParam || "dimensions");
@@ -68,6 +68,20 @@ export default function UtilitiesPage() {
       </main>
       
       <Footer />
+    </div>
+  );
+}
+
+export default function UtilitiesPage() {
+  return (
+    <div className="min-h-screen bg-base-200">
+      <Suspense fallback={
+        <div className="min-h-screen bg-base-200 flex items-center justify-center">
+          <div className="loading loading-spinner loading-lg"></div>
+        </div>
+      }>
+        <UtilitiesContent />
+      </Suspense>
     </div>
   );
 }
