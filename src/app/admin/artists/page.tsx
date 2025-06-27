@@ -1,8 +1,8 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { Artist } from "@/data/artistTypes";
-import Navbar from "@/components/Navbar";
+import { Artist } from "@/app/lib/data/artistTypes";
+import Navbar from "@/app/common/components/Navbar";
 import { useRouter } from "next/navigation";
 
 export default function ArtistAdmin() {

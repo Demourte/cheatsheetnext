@@ -1,0 +1,223 @@
+"use client";
+
+import { useState, useEffect } from "react";
+import { Plus, Trash2, Edit } from "lucide-react";
+import Link from "next/link";
+import { useRouter } from "next/navigation";
+import { Artist } from "@/app/lib/data/artistTypes";
+import ConfirmationModal from "@/app/common/components/ConfirmationModal";
+import { useToast } from "@/app/common/components/Toast";
+
+export default function ManageArtistsContent() {
+  const [artists, setArtists] = useState<Artist[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+  const [selectedLetter, setSelectedLetter] = useState<string | null>(null);
+  const [searchTerm, setSearchTerm] = useState("");
+  const [isDeleteModalOpen, setIsDeleteModalOpen] = useState(false);
+  const [artistToDelete, setArtistToDelete] = useState<string | null>(null);
+  const router = useRouter();
+  const { showToast, ToastContainer } = useToast();
+
+  // Load artists on component mount
+  useEffect(() => {
+    fetchArtists();
+  }, []);
+
+  // Fetch artists from API
+  const fetchArtists = async () => {
+    setLoading(true);
+    try {
+      const response = await fetch("/api/artists");
+      
+      if (!response.ok) {
+        throw new Error("Failed to fetch artists");
+      }
+      
+      const data = await response.json();
+      setArtists(data);
+      setError(null);
+    } catch (err) {
+      setError("Error loading artists: " + (err instanceof Error ? err.message : String(err)));
+    } finally {
+      setLoading(false);
+    }
+  };
+  
+  // Show delete confirmation modal
+  const confirmDelete = (id: string) => {
+    setArtistToDelete(id);
+    setIsDeleteModalOpen(true);
+  };
+  
+  // Delete an artist
+  const deleteArtist = async () => {
+    if (!artistToDelete) return;
+    
+    try {
+      const response = await fetch(`/api/artists/${artistToDelete}`, {
+        method: "DELETE",
+      });
+      
+      if (!response.ok) {
+        throw new Error("Failed to delete artist");
+      }
+      
+      // Remove from local state
+      setArtists(artists.filter(artist => artist.id !== artistToDelete));
+      
+      // Show success toast
+      showToast("Artist deleted successfully", "success");
+    } catch (err) {
+      setError("Error deleting artist: " + (err instanceof Error ? err.message : String(err)));
+      showToast("Failed to delete artist", "error");
+    } finally {
+      // Close modal and reset state
+      setIsDeleteModalOpen(false);
+      setArtistToDelete(null);
+    }
+  };
+
+  // Filter artists based on search term and selected letter
+  const filteredArtists = artists
+    .filter(artist => 
+      (searchTerm === "" || artist.name.toLowerCase().includes(searchTerm.toLowerCase())) &&
+      (selectedLetter === null || artist.name.charAt(0).toUpperCase() === selectedLetter)
+    )
+    .sort((a, b) => a.name.localeCompare(b.name));
+
+  return (
+    <div className="p-6">
+      <div className="flex justify-between items-center mb-6">
+        <h2 className="text-2xl font-bold">Manage Artists</h2>
+        <Link href="/admin/artists/new" className="btn btn-primary btn-sm">
+          <Plus size={16} className="mr-1" />
+          Add New Artist
+        </Link>
+      </div>
+      
+      {error && (
+        <div className="alert alert-error mb-4">
+          <span>{error}</span>
+        </div>
+      )}
+      
+      {/* Search and filter */}
+      <div className="flex flex-col md:flex-row gap-4 mb-6">
+        <div className="form-control flex-1">
+          <div className="input-group">
+            <input 
+              type="text" 
+              placeholder="Search artists..." 
+              className="input input-bordered w-full" 
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+            />
+          </div>
+        </div>
+        
+        <div className="flex flex-wrap gap-1">
+          <button 
+            className={`btn btn-sm ${selectedLetter === null ? 'btn-primary' : 'btn-outline'}`}
+            onClick={() => setSelectedLetter(null)}
+          >
+            All
+          </button>
+          {Array.from("ABCDEFGHIJKLMNOPQRSTUVWXYZ").map(letter => (
+            <button 
+              key={letter}
+              className={`btn btn-sm ${selectedLetter === letter ? 'btn-primary' : 'btn-outline'}`}
+              onClick={() => setSelectedLetter(letter)}
+            >
+              {letter}
+            </button>
+          ))}
+        </div>
+      </div>
+      
+      {/* Artists table */}
+      {loading ? (
+        <div className="flex justify-center items-center py-12">
+          <span className="loading loading-spinner loading-lg"></span>
+        </div>
+      ) : (
+        <>
+          <div className="overflow-x-auto">
+            <table className="table table-zebra w-full">
+              <thead>
+                <tr>
+                  <th>Name</th>
+                  <th>Categories</th>
+                  <th>Actions</th>
+                </tr>
+              </thead>
+              <tbody>
+                {filteredArtists.length > 0 ? (
+                  filteredArtists.map(artist => (
+                    <tr key={artist.id}>
+                      <td>{artist.name}</td>
+                      <td>
+                        <div className="flex flex-wrap gap-1">
+                          {artist.category.slice(0, 3).map(cat => (
+                            <span key={cat} className="badge badge-sm">{cat}</span>
+                          ))}
+                          {artist.category.length > 3 && (
+                            <span className="badge badge-sm">+{artist.category.length - 3}</span>
+                          )}
+                        </div>
+                      </td>
+                      <td>
+                        <div className="flex gap-2">
+                          <button 
+                            className="btn btn-xs btn-outline"
+                            onClick={() => router.push(`/admin/artists/edit/${artist.id}`)}
+                          >
+                            <Edit size={14} className="mr-1" />
+                            Edit
+                          </button>
+                          <button 
+                            className="btn btn-xs btn-error btn-outline"
+                            onClick={() => confirmDelete(artist.id)}
+                          >
+                            <Trash2 size={14} className="mr-1" />
+                            Delete
+                          </button>
+                        </div>
+                      </td>
+                    </tr>
+                  ))
+                ) : (
+                  <tr>
+                    <td colSpan={3} className="text-center py-4">
+                      No artists found
+                    </td>
+                  </tr>
+                )}
+              </tbody>
+            </table>
+          </div>
+          
+          {/* Artist count */}
+          <div className="mt-4 text-sm text-gray-500">
+            Showing {filteredArtists.length} of {artists.length} artists
+          </div>
+        </>
+      )}
+      
+      {/* Confirmation Modal */}
+      <ConfirmationModal
+        isOpen={isDeleteModalOpen}
+        title="Delete Artist"
+        message="Are you sure you want to delete this artist? This action cannot be undone."
+        confirmText="Delete"
+        cancelText="Cancel"
+        onConfirm={deleteArtist}
+        onCancel={() => setIsDeleteModalOpen(false)}
+        variant="danger"
+      />
+      
+      {/* Toast Container */}
+      <ToastContainer />
+    </div>
+  );
+}

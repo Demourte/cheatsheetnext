@@ -2,9 +2,9 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import Navbar from "@/components/Navbar";
-import ArtistForm from "@/components/ArtistForm";
-import { Artist } from "@/data/artistTypes";
+import Navbar from "@/app/common/components/Navbar";
+import ArtistForm from "@/app/admin/artists/components/ArtistForm";
+import { Artist } from "@/app/lib/data/artistTypes";
 
 export default function NewArtistPage() {
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -45,8 +45,10 @@ export default function NewArtistPage() {
       }
       
       // Navigate back to settings page with artists tab active
-      router.push("/settings?tab=artists");
-      router.refresh();
+      // Use replace instead of push for a cleaner navigation history
+      router.replace("/ui/settings?tab=artists");
+      // Force a full refresh to ensure the UI updates
+      window.location.href = "/ui/settings?tab=artists";
     } catch (err) {
       setError("Error creating artist: " + (err instanceof Error ? err.message : String(err)));
       setIsSubmitting(false);
@@ -55,7 +57,8 @@ export default function NewArtistPage() {
   
   // Handle cancel
   const handleCancel = () => {
-    router.push("/settings?tab=artists");
+    // Navigate to settings page with artists tab active
+    window.location.href = "/ui/settings?tab=artists";
   };
   
   return (

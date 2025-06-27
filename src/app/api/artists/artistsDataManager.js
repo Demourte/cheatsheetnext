@@ -2,8 +2,8 @@ import fs from 'fs';
 import path from 'path';
 
 // Base directory for artist data files
-const ARTISTS_DIR = path.join(process.cwd(), 'src/data/artists');
-const ARTISTS_JSON_PATH = path.join(process.cwd(), 'src/data/artists.json');
+// const ARTISTS_DIR = path.join(process.cwd(), 'src/app/lib/data/artists');
+const ARTISTS_JSON_PATH = path.join(process.cwd(), 'src/app/lib/data/artists.json');
 
 /**
  * Get all artists from the main JSON file
