@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Sparkles, Copy, RefreshCw } from "lucide-react";
+import { Sparkles, Copy, RefreshCw, CheckCircle } from "lucide-react";
 import { useToast } from "@/app/common/components/ToastProvider";
 
 interface PromptElement {
@@ -11,8 +11,8 @@ interface PromptElement {
 
 export default function PromptGenerator() {
   const [generatedPrompt, setGeneratedPrompt] = useState<string>("");
-  const [selectedModel, setSelectedModel] = useState<string>("sdxl");
   const [isLoading, setIsLoading] = useState(false);
+  const [copyState, setCopyState] = useState<'idle' | 'copying' | 'copied'>('idle');
   const { showToast } = useToast();
   
   // Prompt building blocks for different models
@@ -231,7 +231,7 @@ export default function PromptGenerator() {
     // Add a small delay to show loading state
     setTimeout(() => {
       let prompt = "";
-      const elements = promptElements[selectedModel];
+      const elements = promptElements["sdxl"];
       
       // Shuffle the elements array
       const shuffledElements = [...elements].sort(() => Math.random() - 0.5);
@@ -302,8 +302,28 @@ export default function PromptGenerator() {
   const copyToClipboard = () => {
     if (!generatedPrompt) return;
     
-    navigator.clipboard.writeText(generatedPrompt);
-    showToast("Prompt copied to clipboard", "success");
+    // Set to copying state (spinner)
+    setCopyState('copying');
+    
+    // Simulate a small delay for the copy operation
+    setTimeout(() => {
+      navigator.clipboard.writeText(generatedPrompt)
+        .then(() => {
+          // Set to copied state (check mark)
+          setCopyState('copied');
+          showToast("Prompt copied to clipboard", "success");
+          
+          // Reset back to idle state after 1.5 seconds
+          setTimeout(() => {
+            setCopyState('idle');
+          }, 1500);
+        })
+        .catch(err => {
+          console.error('Failed to copy text: ', err);
+          showToast("Failed to copy to clipboard", "error");
+          setCopyState('idle');
+        });
+    }, 400);
   };
   
   return (
@@ -316,27 +336,6 @@ export default function PromptGenerator() {
       <p className="text-sm mb-4">
         Used as a basic test for different models / capabilities. Might transform this to something more useful in the future.
       </p>
-      
-      <div className="flex flex-wrap gap-2 mb-6">
-        <button 
-          className={`btn ${selectedModel === 'sdxl' ? 'btn-primary' : 'btn-outline'}`}
-          onClick={() => setSelectedModel('sdxl')}
-        >
-          SDXL
-        </button>
-        <button 
-          className={`btn ${selectedModel === 'flux' ? 'btn-primary' : 'btn-outline'}`}
-          onClick={() => setSelectedModel('flux')}
-        >
-          Flux
-        </button>
-        <button 
-          className={`btn ${selectedModel === 'hidream' ? 'btn-primary' : 'btn-outline'}`}
-          onClick={() => setSelectedModel('hidream')}
-        >
-          HiDream
-        </button>
-      </div>
       
       <button 
         className={`btn btn-primary mb-6 ${isLoading ? 'loading' : ''}`}
@@ -358,8 +357,11 @@ export default function PromptGenerator() {
             className="btn btn-sm btn-circle absolute top-2 right-2"
             onClick={copyToClipboard}
             aria-label="Copy to clipboard"
+            disabled={copyState !== 'idle'}
           >
-            <Copy size={16} />
+            {copyState === 'idle' && <Copy size={16} />}
+            {copyState === 'copying' && <span className="loading loading-spinner loading-xs"></span>}
+            {copyState === 'copied' && <CheckCircle size={16} className="text-success" />}
           </button>
         </div>
       )}

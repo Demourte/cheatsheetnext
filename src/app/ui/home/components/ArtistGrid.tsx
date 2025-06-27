@@ -1,8 +1,9 @@
 import { Artist } from "@/app/lib/data/artistTypes";
 import ArtistCard from "./ArtistCard";
 import Image from "next/image";
-import { List, AlertCircle, Copy } from "lucide-react";
+import { List, AlertCircle, Copy, CheckCircle } from "lucide-react";
 import { useToast } from "@/app/common/components/ToastProvider";
+import { useState } from "react";
 
 interface ArtistGridProps {
   artists: Artist[];
@@ -18,10 +19,33 @@ export default function ArtistGrid({
   viewMode
 }: ArtistGridProps) {
   const { showToast } = useToast();
+  const [copyingArtistId, setCopyingArtistId] = useState<string | null>(null);
+  const [copiedArtistId, setCopiedArtistId] = useState<string | null>(null);
   
   const copyPrompt = (artist: Artist) => {
-    navigator.clipboard.writeText(artist.prompt);
-    showToast(`Copied ${artist.name}'s prompt to clipboard`, 'success');
+    // Set copying state
+    setCopyingArtistId(artist.id);
+    
+    // Simulate a small delay for the copy operation
+    setTimeout(() => {
+      navigator.clipboard.writeText(artist.prompt)
+        .then(() => {
+          // Set copied state
+          setCopyingArtistId(null);
+          setCopiedArtistId(artist.id);
+          showToast(`Copied ${artist.name}'s prompt to clipboard`, 'success');
+          
+          // Reset back to idle state after 1.5 seconds
+          setTimeout(() => {
+            setCopiedArtistId(null);
+          }, 1500);
+        })
+        .catch(err => {
+          console.error('Failed to copy text: ', err);
+          showToast("Failed to copy to clipboard", "error");
+          setCopyingArtistId(null);
+        });
+    }, 400); // Small delay to show the spinner
   };
   // If no artists match the filters
   if (artists.length === 0) {
@@ -93,8 +117,17 @@ export default function ArtistGrid({
                       className="btn btn-sm btn-outline btn-primary" 
                       onClick={() => copyPrompt(artist)}
                       title="Copy prompt"
+                      disabled={copyingArtistId === artist.id || copiedArtistId === artist.id}
                     >
-                      <Copy size={16} />
+                      {copyingArtistId === artist.id && (
+                        <span className="loading loading-spinner loading-xs"></span>
+                      )}
+                      {copiedArtistId === artist.id && (
+                        <CheckCircle size={16} className="text-success" />
+                      )}
+                      {copyingArtistId !== artist.id && copiedArtistId !== artist.id && (
+                        <Copy size={16} />
+                      )}
                     </button>
                   </td>
                 </tr>
