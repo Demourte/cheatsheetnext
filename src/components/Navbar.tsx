@@ -1,8 +1,9 @@
 "use client";
 
-import { Menu, X, Sun, Moon, Palette } from "lucide-react";
+import { Menu, X, Sun, Moon, Palette, Settings } from "lucide-react";
 import Link from "next/link";
 import { useState, useEffect } from "react";
+
 
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -37,13 +38,14 @@ export default function Navbar() {
             <li><Link href="/" className="font-medium">Styles</Link></li>
             <li><Link href="/metadata" className="font-medium">Metadata</Link></li>
             <li><Link href="/utilities" className="font-medium">Utilities</Link></li>
-            <li><Link href="/about" className="font-medium">About</Link></li>
           </ul>
         </div>
         <Link href="/" className="btn btn-ghost normal-case text-xl">
           <Palette size={20} className="mr-2" />
-          <span className="hidden sm:inline">SD Cheatsheet</span>
-          <span className="sm:hidden">SD</span>
+          <span className="hidden sm:inline">
+            <span className="font-bold text-primary">Cheatsheet</span><span className="font-light">Next</span>
+          </span>
+          <span className="sm:hidden font-bold text-primary">CnX</span>
         </Link>
       </div>
       
@@ -52,11 +54,14 @@ export default function Navbar() {
           <li><Link href="/" className="font-medium hover:bg-base-200 rounded-lg">Styles</Link></li>
           <li><Link href="/metadata" className="font-medium hover:bg-base-200 rounded-lg">Metadata</Link></li>
           <li><Link href="/utilities" className="font-medium hover:bg-base-200 rounded-lg">Utilities</Link></li>
-          <li><Link href="/about" className="font-medium hover:bg-base-200 rounded-lg">About</Link></li>
         </ul>
       </div>
       
       <div className="navbar-end gap-2">
+        <Link href="/settings" className="btn btn-sm btn-ghost md:btn-outline">
+          <Settings size={16} />
+          <span className="hidden">Settings</span>
+        </Link>
         <button 
           className="btn btn-circle btn-ghost" 
           onClick={toggleTheme}

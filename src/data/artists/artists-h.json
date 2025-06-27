@@ -1,0 +1,602 @@
+[
+  {
+    "id": "Hacker-Arthur",
+    "name": "Hacker, Arthur",
+    "imagePath": "/artists/Arthur-Hacker.webp",
+    "prompt": "artwork in the style of Hacker, Arthur, painting, oil, portrait, 19th Century, UK",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "UK",
+      "19th Century"
+    ],
+    "birthYear": 1858,
+    "deathYear": 1919
+  },
+  {
+    "id": "Haeckel-Ernst",
+    "name": "Haeckel, Ernst",
+    "imagePath": "/artists/Ernst-Haeckel.webp",
+    "prompt": "artwork in the style of Haeckel, Ernst, illustration, 19th Century, Germany",
+    "category": [
+      "Illustration",
+      "Germany",
+      "19th Century"
+    ],
+    "birthYear": 1834,
+    "deathYear": 1919
+  },
+  {
+    "id": "Hamilton-Richard",
+    "name": "Hamilton, Richard",
+    "imagePath": "/artists/Richard-Hamilton.webp",
+    "prompt": "artwork in the style of Hamilton, Richard, painting, oil, acrylic, Pop-Art, Collage",
+    "category": [
+      "Painting",
+      "Oil",
+      "Acrylic",
+      "Collage",
+      "Pop-Art",
+      "UK"
+    ],
+    "birthYear": 1922,
+    "deathYear": 2011
+  },
+  {
+    "id": "Hanson-Erin",
+    "name": "Hanson, Erin",
+    "imagePath": "/artists/Erin-Hanson.webp",
+    "prompt": "artwork in the style of Hanson, Erin, painting, oil, landscape, USA",
+    "category": [
+      "Painting",
+      "Landscape",
+      "Oil",
+      "USA"
+    ],
+    "birthYear": 1981,
+    "deathYear": null
+  },
+  {
+    "id": "Hanuka-Tomer",
+    "name": "Hanuka, Tomer",
+    "imagePath": "/artists/Tomer_Hanuka.webp",
+    "prompt": "artwork in the style of Hanuka, Tomer, illustration, Israel",
+    "category": [
+      "Illustration",
+      "Israel"
+    ],
+    "birthYear": 1974,
+    "deathYear": null
+  },
+  {
+    "id": "Hardy-David-A",
+    "name": "Hardy, David A.",
+    "imagePath": "/artists/David-A-Hardy.webp",
+    "prompt": "artwork in the style of Hardy, David A., illustration, painting, sci-fi, landscape, UK",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Sci-Fi",
+      "Cover Art",
+      "Landscape",
+      "UK"
+    ],
+    "birthYear": 1936,
+    "deathYear": null
+  },
+  {
+    "id": "Haring-Keith",
+    "name": "Haring, Keith",
+    "imagePath": "/artists/Keith-Haring.webp",
+    "prompt": "artwork in the style of Haring, Keith, illustration, painting, Pop-Art, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Pop-Art",
+      "USA"
+    ],
+    "birthYear": 1958,
+    "deathYear": 1990
+  },
+  {
+    "id": "Harper-Charley",
+    "name": "Harper, Charley",
+    "imagePath": "/artists/Charley-Harper.webp",
+    "prompt": "artwork in the style of Harper, Charley, illustration, Flat Style",
+    "category": [
+      "Illustration",
+      "Flat Style",
+      "USA"
+    ],
+    "birthYear": 1922,
+    "deathYear": 2007
+  },
+  {
+    "id": "Harrington-Conor",
+    "name": "Harrington, Conor",
+    "imagePath": "/artists/Conor-Harrington.webp",
+    "prompt": "artwork in the style of Harrington, Conor, painting, oil, portrait, Grafitti",
+    "category": [
+      "Painting",
+      "Oil",
+      "Grafitti",
+      "Portrait",
+      "Ireland"
+    ],
+    "birthYear": 1980,
+    "deathYear": null
+  },
+  {
+    "id": "Harris-John",
+    "name": "Harris, John",
+    "imagePath": "/artists/John-Harris.webp",
+    "prompt": "artwork in the style of Harris, John, illustration, painting, sci-fi, UK",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Sci-Fi",
+      "Cover Art",
+      "UK"
+    ],
+    "birthYear": 1948,
+    "deathYear": null
+  },
+  {
+    "id": "Harris-Lawren",
+    "name": "Harris, Lawren",
+    "imagePath": "/artists/Lawren-Harris.webp",
+    "prompt": "artwork in the style of Harris, Lawren, painting, oil, landscape, Canada",
+    "category": [
+      "Painting",
+      "Landscape",
+      "Oil",
+      "Canada"
+    ],
+    "birthYear": 1885,
+    "deathYear": 1970
+  },
+  {
+    "id": "Hasui-Kawase",
+    "name": "Hasui, Kawase",
+    "imagePath": "/artists/Kawase-Hasui.webp",
+    "prompt": "artwork in the style of Hasui, Kawase, illustration, woodcut, Japan",
+    "category": [
+      "Illustration",
+      "Woodcut",
+      "Japan"
+    ],
+    "birthYear": 1883,
+    "deathYear": 1957
+  },
+  {
+    "id": "Hattori-Naoto",
+    "name": "Hattori, Naoto",
+    "imagePath": "/artists/Naoto-Hattori.webp",
+    "prompt": "artwork in the style of Hattori, Naoto, painting, fantasy, Japan",
+    "category": [
+      "Painting",
+      "Fantasy",
+      "Japan"
+    ],
+    "birthYear": 1975,
+    "deathYear": null
+  },
+  {
+    "id": "Heem-Cornelis-de",
+    "name": "Heem, Cornelis de",
+    "imagePath": "/artists/Cornelis-de-Heem.webp",
+    "prompt": "artwork in the style of Heem, Cornelis de, painting, oil, still life, botanical, 17th Century, Netherlands",
+    "category": [
+      "Painting",
+      "Oil",
+      "Still Life",
+      "Botanical",
+      "17th Century",
+      "Netherlands"
+    ],
+    "birthYear": 1631,
+    "deathYear": 1695
+  },
+  {
+    "id": "Heighton-Brent",
+    "name": "Heighton, Brent",
+    "imagePath": "/artists/Brent-Heighton.webp",
+    "prompt": "artwork in the style of Heighton, Brent, illustration, painting, oil, watercolor, cityscape, Canada",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Cityscape",
+      "Canada"
+    ],
+    "birthYear": 1954,
+    "deathYear": null
+  },
+  {
+    "id": "Herrero-Lowell",
+    "name": "Herrero, Lowell",
+    "imagePath": "/artists/Lowell-Herrero.webp",
+    "prompt": "artwork in the style of Herrero, Lowell, painting, oil, Naive Art",
+    "category": [
+      "Painting",
+      "Oil",
+      "Naive Art",
+      "USA"
+    ],
+    "birthYear": 1921,
+    "deathYear": 2015
+  },
+  {
+    "id": "Hess-F-Scott",
+    "name": "Hess, F. Scott",
+    "imagePath": "/artists/F-Scott-Hess.webp",
+    "prompt": "artwork in the style of Hess, F. Scott, painting, oil, Realism, portrait, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Realism",
+      "USA"
+    ],
+    "birthYear": 1955,
+    "deathYear": null
+  },
+  {
+    "id": "Hickman-Stephen",
+    "name": "Hickman, Stephen",
+    "imagePath": "/artists/Stephen-Hickman.webp",
+    "prompt": "artwork in the style of Hickman, Stephen, illustration, fantasy, sci-fi, USA",
+    "category": [
+      "Illustration",
+      "Fantasy",
+      "Sci-Fi",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1949,
+    "deathYear": 2021
+  },
+  {
+    "id": "Hiroshige-Utagawa",
+    "name": "Hiroshige, Utagawa",
+    "imagePath": "/artists/Utagawa-Hiroshige.webp",
+    "prompt": "artwork in the style of Hiroshige, Utagawa, illustration, woodcut, 19th Century, Japan",
+    "category": [
+      "Illustration",
+      "Woodcut",
+      "Japan",
+      "19th Century"
+    ],
+    "birthYear": 1797,
+    "deathYear": 1858
+  },
+  {
+    "id": "Hitch-Bryan",
+    "name": "Hitch, Bryan",
+    "imagePath": "/artists/Bryan-Hitch.webp",
+    "prompt": "artwork in the style of Hitch, Bryan, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "UK"
+    ],
+    "birthYear": 1970,
+    "deathYear": null
+  },
+  {
+    "id": "Hodas-Filip",
+    "name": "Hodas, Filip",
+    "imagePath": "/artists/Filip-Hodas.webp",
+    "prompt": "artwork in the style of Hodas, Filip, landscape, 3D",
+    "category": [
+      "3D",
+      "Landscape",
+      "Czech Republic"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Hokusai-Katsushika-Hokusai",
+    "name": "Hokusai (Katsushika Hokusai)",
+    "imagePath": "/artists/Hokusai.webp",
+    "prompt": "artwork in the style of Hokusai (Katsushika Hokusai), painting, ink, woodblock print, 18th Century, Japan",
+    "category": [
+      "Painting",
+      "Ink",
+      "Woodblock Print",
+      "Japan",
+      "18th Century"
+    ],
+    "birthYear": 1760,
+    "deathYear": 1849
+  },
+  {
+    "id": "Holbein-Ambrosius",
+    "name": "Holbein, Ambrosius",
+    "imagePath": "/artists/Ambrosius-Holbein.webp",
+    "prompt": "artwork in the style of Holbein, Ambrosius, painting, oil, woodcut, portrait, mythology, 16th Century, Germany",
+    "category": [
+      "Painting",
+      "Oil",
+      "Woodcut",
+      "Portrait",
+      "Mythology",
+      "Germany",
+      "16th Century"
+    ],
+    "birthYear": 1494,
+    "deathYear": 1519
+  },
+  {
+    "id": "Holbein-Hans",
+    "name": "Holbein, Hans",
+    "imagePath": "/artists/Hans_Holbein.webp",
+    "prompt": "artwork in the style of Holbein, Hans, painting, oil, portrait, 15th Century, Germany",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Germany",
+      "15th Century"
+    ],
+    "birthYear": 1497,
+    "deathYear": 1543
+  },
+  {
+    "id": "Homer-Winslow",
+    "name": "Homer, Winslow",
+    "imagePath": "/artists/Winslow-Homer.webp",
+    "prompt": "artwork in the style of Homer, Winslow, illustration, painting, oil, Realism, landscape, 19th Century, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Realism",
+      "USA",
+      "19th Century"
+    ],
+    "birthYear": 1836,
+    "deathYear": 1910
+  },
+  {
+    "id": "Hong-Frank",
+    "name": "Hong, Frank",
+    "imagePath": "/artists/Frank-Hong.webp",
+    "prompt": "artwork in the style of Hong, Frank, illustration, concept art, Animation",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Game Art",
+      "Animation",
+      "Canada"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Hooch-Pieter-de",
+    "name": "Hooch, Pieter de",
+    "imagePath": "/artists/Pieter-de-Hooch.webp",
+    "prompt": "artwork in the style of Hooch, Pieter de, painting, oil, portrait, 17th Century, Netherlands",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Netherlands",
+      "17th Century"
+    ],
+    "birthYear": 1629,
+    "deathYear": 1684
+  },
+  {
+    "id": "Hopper-Edward",
+    "name": "Hopper, Edward",
+    "imagePath": "/artists/Edward-Hopper.webp",
+    "prompt": "artwork in the style of Hopper, Edward, painting, oil, Realism, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Realism",
+      "USA"
+    ],
+    "birthYear": 1882,
+    "deathYear": 1967
+  },
+  {
+    "id": "Horkey-Aaron",
+    "name": "Horkey, Aaron",
+    "imagePath": "/artists/Aaron_Horkey.webp",
+    "prompt": "artwork in the style of Horkey, Aaron, illustration, USA",
+    "category": [
+      "Illustration",
+      "B&W",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Horley-Alex",
+    "name": "Horley, Alex",
+    "imagePath": "/artists/Alex_Horley.webp",
+    "prompt": "artwork in the style of Horley, Alex, illustration, comic, dc comics, Nudity",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Nudity",
+      "DC Comics",
+      "Marvel",
+      "Hearthstone",
+      "Cover Art",
+      "Game Art",
+      "USA"
+    ],
+    "birthYear": 1970,
+    "deathYear": null
+  },
+  {
+    "id": "Hornel-Edward-Atkinson",
+    "name": "Hornel, Edward Atkinson",
+    "imagePath": "/artists/Edward-Atkinson-Hornel.webp",
+    "prompt": "artwork in the style of Hornel, Edward Atkinson, painting, oil, portrait, 19th Century, Scotland",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Scotland",
+      "UK",
+      "19th Century"
+    ],
+    "birthYear": 1864,
+    "deathYear": 1933
+  },
+  {
+    "id": "Howe-John",
+    "name": "Howe, John",
+    "imagePath": "/artists/John-Howe.webp",
+    "prompt": "artwork in the style of Howe, John, illustration, concept art, Tolkien",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Tolkien",
+      "Canada"
+    ],
+    "birthYear": 1957,
+    "deathYear": null
+  },
+  {
+    "id": "Hoyland-John",
+    "name": "Hoyland, John",
+    "imagePath": "/artists/John-Hoyland.webp",
+    "prompt": "artwork in the style of Hoyland, John, painting, acrylic, Abstract, UK",
+    "category": [
+      "Painting",
+      "Acrylic",
+      "Abstract",
+      "UK"
+    ],
+    "birthYear": 1934,
+    "deathYear": 2011
+  },
+  {
+    "id": "Hue-Sebastien",
+    "name": "Hue, Sebastien",
+    "imagePath": "/artists/Sebastien-Hue.webp",
+    "prompt": "artwork in the style of Hue, Sebastien, illustration, concept art, France",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "France"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Hughes-Adam",
+    "name": "Hughes, Adam",
+    "imagePath": "/artists/Adam-Hughes.webp",
+    "prompt": "artwork in the style of Hughes, Adam, illustration, comic, dc comics, Marvel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1967,
+    "deathYear": null
+  },
+  {
+    "id": "Hughes-Edward-Robert",
+    "name": "Hughes, Edward Robert",
+    "imagePath": "/artists/Edward-Robert-Hughes.webp",
+    "prompt": "artwork in the style of Hughes, Edward Robert, painting, oil, watercolor, tempera, portrait, UK",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Tempera",
+      "Portrait",
+      "UK"
+    ],
+    "birthYear": 1851,
+    "deathYear": 1914
+  },
+  {
+    "id": "Hurrell-George",
+    "name": "Hurrell, George",
+    "imagePath": "/artists/George-Hurrell.webp",
+    "prompt": "artwork in the style of Hurrell, George, photography, portrait, USA",
+    "category": [
+      "Photography",
+      "Portrait",
+      "B&W",
+      "USA"
+    ],
+    "birthYear": 1904,
+    "deathYear": 1992
+  },
+  {
+    "id": "Hutter-Michael",
+    "name": "Hutter, Michael",
+    "imagePath": "/artists/Michael_Hutter.webp",
+    "prompt": "artwork in the style of Hutter, Michael, illustration, painting, Germany",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Germany"
+    ],
+    "birthYear": 1963,
+    "deathYear": null
+  },
+  {
+    "id": "Huynh-Duy",
+    "name": "Huynh, Duy",
+    "imagePath": "/artists/Duy-Huynh.webp",
+    "prompt": "artwork in the style of Huynh, Duy, painting, acrylic, Surrealism, Vietnam",
+    "category": [
+      "Painting",
+      "Acrylic",
+      "Surrealism",
+      "Vietnam",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Hyde-Catherine",
+    "name": "Hyde, Catherine",
+    "imagePath": "/artists/Catherine-Hyde.webp",
+    "prompt": "artwork in the style of Hyde, Catherine, illustration, USA",
+    "category": [
+      "Illustration",
+      "USA"
+    ],
+    "birthYear": 1955,
+    "deathYear": null
+  },
+  {
+    "id": "Hch-Hannah",
+    "name": "Höch, Hannah",
+    "imagePath": "/artists/Hannah-Hoech.webp",
+    "prompt": "artwork in the style of Höch, Hannah, painting, oil, tempera, watercolor, portrait, Collage",
+    "category": [
+      "Painting",
+      "Oil",
+      "Tempera",
+      "Watercolor",
+      "Collage",
+      "Portrait",
+      "Dada",
+      "Germany"
+    ],
+    "birthYear": 1889,
+    "deathYear": 1978
+  }
+]

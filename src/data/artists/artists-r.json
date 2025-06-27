@@ -1,0 +1,636 @@
+[
+  {
+    "id": "Rackham-Arthur",
+    "name": "Rackham, Arthur",
+    "imagePath": "/artists/Arthur-Rackham.webp",
+    "prompt": "artwork in the style of Rackham, Arthur, illustration, watercolor, ink, Art Nouveau, 19th Century, Children's Book",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Ink",
+      "Children's Book",
+      "Art Nouveau",
+      "UK",
+      "19th Century"
+    ],
+    "birthYear": 1867,
+    "deathYear": 1939
+  },
+  {
+    "id": "Raleigh-Henry-Patrick",
+    "name": "Raleigh, Henry Patrick",
+    "imagePath": "/artists/Henry-Raleigh.webp",
+    "prompt": "artwork in the style of Raleigh, Henry Patrick, illustration, watercolor, Charcoal",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Charcoal",
+      "USA"
+    ],
+    "birthYear": 1880,
+    "deathYear": 1945
+  },
+  {
+    "id": "Ramos-Humberto",
+    "name": "Ramos, Humberto",
+    "imagePath": "/artists/Humberto-Ramos.webp",
+    "prompt": "artwork in the style of Ramos, Humberto, illustration, comic, dc comics, Marvel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "Cover Art",
+      "Mexico"
+    ],
+    "birthYear": 1970,
+    "deathYear": null
+  },
+  {
+    "id": "Rand-Paul",
+    "name": "Rand, Paul",
+    "imagePath": "/artists/Paul-Rand.webp",
+    "prompt": "artwork in the style of Rand, Paul, illustration, Graphic Design",
+    "category": [
+      "Illustration",
+      "Graphic Design",
+      "Logo",
+      "USA"
+    ],
+    "birthYear": 1914,
+    "deathYear": 1996
+  },
+  {
+    "id": "Raphael-Raffaello-Sanzio-da-Urbino",
+    "name": "Raphael (Raffaello Sanzio da Urbino)",
+    "imagePath": "/artists/Raphael-Raffaello-Sanzio-da-Urbino.webp",
+    "prompt": "artwork in the style of Raphael (Raffaello Sanzio da Urbino), painting, oil, portrait, mythology, 15th Century, Italy",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Mythology",
+      "Italy",
+      "15th Century"
+    ],
+    "birthYear": 1483,
+    "deathYear": 1520
+  },
+  {
+    "id": "Rebelka-Jakub",
+    "name": "Rebelka, Jakub",
+    "imagePath": "/artists/Jakub-Rebelka.webp",
+    "prompt": "artwork in the style of Rebelka, Jakub, illustration, concept art, Poland",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Poland"
+    ],
+    "birthYear": 1981,
+    "deathYear": null
+  },
+  {
+    "id": "Redon-Odilon",
+    "name": "Redon, Odilon",
+    "imagePath": "/artists/Odilon-Redon.webp",
+    "prompt": "artwork in the style of Redon, Odilon, painting, Symbolism, 19th Century, France",
+    "category": [
+      "Painting",
+      "Symbolism",
+      "France",
+      "19th Century"
+    ],
+    "birthYear": 1840,
+    "deathYear": 1916
+  },
+  {
+    "id": "Redpath-Anne",
+    "name": "Redpath, Anne",
+    "imagePath": "/artists/Anne-Redpath.webp",
+    "prompt": "artwork in the style of Redpath, Anne, painting, oil, still life, landscape, Scotland",
+    "category": [
+      "Painting",
+      "Oil",
+      "Still Life",
+      "Landscape",
+      "Scotland",
+      "UK"
+    ],
+    "birthYear": 1895,
+    "deathYear": 1965
+  },
+  {
+    "id": "Reiniger-Lotte",
+    "name": "Reiniger, Lotte",
+    "imagePath": "/artists/Lotte-Reiniger.webp",
+    "prompt": "artwork in the style of Reiniger, Lotte, Movie Director",
+    "category": [
+      "Movie Director",
+      "Animation",
+      "Silhouette",
+      "B&W",
+      "Germany"
+    ],
+    "birthYear": 1899,
+    "deathYear": 1981
+  },
+  {
+    "id": "Rembrandt-van-Rijn",
+    "name": "Rembrandt (van Rijn)",
+    "imagePath": "/artists/Rembrandt-van-Rijn.webp",
+    "prompt": "artwork in the style of Rembrandt (van Rijn), painting, oil, Baroque, portrait, 17th Century, Netherlands",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Baroque",
+      "Netherlands",
+      "17th Century"
+    ],
+    "birthYear": 1606,
+    "deathYear": 1669
+  },
+  {
+    "id": "Remnev-Andrey",
+    "name": "Remnev, Andrey",
+    "imagePath": "/artists/Andrey-Remnev.webp",
+    "prompt": "artwork in the style of Remnev, Andrey, painting, oil, portrait, Russia",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Russia"
+    ],
+    "birthYear": 1962,
+    "deathYear": null
+  },
+  {
+    "id": "Renoir-Pierre-Auguste",
+    "name": "Renoir, Pierre-Auguste",
+    "imagePath": "/artists/Pierre-Auguste-Renoir.webp",
+    "prompt": "artwork in the style of Renoir, Pierre-Auguste, painting, oil, Impressionism, portrait, 19th Century, France",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Impressionism",
+      "France",
+      "19th Century"
+    ],
+    "birthYear": 1841,
+    "deathYear": 1919
+  },
+  {
+    "id": "Repin-IlyaIlja",
+    "name": "Repin, Ilya/Ilja",
+    "imagePath": "/artists/Ilya-Repin.webp",
+    "prompt": "artwork in the style of Repin, Ilya/Ilja, painting, oil, portrait, 19th Century, Ukraine",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Ukraine",
+      "19th Century"
+    ],
+    "birthYear": 1844,
+    "deathYear": 1930
+  },
+  {
+    "id": "Retz-Zac",
+    "name": "Retz, Zac",
+    "imagePath": "/artists/Zac-Retz.webp",
+    "prompt": "artwork in the style of Retz, Zac, illustration, concept art, Animation",
+    "category": [
+      "Illustration",
+      "Animation",
+      "Concept Art",
+      "Character Design",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Rhads-Artem-Chebokha",
+    "name": "Rhads (Artem Chebokha)",
+    "imagePath": "/artists/rhads.webp",
+    "prompt": "artwork in the style of Rhads (Artem Chebokha), illustration, landscape, Russia",
+    "category": [
+      "Illustration",
+      "Landscape",
+      "Russia"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Rhead-Louis",
+    "name": "Rhead, Louis",
+    "imagePath": "/artists/Louis-Rhead.webp",
+    "prompt": "artwork in the style of Rhead, Louis, illustration, Art Nouveau, Poster",
+    "category": [
+      "Illustration",
+      "Poster",
+      "Art Nouveau",
+      "B&W",
+      "UK",
+      "USA"
+    ],
+    "birthYear": 1857,
+    "deathYear": 1926
+  },
+  {
+    "id": "Rhodes-Matt",
+    "name": "Rhodes, Matt",
+    "imagePath": "/artists/Matt-Rhodes.webp",
+    "prompt": "artwork in the style of Rhodes, Matt, illustration, concept art, USA",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Game Art",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Rigaud-Hyacinthe",
+    "name": "Rigaud, Hyacinthe",
+    "imagePath": "/artists/Hyacinthe-Rigaud.webp",
+    "prompt": "artwork in the style of Rigaud, Hyacinthe, painting, oil, Baroque, portrait, 17th Century, France",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Baroque",
+      "France",
+      "17th Century"
+    ],
+    "birthYear": 1659,
+    "deathYear": 1743
+  },
+  {
+    "id": "Rikalo-Jovana",
+    "name": "Rikalo, Jovana",
+    "imagePath": "/artists/Jovana-Rikalo.webp",
+    "prompt": "artwork in the style of Rikalo, Jovana, photography, portrait, Serbia",
+    "category": [
+      "Photography",
+      "Portrait",
+      "Serbia"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Ringgold-Faith",
+    "name": "Ringgold, Faith",
+    "imagePath": "/artists/Faith-Ringgold.webp",
+    "prompt": "artwork in the style of Ringgold, Faith, painting, oil, acrylic, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Acrylic",
+      "USA"
+    ],
+    "birthYear": 1930,
+    "deathYear": null
+  },
+  {
+    "id": "Riopelle-Jean-Paul",
+    "name": "Riopelle, Jean-Paul",
+    "imagePath": "/artists/Jean-Paul-Riopelle.webp",
+    "prompt": "artwork in the style of Riopelle, Jean-Paul, painting, oil, Expressionism, Abstract, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Expressionism",
+      "Abstract",
+      "USA"
+    ],
+    "birthYear": 1923,
+    "deathYear": 2002
+  },
+  {
+    "id": "Rivera-Diego",
+    "name": "Rivera, Diego",
+    "imagePath": "/artists/Diego-Rivera.webp",
+    "prompt": "artwork in the style of Rivera, Diego, painting, Realism, portrait, Muralismo",
+    "category": [
+      "Painting",
+      "Portrait",
+      "Muralismo",
+      "Realism",
+      "Mexico"
+    ],
+    "birthYear": 1886,
+    "deathYear": 1957
+  },
+  {
+    "id": "Robbins-Trina",
+    "name": "Robbins, Trina",
+    "imagePath": "/artists/Trina-Robbins.webp",
+    "prompt": "artwork in the style of Robbins, Trina, illustration, comic, dc comics, Marvel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "B&W",
+      "USA"
+    ],
+    "birthYear": 1938,
+    "deathYear": null
+  },
+  {
+    "id": "Robida-Albert",
+    "name": "Robida, Albert",
+    "imagePath": "/artists/Albert-Robida.webp",
+    "prompt": "artwork in the style of Robida, Albert, illustration, painting, 19th Century, Lithography",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Lithography",
+      "France",
+      "19th Century"
+    ],
+    "birthYear": 1948,
+    "deathYear": 1926
+  },
+  {
+    "id": "Robinson-William-Heath",
+    "name": "Robinson, William Heath",
+    "imagePath": "/artists/William-Heath-Robinson.webp",
+    "prompt": "artwork in the style of Robinson, William Heath, illustration, ink, watercolor, Cartoon",
+    "category": [
+      "Illustration",
+      "Ink",
+      "Watercolor",
+      "Cartoon",
+      "USA"
+    ],
+    "birthYear": 1872,
+    "deathYear": 1944
+  },
+  {
+    "id": "Rocha-Andreas",
+    "name": "Rocha, Andreas",
+    "imagePath": "/artists/Andreas-Rocha.webp",
+    "prompt": "artwork in the style of Rocha, Andreas, concept art, fantasy, sci-fi, Portugal",
+    "category": [
+      "Concept Art",
+      "Fantasy",
+      "Sci-Fi",
+      "Portugal"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Rockwell-Norman",
+    "name": "Rockwell, Norman",
+    "imagePath": "/artists/Norman-Rockwell.webp",
+    "prompt": "artwork in the style of Rockwell, Norman, illustration, painting, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1894,
+    "deathYear": 1978
+  },
+  {
+    "id": "Roerich-Nicholas",
+    "name": "Roerich, Nicholas",
+    "imagePath": "/artists/Nicholas-Roerich.webp",
+    "prompt": "artwork in the style of Roerich, Nicholas, painting, tempera, Symbolism, landscape, 19th Century, Russia",
+    "category": [
+      "Painting",
+      "Tempera",
+      "Landscape",
+      "Symbolism",
+      "Russia",
+      "19th Century"
+    ],
+    "birthYear": 1874,
+    "deathYear": 1947
+  },
+  {
+    "id": "Rolando-Cyril",
+    "name": "Rolando, Cyril",
+    "imagePath": "/artists/Cyril-Rolando.webp",
+    "prompt": "artwork in the style of Rolando, Cyril, illustration, France",
+    "category": [
+      "Illustration",
+      "France"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Roset-Conrad",
+    "name": "Roset, Conrad",
+    "imagePath": "/artists/Conrad-Roset.webp",
+    "prompt": "artwork in the style of Roset, Conrad, illustration, painting, ink, watercolor, Spain",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Ink",
+      "Watercolor",
+      "Spain"
+    ],
+    "birthYear": 1984,
+    "deathYear": null
+  },
+  {
+    "id": "Ross-Alex",
+    "name": "Ross, Alex",
+    "imagePath": "/artists/Alex-Ross.webp",
+    "prompt": "artwork in the style of Ross, Alex, painting, gouache, comic, dc comics, Marvel",
+    "category": [
+      "Painting",
+      "Gouache",
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "Poster",
+      "USA"
+    ],
+    "birthYear": 1970,
+    "deathYear": null
+  },
+  {
+    "id": "Rossier-Jessica",
+    "name": "Rossier, Jessica",
+    "imagePath": "/artists/Jessica-Rossier.webp",
+    "prompt": "artwork in the style of Rossier, Jessica, concept art, landscape, France",
+    "category": [
+      "Concept Art",
+      "Landscape",
+      "France"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Rothko-Mark",
+    "name": "Rothko, Mark",
+    "imagePath": "/artists/Mark-Rothko.webp",
+    "prompt": "artwork in the style of Rothko, Mark, painting, oil, Abstract, Expressionism, Russia",
+    "category": [
+      "Painting",
+      "Oil",
+      "Abstract",
+      "Expressionism",
+      "Russia",
+      "USA"
+    ],
+    "birthYear": 1903,
+    "deathYear": 1970
+  },
+  {
+    "id": "Rousseau-Henri",
+    "name": "Rousseau, Henri",
+    "imagePath": "/artists/Henri-Rousseau.webp",
+    "prompt": "artwork in the style of Rousseau, Henri, painting, oil, landscape, botanical, 19th Century, Naive Art",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Botanical",
+      "Naive Art",
+      "France",
+      "19th Century"
+    ],
+    "birthYear": 1844,
+    "deathYear": 1910
+  },
+  {
+    "id": "Roversi-Paolo",
+    "name": "Roversi, Paolo",
+    "imagePath": "/artists/Paolo-Roversi.webp",
+    "prompt": "artwork in the style of Roversi, Paolo, photography, Fashion",
+    "category": [
+      "Photography",
+      "Fashion",
+      "Italy"
+    ],
+    "birthYear": 1947,
+    "deathYear": null
+  },
+  {
+    "id": "Ruas-Joo",
+    "name": "Ruas, João",
+    "imagePath": "/artists/Joao-Ruas.webp",
+    "prompt": "artwork in the style of Ruas, João, illustration, horror, Brazil",
+    "category": [
+      "Illustration",
+      "Horror",
+      "Brazil"
+    ],
+    "birthYear": 1981,
+    "deathYear": null
+  },
+  {
+    "id": "Rubens-Peter-Paul",
+    "name": "Rubens, Peter Paul",
+    "imagePath": "/artists/Peter-Paul-Rubens.webp",
+    "prompt": "artwork in the style of Rubens, Peter Paul, painting, oil, portrait, mythology, 17th Century, Flemish",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Mythology",
+      "Flemish",
+      "17th Century"
+    ],
+    "birthYear": 1577,
+    "deathYear": 1640
+  },
+  {
+    "id": "Rutkowski-Grzegorz-Greg",
+    "name": "Rutkowski, Grzegorz (Greg)",
+    "imagePath": "/artists/Greg-Rutkowski.webp",
+    "prompt": "artwork in the style of Rutkowski, Grzegorz (Greg), illustration, concept art, fantasy, Poland",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Fantasy",
+      "Poland"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Ruysch-Rachel",
+    "name": "Ruysch, Rachel",
+    "imagePath": "/artists/Rachel-Ruysch.webp",
+    "prompt": "artwork in the style of Ruysch, Rachel, painting, oil, still life, botanical, 17th Century, Netherlands",
+    "category": [
+      "Painting",
+      "Oil",
+      "Still Life",
+      "Botanical",
+      "Netherlands",
+      "17th Century"
+    ],
+    "birthYear": 1664,
+    "deathYear": 1750
+  },
+  {
+    "id": "Ryden-Mark",
+    "name": "Ryden, Mark",
+    "imagePath": "/artists/Mark-Ryden.webp",
+    "prompt": "artwork in the style of Ryden, Mark, painting, USA",
+    "category": [
+      "Painting",
+      "USA"
+    ],
+    "birthYear": 1963,
+    "deathYear": null
+  },
+  {
+    "id": "Ryder-Albert-Pinkham",
+    "name": "Ryder, Albert Pinkham",
+    "imagePath": "/artists/Albert-Pinkham-Ryder.webp",
+    "prompt": "artwork in the style of Ryder, Albert Pinkham, painting, oil, landscape, 19th Century, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "USA",
+      "19th Century"
+    ],
+    "birthYear": 1847,
+    "deathYear": 1917
+  },
+  {
+    "id": "Ryohei-Hase",
+    "name": "Ryohei Hase",
+    "imagePath": "/artists/Ryohei-Hase.webp",
+    "prompt": "artwork in the style of Ryohei Hase, illustration, horror, Japan",
+    "category": [
+      "Illustration",
+      "Cover Art",
+      "Horror",
+      "Japan"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Rysselberghe-Tho-van",
+    "name": "Rysselberghe, Théo van",
+    "imagePath": "/artists/Theo-van-Rysselberghe.webp",
+    "prompt": "artwork in the style of Rysselberghe, Théo van, painting, oil, Pointillism",
+    "category": [
+      "Painting",
+      "Oil",
+      "Pointillism",
+      "Belgium"
+    ],
+    "birthYear": 1862,
+    "deathYear": 1926
+  }
+]

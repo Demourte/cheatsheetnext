@@ -1,0 +1,300 @@
+[
+  {
+    "id": "Nagai-Hiroshi",
+    "name": "Nagai, Hiroshi",
+    "imagePath": "/artists/Hiroshi-Nagai.webp",
+    "prompt": "artwork in the style of Nagai, Hiroshi, illustration, landscape, Japan",
+    "category": [
+      "Illustration",
+      "Landscape",
+      "Japan"
+    ],
+    "birthYear": 1947,
+    "deathYear": null
+  },
+  {
+    "id": "Nagai-Kazumasa",
+    "name": "Nagai, Kazumasa",
+    "imagePath": "/artists/Kazumasa-Nagai.webp",
+    "prompt": "artwork in the style of Nagai, Kazumasa, illustration, Graphic Design",
+    "category": [
+      "Illustration",
+      "Graphic Design",
+      "Poster",
+      "Japan"
+    ],
+    "birthYear": 1929,
+    "deathYear": null
+  },
+  {
+    "id": "Nagel-Patrick",
+    "name": "Nagel, Patrick",
+    "imagePath": "/artists/Patrick-Nagel.webp",
+    "prompt": "artwork in the style of Nagel, Patrick, illustration, painting, portrait, Flat Style",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Cover Art",
+      "Flat Style",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1945,
+    "deathYear": 1984
+  },
+  {
+    "id": "Naismith-Scott",
+    "name": "Naismith, Scott",
+    "imagePath": "/artists/Scott-Naismith.webp",
+    "prompt": "artwork in the style of Naismith, Scott, painting, oil, landscape, Scotland",
+    "category": [
+      "Painting",
+      "Landscape",
+      "Oil",
+      "Scotland",
+      "UK"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Nasmith-Ted",
+    "name": "Nasmith, Ted",
+    "imagePath": "/artists/Ted-Nasmith.webp",
+    "prompt": "artwork in the style of Nasmith, Ted, illustration, concept art, Tolkien",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Tolkien",
+      "Canada"
+    ],
+    "birthYear": 1956,
+    "deathYear": null
+  },
+  {
+    "id": "Nasmyth-Alexander",
+    "name": "Nasmyth, Alexander",
+    "imagePath": "/artists/Alexander-Nasmyth.webp",
+    "prompt": "artwork in the style of Nasmyth, Alexander, painting, oil, landscape, 18th Century, Scotland",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Scotland",
+      "UK",
+      "18th Century"
+    ],
+    "birthYear": 1758,
+    "deathYear": 1840
+  },
+  {
+    "id": "Neel-Alice",
+    "name": "Neel, Alice",
+    "imagePath": "/artists/Alice-Neel.webp",
+    "prompt": "artwork in the style of Neel, Alice, painting, oil, Expressionism, portrait, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Expressionism",
+      "USA"
+    ],
+    "birthYear": 1900,
+    "deathYear": 1984
+  },
+  {
+    "id": "Negley-Keith",
+    "name": "Negley, Keith",
+    "imagePath": "/artists/Keith-Negley.webp",
+    "prompt": "artwork in the style of Negley, Keith, illustration, Flat Style",
+    "category": [
+      "Illustration",
+      "Cover Art",
+      "Flat Style",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Nelson-Kadir",
+    "name": "Nelson, Kadir",
+    "imagePath": "/artists/Kadir-Nelson.webp",
+    "prompt": "artwork in the style of Nelson, Kadir, illustration, painting, portrait, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Portrait",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1974,
+    "deathYear": null
+  },
+  {
+    "id": "Nelson-R-Kenton",
+    "name": "Nelson, R. Kenton",
+    "imagePath": "/artists/R-Kenton-Nelson.webp",
+    "prompt": "artwork in the style of Nelson, R. Kenton, painting, USA",
+    "category": [
+      "Painting",
+      "USA"
+    ],
+    "birthYear": 1954,
+    "deathYear": null
+  },
+  {
+    "id": "Nerdrum-Odd",
+    "name": "Nerdrum, Odd",
+    "imagePath": "/artists/Odd-Nerdrum.webp",
+    "prompt": "artwork in the style of Nerdrum, Odd, painting, oil, portrait, Lithography",
+    "category": [
+      "Painting",
+      "Oil",
+      "Lithography",
+      "Portrait",
+      "Norway"
+    ],
+    "birthYear": 1944,
+    "deathYear": null
+  },
+  {
+    "id": "Newland-Jane",
+    "name": "Newland, Jane",
+    "imagePath": "/artists/jane_newland.webp",
+    "prompt": "artwork in the style of Newland, Jane, illustration, watercolor, Flat Style",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Flat Style",
+      "UK"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Ngai-Victo",
+    "name": "Ngai, Victo",
+    "imagePath": "/artists/Victo-Ngai.webp",
+    "prompt": "artwork in the style of Ngai, Victo, illustration, Children's Book",
+    "category": [
+      "Illustration",
+      "Children's Book",
+      "USA"
+    ],
+    "birthYear": 1988,
+    "deathYear": null
+  },
+  {
+    "id": "Nguyen-Dustin",
+    "name": "Nguyen, Dustin",
+    "imagePath": "/artists/Dustin-Nguyen.webp",
+    "prompt": "artwork in the style of Nguyen, Dustin, comic, dc comics, USA",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "USA"
+    ],
+    "birthYear": 1976,
+    "deathYear": null
+  },
+  {
+    "id": "Nielsen-Kay",
+    "name": "Nielsen, Kay",
+    "imagePath": "/artists/Kay-Nielsen.webp",
+    "prompt": "artwork in the style of Nielsen, Kay, illustration, Disney",
+    "category": [
+      "Illustration",
+      "Disney",
+      "Denmark"
+    ],
+    "birthYear": 1886,
+    "deathYear": 1957
+  },
+  {
+    "id": "Nihei-Tsutomu",
+    "name": "Nihei, Tsutomu",
+    "imagePath": "/artists/Tsutomu-Nihei.webp",
+    "prompt": "artwork in the style of Nihei, Tsutomu, illustration, sci-fi, Manga",
+    "category": [
+      "Illustration",
+      "Manga",
+      "Sci-Fi",
+      "Japan"
+    ],
+    "birthYear": 1971,
+    "deathYear": null
+  },
+  {
+    "id": "Nirasawa-Yasushi",
+    "name": "Nirasawa, Yasushi",
+    "imagePath": "/artists/Yasushi-Nirasawa.webp",
+    "prompt": "artwork in the style of Nirasawa, Yasushi, illustration, Japan",
+    "category": [
+      "Illustration",
+      "Character Design",
+      "Japan"
+    ],
+    "birthYear": 1963,
+    "deathYear": 2016
+  },
+  {
+    "id": "Nizovtsev-Victor",
+    "name": "Nizovtsev, Victor",
+    "imagePath": "/artists/Victor-Nizovtsev.webp",
+    "prompt": "artwork in the style of Nizovtsev, Victor, painting, Russia",
+    "category": [
+      "Painting",
+      "Russia"
+    ],
+    "birthYear": 1965,
+    "deathYear": null
+  },
+  {
+    "id": "Nolin-Catherine",
+    "name": "Nolin, Catherine",
+    "imagePath": "/artists/Catherine-Nolin.webp",
+    "prompt": "artwork in the style of Nolin, Catherine, painting, acrylic, oil, portrait, Interior",
+    "category": [
+      "Painting",
+      "Acrylic",
+      "Oil",
+      "Portrait",
+      "Interior",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Norem-Earl",
+    "name": "Norem, Earl",
+    "imagePath": "/artists/Earl-Norem.webp",
+    "prompt": "artwork in the style of Norem, Earl, illustration, comic, Poster",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Poster",
+      "Cover Art",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1923,
+    "deathYear": 2015
+  },
+  {
+    "id": "North-Marianne",
+    "name": "North, Marianne",
+    "imagePath": "/artists/Marianne-North.webp",
+    "prompt": "artwork in the style of North, Marianne, painting, landscape, botanical, 19th Century, UK",
+    "category": [
+      "Painting",
+      "Landscape",
+      "Botanical",
+      "UK",
+      "19th Century"
+    ],
+    "birthYear": 1830,
+    "deathYear": 1890
+  }
+]

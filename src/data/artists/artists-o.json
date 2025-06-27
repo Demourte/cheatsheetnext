@@ -1,0 +1,126 @@
+[
+  {
+    "id": "Oakley-Thornton",
+    "name": "Oakley, Thornton",
+    "imagePath": "/artists/Thornton-Oakley.webp",
+    "prompt": "artwork in the style of Oakley, Thornton, illustration, gouache, watercolor, Charcoal",
+    "category": [
+      "Illustration",
+      "Charcoal",
+      "Gouache",
+      "Watercolor",
+      "USA"
+    ],
+    "birthYear": 1881,
+    "deathYear": 1953
+  },
+  {
+    "id": "Ofili-Chris",
+    "name": "Ofili, Chris",
+    "imagePath": "/artists/Chris-Ofili.webp",
+    "prompt": "artwork in the style of Ofili, Chris, painting, watercolor, Charcoal",
+    "category": [
+      "Painting",
+      "Watercolor",
+      "Charcoal",
+      "UK"
+    ],
+    "birthYear": 1968,
+    "deathYear": null
+  },
+  {
+    "id": "Ojala-Eiko",
+    "name": "Ojala, Eiko",
+    "imagePath": "/artists/Eiko-Ojala.webp",
+    "prompt": "artwork in the style of Ojala, Eiko, illustration, Flat Style",
+    "category": [
+      "Illustration",
+      "Cover Art",
+      "Flat Style",
+      "Estonia"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Olschinsky-Atelier",
+    "name": "Olschinsky, Atelier",
+    "imagePath": "/artists/Atelier-Olschinsky.webp",
+    "prompt": "artwork in the style of Olschinsky, Atelier, illustration, sci-fi, 3D",
+    "category": [
+      "Illustration",
+      "3D",
+      "Sci-Fi",
+      "Austria"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Oprisco-Oleg",
+    "name": "Oprisco, Oleg",
+    "imagePath": "/artists/Oleg-Oprisco.webp",
+    "prompt": "artwork in the style of Oprisco, Oleg, photography, portrait, Ukraine",
+    "category": [
+      "Photography",
+      "Portrait",
+      "Ukraine"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Otomo-Katsuhiro",
+    "name": "Otomo, Katsuhiro",
+    "imagePath": "/artists/Katsuhiro-Otomo.webp",
+    "prompt": "artwork in the style of Otomo, Katsuhiro, illustration, Manga",
+    "category": [
+      "Illustration",
+      "Manga",
+      "Japan"
+    ],
+    "birthYear": 1954,
+    "deathYear": null
+  },
+  {
+    "id": "Otomo-Shohei",
+    "name": "Otomo, Shohei",
+    "imagePath": "/artists/Shohei-Otomo.webp",
+    "prompt": "artwork in the style of Otomo, Shohei, illustration, ink, Japan",
+    "category": [
+      "Illustration",
+      "Ink",
+      "B&W",
+      "Japan"
+    ],
+    "birthYear": 1980,
+    "deathYear": null
+  },
+  {
+    "id": "Oum-Siya",
+    "name": "Oum, Siya",
+    "imagePath": "/artists/Siya-Oum.webp",
+    "prompt": "artwork in the style of Oum, Siya, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "OKeeffe-Georgia",
+    "name": "O’Keeffe, Georgia",
+    "imagePath": "/artists/Georgia-O-Keeffe.webp",
+    "prompt": "artwork in the style of O’Keeffe, Georgia, painting, oil, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "USA"
+    ],
+    "birthYear": 1887,
+    "deathYear": 1986
+  }
+]

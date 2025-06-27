@@ -1,0 +1,1099 @@
+[
+  {
+    "id": "Bachalo-Chris",
+    "name": "Bachalo, Chris",
+    "imagePath": "/artists/Chris-Bachalo.webp",
+    "prompt": "artwork in the style of Bachalo, Chris, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "B&W",
+      "Canada"
+    ],
+    "birthYear": 1965,
+    "deathYear": null
+  },
+  {
+    "id": "Bachelier-Anne",
+    "name": "Bachelier, Anne",
+    "imagePath": "/artists/Anne-Bachelier.webp",
+    "prompt": "artwork in the style of Bachelier, Anne, illustration, painting, watercolor, Surrealism, France",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Watercolor",
+      "Surrealism",
+      "France"
+    ],
+    "birthYear": 1949,
+    "deathYear": null
+  },
+  {
+    "id": "Bagshaw-Tom",
+    "name": "Bagshaw, Tom",
+    "imagePath": "/artists/Tom-Bagshaw.webp",
+    "prompt": "artwork in the style of Bagshaw, Tom, painting, portrait, UK",
+    "category": [
+      "Painting",
+      "Portrait",
+      "UK"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Bailly-Alice",
+    "name": "Bailly, Alice",
+    "imagePath": "/artists/Alice-Bailly.webp",
+    "prompt": "artwork in the style of Bailly, Alice, painting, oil, tempera, Cubism, portrait, Switzerland",
+    "category": [
+      "Painting",
+      "Oil",
+      "Tempera",
+      "Portrait",
+      "Cubism",
+      "Switzerland"
+    ],
+    "birthYear": 1872,
+    "deathYear": 1938
+  },
+  {
+    "id": "Bak-Karol",
+    "name": "Bak, Karol",
+    "imagePath": "/artists/Karol-Bak.webp",
+    "prompt": "artwork in the style of Bak, Karol, illustration, painting, portrait, Poland",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Portrait",
+      "Poland"
+    ],
+    "birthYear": 1961,
+    "deathYear": null
+  },
+  {
+    "id": "Bakshi-Ralph",
+    "name": "Bakshi, Ralph",
+    "imagePath": "/artists/Ralph-Bakshi.webp",
+    "prompt": "artwork in the style of Bakshi, Ralph, comic, Movie Director",
+    "category": [
+      "Movie Director",
+      "Animation",
+      "Comic",
+      "Palestine",
+      "USA"
+    ],
+    "birthYear": 1938,
+    "deathYear": null
+  },
+  {
+    "id": "Balaskas-Christopher",
+    "name": "Balaskas, Christopher",
+    "imagePath": "/artists/Christopher_Balaskas.webp",
+    "prompt": "artwork in the style of Balaskas, Christopher, concept art, USA",
+    "category": [
+      "Concept Art",
+      "Character Design",
+      "Game Art",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Balivet-Emily",
+    "name": "Balivet, Emily",
+    "imagePath": "/artists/Emily-Balivet.webp",
+    "prompt": "artwork in the style of Balivet, Emily, painting, oil, portrait, mythology, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Mythology",
+      "USA"
+    ],
+    "birthYear": 1973,
+    "deathYear": null
+  },
+  {
+    "id": "Balke-Peder",
+    "name": "Balke, Peder",
+    "imagePath": "/artists/Peder_Balke.webp",
+    "prompt": "artwork in the style of Balke, Peder, painting, oil, landscape, 19th Century, Norway",
+    "category": [
+      "Painting",
+      "Landscape",
+      "Oil",
+      "Norway",
+      "19th Century"
+    ],
+    "birthYear": 1804,
+    "deathYear": 1887
+  },
+  {
+    "id": "Bana-Benedick",
+    "name": "Bana, Benedick",
+    "imagePath": "/artists/Benedick_Bana.webp",
+    "prompt": "artwork in the style of Bana, Benedick, concept art, sci-fi, Philippines",
+    "category": [
+      "Concept Art",
+      "Sci-Fi",
+      "Philippines"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Barbier-George",
+    "name": "Barbier, George",
+    "imagePath": "/artists/George_Barbier.webp",
+    "prompt": "artwork in the style of Barbier, George, illustration, painting, France",
+    "category": [
+      "Illustration",
+      "Painting",
+      "France"
+    ],
+    "birthYear": 1882,
+    "deathYear": 1932
+  },
+  {
+    "id": "Barker-Clive",
+    "name": "Barker, Clive",
+    "imagePath": "/artists/Clive-Barker.webp",
+    "prompt": "artwork in the style of Barker, Clive, painting, horror, fantasy, Author",
+    "category": [
+      "Author",
+      "Painting",
+      "Horror",
+      "Fantasy",
+      "UK"
+    ],
+    "birthYear": 1952,
+    "deathYear": null
+  },
+  {
+    "id": "Barlowe-Wayne",
+    "name": "Barlowe, Wayne",
+    "imagePath": "/artists/Wayne-Barlowe.webp",
+    "prompt": "artwork in the style of Barlowe, Wayne, illustration, painting, concept art, fantasy, sci-fi, horror, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Concept Art",
+      "Fantasy",
+      "Sci-Fi",
+      "Horror",
+      "USA"
+    ],
+    "birthYear": 1958,
+    "deathYear": null
+  },
+  {
+    "id": "Barnes-Ernie",
+    "name": "Barnes, Ernie",
+    "imagePath": "/artists/Ernie-Barnes.webp",
+    "prompt": "artwork in the style of Barnes, Ernie, painting, oil, acrylic, portrait, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Acrylic",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1938,
+    "deathYear": 2009
+  },
+  {
+    "id": "Barnet-Will",
+    "name": "Barnet, Will",
+    "imagePath": "/artists/Will-Barnet.webp",
+    "prompt": "artwork in the style of Barnet, Will, illustration, painting, oil, watercolor, portrait, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1911,
+    "deathYear": 2012
+  },
+  {
+    "id": "Barrett-Angela",
+    "name": "Barrett, Angela",
+    "imagePath": "/artists/Angela-Barrett.webp",
+    "prompt": "artwork in the style of Barrett, Angela, illustration, watercolor, gouache, Children's Book",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Gouache",
+      "Children's Book",
+      "UK"
+    ],
+    "birthYear": 1955,
+    "deathYear": null
+  },
+  {
+    "id": "Barson-Paul",
+    "name": "Barson, Paul",
+    "imagePath": "/artists/Paul-Barson.webp",
+    "prompt": "artwork in the style of Barson, Paul, photography, botanical, USA",
+    "category": [
+      "Photography",
+      "Botanical",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Bartlett-Bo",
+    "name": "Bartlett, Bo",
+    "imagePath": "/artists/Bo-Bartlett.webp",
+    "prompt": "artwork in the style of Bartlett, Bo, painting, oil, Realism, portrait, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Realism",
+      "USA"
+    ],
+    "birthYear": 1955,
+    "deathYear": null
+  },
+  {
+    "id": "Baugh-Casey",
+    "name": "Baugh, Casey",
+    "imagePath": "/artists/Casey-Baugh.webp",
+    "prompt": "artwork in the style of Baugh, Casey, painting, oil, portrait, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1984,
+    "deathYear": null
+  },
+  {
+    "id": "Beal-Gifford",
+    "name": "Beal, Gifford",
+    "imagePath": "/artists/Gifford-Beal.webp",
+    "prompt": "artwork in the style of Beal, Gifford, painting, watercolor, landscape, USA",
+    "category": [
+      "Painting",
+      "Watercolor",
+      "Landscape",
+      "USA"
+    ],
+    "birthYear": 1879,
+    "deathYear": 1956
+  },
+  {
+    "id": "Beardsley-Aubrey",
+    "name": "Beardsley, Aubrey",
+    "imagePath": "/artists/Aubrey_Beardsley.webp",
+    "prompt": "artwork in the style of Beardsley, Aubrey, illustration, UK",
+    "category": [
+      "Illustration",
+      "B&W",
+      "UK"
+    ],
+    "birthYear": 1872,
+    "deathYear": 1898
+  },
+  {
+    "id": "Beatrix-Potter",
+    "name": "Beatrix Potter",
+    "imagePath": "/artists/Beatrix-Potter.webp",
+    "prompt": "artwork in the style of Beatrix Potter, illustration, watercolor, Children's Book",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Children's Book",
+      "UK"
+    ],
+    "birthYear": 1866,
+    "deathYear": 1943
+  },
+  {
+    "id": "Beeple-Mike-Winkelmann",
+    "name": "Beeple (Mike Winkelmann)",
+    "imagePath": "/artists/Beeple.webp",
+    "prompt": "artwork in the style of Beeple (Mike Winkelmann), concept art, sci-fi, USA",
+    "category": [
+      "Concept Art",
+      "Sci-Fi",
+      "USA"
+    ],
+    "birthYear": 1981,
+    "deathYear": null
+  },
+  {
+    "id": "Beksiski-Zdzisaw",
+    "name": "Beksiński, Zdzisław",
+    "imagePath": "/artists/Zdzislaw-Beksinski.webp",
+    "prompt": "artwork in the style of Beksiński, Zdzisław, painting, horror, Poland",
+    "category": [
+      "Painting",
+      "Horror",
+      "Poland"
+    ],
+    "birthYear": 1929,
+    "deathYear": 2005
+  },
+  {
+    "id": "Bellmer-Hans",
+    "name": "Bellmer, Hans",
+    "imagePath": "/artists/Hans-Bellmer.webp",
+    "prompt": "artwork in the style of Bellmer, Hans, photography, Visual Arts",
+    "category": [
+      "Photography",
+      "Visual Arts",
+      "Germany"
+    ],
+    "birthYear": 1902,
+    "deathYear": 1975
+  },
+  {
+    "id": "Bellows-George-Wesley",
+    "name": "Bellows, George Wesley",
+    "imagePath": "/artists/George-Bellows.webp",
+    "prompt": "artwork in the style of Bellows, George Wesley, painting, oil, portrait, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1882,
+    "deathYear": 1925
+  },
+  {
+    "id": "Bemelmans-Ludwig",
+    "name": "Bemelmans, Ludwig",
+    "imagePath": "/artists/Ludwig-Bemelmans.webp",
+    "prompt": "artwork in the style of Bemelmans, Ludwig, illustration, watercolor, gouache, Austria",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Gouache",
+      "Austria",
+      "USA"
+    ],
+    "birthYear": 1898,
+    "deathYear": 1962
+  },
+  {
+    "id": "Benois-Alexandre",
+    "name": "Benois, Alexandre",
+    "imagePath": "/artists/Alexandre-Benois.webp",
+    "prompt": "artwork in the style of Benois, Alexandre, painting, oil, watercolor, Russia",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Russia"
+    ],
+    "birthYear": 1870,
+    "deathYear": 1960
+  },
+  {
+    "id": "Bergey-Earle-K",
+    "name": "Bergey, Earle K.",
+    "imagePath": "/artists/Earle-Bergey.webp",
+    "prompt": "artwork in the style of Bergey, Earle K., illustration, painting, Pin-Ups",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Cover Art",
+      "Pin-Ups",
+      "USA"
+    ],
+    "birthYear": 1901,
+    "deathYear": 1952
+  },
+  {
+    "id": "Berkey-John",
+    "name": "Berkey, John",
+    "imagePath": "/artists/John_Berkey.webp",
+    "prompt": "artwork in the style of Berkey, John, painting, sci-fi, Star Wars",
+    "category": [
+      "Painting",
+      "Sci-Fi",
+      "Star Wars",
+      "USA"
+    ],
+    "birthYear": 1932,
+    "deathYear": 2008
+  },
+  {
+    "id": "Bernini-Gian-Lorenzo",
+    "name": "Bernini, Gian Lorenzo",
+    "imagePath": "/artists/Gian-Lorenzo-Bernini.webp",
+    "prompt": "artwork in the style of Bernini, Gian Lorenzo, sculpture, painting, Baroque, 17th Century, Marble",
+    "category": [
+      "Sculpture",
+      "Marble",
+      "Painting",
+      "Baroque",
+      "Italy",
+      "17th Century"
+    ],
+    "birthYear": 1598,
+    "deathYear": 1680
+  },
+  {
+    "id": "Beskow-Elsa",
+    "name": "Beskow, Elsa",
+    "imagePath": "/artists/Elsa-Beskow.webp",
+    "prompt": "artwork in the style of Beskow, Elsa, illustration, watercolor, Children's Book",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Children's Book",
+      "Cover Art",
+      "Sweden"
+    ],
+    "birthYear": 1874,
+    "deathYear": 1953
+  },
+  {
+    "id": "Bidgood-James",
+    "name": "Bidgood, James",
+    "imagePath": "/artists/James-Bidgood.webp",
+    "prompt": "artwork in the style of Bidgood, James, photography, Movie Director",
+    "category": [
+      "Movie Director",
+      "Photography",
+      "USA"
+    ],
+    "birthYear": 1933,
+    "deathYear": 2022
+  },
+  {
+    "id": "Biernacki-Szymon",
+    "name": "Biernacki, Szymon",
+    "imagePath": "/artists/Szymon-Biernacki.webp",
+    "prompt": "artwork in the style of Biernacki, Szymon, illustration, Animation",
+    "category": [
+      "Illustration",
+      "Animation",
+      "Character Design",
+      "Spain"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Bierstadt-Albert",
+    "name": "Bierstadt, Albert",
+    "imagePath": "/artists/Albert-Bierstadt.webp",
+    "prompt": "artwork in the style of Bierstadt, Albert, painting, oil, landscape, 19th Century, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "USA",
+      "19th Century"
+    ],
+    "birthYear": 1830,
+    "deathYear": 1902
+  },
+  {
+    "id": "Biggers-John-Thomas",
+    "name": "Biggers, John Thomas",
+    "imagePath": "/artists/John-T-Biggers.webp",
+    "prompt": "artwork in the style of Biggers, John Thomas, painting, oil, acrylic, portrait, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Acrylic",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1924,
+    "deathYear": 2001
+  },
+  {
+    "id": "Bilal-Enki",
+    "name": "Bilal, Enki",
+    "imagePath": "/artists/Enki_Bilal.webp",
+    "prompt": "artwork in the style of Bilal, Enki, illustration, comic, France",
+    "category": [
+      "Illustration",
+      "Comic",
+      "France"
+    ],
+    "birthYear": 1951,
+    "deathYear": null
+  },
+  {
+    "id": "Bilibin-Ivan",
+    "name": "Bilibin, Ivan",
+    "imagePath": "/artists/Ivan-Bilibin.webp",
+    "prompt": "artwork in the style of Bilibin, Ivan, illustration, painting, watercolor, ink, gouache, Art Nouveau, Russia",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Watercolor",
+      "Ink",
+      "Gouache",
+      "Art Nouveau",
+      "Russia"
+    ],
+    "birthYear": 1876,
+    "deathYear": 1942
+  },
+  {
+    "id": "Billy-Butcher",
+    "name": "Billy, Butcher",
+    "imagePath": "/artists/Butcher-Billy.webp",
+    "prompt": "artwork in the style of Billy, Butcher, illustration, painting, Brazil",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Cover Art",
+      "Brazil"
+    ],
+    "birthYear": 1978,
+    "deathYear": null
+  },
+  {
+    "id": "Binkley-Ed",
+    "name": "Binkley, Ed",
+    "imagePath": "/artists/Ed-Binkley.webp",
+    "prompt": "artwork in the style of Binkley, Ed, illustration, concept art, fantasy, USA",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Fantasy",
+      "Game Art",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Bischoff-Elmer",
+    "name": "Bischoff, Elmer",
+    "imagePath": "/artists/Elmer-Bischoff.webp",
+    "prompt": "artwork in the style of Bischoff, Elmer, painting, oil, acrylic, portrait, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Acrylic",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1916,
+    "deathYear": 1991
+  },
+  {
+    "id": "Bisley-Simon",
+    "name": "Bisley, Simon",
+    "imagePath": "/artists/Simon_Bisley.webp",
+    "prompt": "artwork in the style of Bisley, Simon, comic, UK",
+    "category": [
+      "Comic",
+      "UK"
+    ],
+    "birthYear": 1962,
+    "deathYear": null
+  },
+  {
+    "id": "Bissell-Robert",
+    "name": "Bissell, Robert",
+    "imagePath": "/artists/Robert-Bissell.webp",
+    "prompt": "artwork in the style of Bissell, Robert, painting, oil, UK",
+    "category": [
+      "Painting",
+      "Oil",
+      "UK"
+    ],
+    "birthYear": 1952,
+    "deathYear": null
+  },
+  {
+    "id": "Blair-Mary",
+    "name": "Blair, Mary",
+    "imagePath": "/artists/Mary-Blair.webp",
+    "prompt": "artwork in the style of Blair, Mary, illustration, Disney",
+    "category": [
+      "Illustration",
+      "Disney",
+      "USA"
+    ],
+    "birthYear": 1911,
+    "deathYear": 1978
+  },
+  {
+    "id": "Blanchard-Antoine",
+    "name": "Blanchard, Antoine",
+    "imagePath": "/artists/Antoine-Blanchard.webp",
+    "prompt": "artwork in the style of Blanchard, Antoine, painting, oil, cityscape, France",
+    "category": [
+      "Painting",
+      "Oil",
+      "Cityscape",
+      "France"
+    ],
+    "birthYear": 1910,
+    "deathYear": 1988
+  },
+  {
+    "id": "Blanche-John",
+    "name": "Blanche, John",
+    "imagePath": "/artists/John-Blanche.webp",
+    "prompt": "artwork in the style of Blanche, John, illustration, fantasy, sci-fi, Warhammer",
+    "category": [
+      "Illustration",
+      "Fantasy",
+      "Sci-Fi",
+      "Warhammer",
+      "UK"
+    ],
+    "birthYear": 1948,
+    "deathYear": null
+  },
+  {
+    "id": "Blandin-Tim",
+    "name": "Blandin, Tim",
+    "imagePath": "/artists/Tim-Blandin.webp",
+    "prompt": "artwork in the style of Blandin, Tim, concept art, sci-fi",
+    "category": [
+      "Concept Art",
+      "Sci-Fi"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Blevins-Neil",
+    "name": "Blevins, Neil",
+    "imagePath": "/artists/Neil-Blevins.webp",
+    "prompt": "artwork in the style of Blevins, Neil, illustration, concept art, sci-fi, USA",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Sci-Fi",
+      "Game Art",
+      "USA"
+    ],
+    "birthYear": 1976,
+    "deathYear": null
+  },
+  {
+    "id": "Boccioni-Umberto",
+    "name": "Boccioni, Umberto",
+    "imagePath": "/artists/Umberto-Boccioni.webp",
+    "prompt": "artwork in the style of Boccioni, Umberto, painting, oil, Futurism, portrait, Italy",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Futurism",
+      "Italy"
+    ],
+    "birthYear": 1882,
+    "deathYear": 1916
+  },
+  {
+    "id": "Bolland-Brian",
+    "name": "Bolland, Brian",
+    "imagePath": "/artists/Brian-Bolland.webp",
+    "prompt": "artwork in the style of Bolland, Brian, illustration, comic, dc comics, UK",
+    "category": [
+      "Illustration",
+      "Comic",
+      "DC Comics",
+      "Cover Art",
+      "UK"
+    ],
+    "birthYear": 1951,
+    "deathYear": null
+  },
+  {
+    "id": "Bonestell-Chesley",
+    "name": "Bonestell, Chesley",
+    "imagePath": "/artists/Chesley-Bonestell.webp",
+    "prompt": "artwork in the style of Bonestell, Chesley, illustration, painting, oil, gouache, sci-fi, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Gouache",
+      "Sci-Fi",
+      "USA"
+    ],
+    "birthYear": 1888,
+    "deathYear": 1986
+  },
+  {
+    "id": "Bonhomme-Olivier",
+    "name": "Bonhomme, Olivier",
+    "imagePath": "/artists/Olivier-Bonhomme.webp",
+    "prompt": "artwork in the style of Bonhomme, Olivier, illustration, France",
+    "category": [
+      "Illustration",
+      "France"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Booth-Franklin",
+    "name": "Booth, Franklin",
+    "imagePath": "/artists/Franklin_Booth.webp",
+    "prompt": "artwork in the style of Booth, Franklin, illustration, watercolor, ink, USA",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Ink",
+      "USA"
+    ],
+    "birthYear": 1874,
+    "deathYear": 1948
+  },
+  {
+    "id": "Bors-Matt",
+    "name": "Bors, Matt",
+    "imagePath": "/artists/Matt-Bors.webp",
+    "prompt": "artwork in the style of Bors, Matt, illustration, comic, USA",
+    "category": [
+      "Illustration",
+      "Comic",
+      "USA"
+    ],
+    "birthYear": 1983,
+    "deathYear": null
+  },
+  {
+    "id": "Bosch-Hieronymus",
+    "name": "Bosch, Hieronymus",
+    "imagePath": "/artists/Hieronymus-Bosch.webp",
+    "prompt": "artwork in the style of Bosch, Hieronymus, painting, oil, 15th Century, Netherlands",
+    "category": [
+      "Painting",
+      "Oil",
+      "Netherlands",
+      "15th Century"
+    ],
+    "birthYear": 1450,
+    "deathYear": 1516
+  },
+  {
+    "id": "Bosma-Sam",
+    "name": "Bosma, Sam",
+    "imagePath": "/artists/Sam-Bosma.webp",
+    "prompt": "artwork in the style of Bosma, Sam, illustration, comic, Graphic Novel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Graphic Novel",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1986,
+    "deathYear": null
+  },
+  {
+    "id": "Bosschaert-Ambrosius-the-Elder",
+    "name": "Bosschaert, Ambrosius (the Elder)",
+    "imagePath": "/artists/Ambrosius-Bosschaert.webp",
+    "prompt": "artwork in the style of Bosschaert, Ambrosius (the Elder), painting, oil, still life, botanical, 17th Century, Flemish",
+    "category": [
+      "Painting",
+      "Oil",
+      "Still Life",
+      "Botanical",
+      "Flemish",
+      "17th Century"
+    ],
+    "birthYear": 1573,
+    "deathYear": 1621
+  },
+  {
+    "id": "Bosschart-Johfra",
+    "name": "Bosschart, Johfra",
+    "imagePath": "/artists/Johfra-Bosschart.webp",
+    "prompt": "artwork in the style of Bosschart, Johfra, illustration, painting, Surrealism, Netherlands",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Surrealism",
+      "Netherlands"
+    ],
+    "birthYear": 1919,
+    "deathYear": 1998
+  },
+  {
+    "id": "Botero",
+    "name": "Botero",
+    "imagePath": "/artists/Botero.webp",
+    "prompt": "artwork in the style of Botero, painting, oil, Colombia",
+    "category": [
+      "Painting",
+      "Oil",
+      "Colombia"
+    ],
+    "birthYear": 1932,
+    "deathYear": null
+  },
+  {
+    "id": "Botticelli-Sandro",
+    "name": "Botticelli, Sandro",
+    "imagePath": "/artists/Sandro-Botticelli.webp",
+    "prompt": "artwork in the style of Botticelli, Sandro, painting, oil, 15th Century, Italy",
+    "category": [
+      "Painting",
+      "Oil",
+      "Italy",
+      "15th Century"
+    ],
+    "birthYear": 1445,
+    "deathYear": 1510
+  },
+  {
+    "id": "Boucher-Franois",
+    "name": "Boucher, François",
+    "imagePath": "/artists/Francois_Boucher.webp",
+    "prompt": "artwork in the style of Boucher, François, painting, illustration, engraving, portrait, 18th Century, Rococo",
+    "category": [
+      "Painting",
+      "Illustration",
+      "Engraving",
+      "Portrait",
+      "Rococo",
+      "France",
+      "18th Century"
+    ],
+    "birthYear": 1703,
+    "deathYear": 1770
+  },
+  {
+    "id": "Bowater-Charlie",
+    "name": "Bowater, Charlie",
+    "imagePath": "/artists/Charlie-Bowater.webp",
+    "prompt": "artwork in the style of Bowater, Charlie, illustration, concept art, portrait, UK",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Portrait",
+      "UK"
+    ],
+    "birthYear": 1988,
+    "deathYear": null
+  },
+  {
+    "id": "Bowers-David-Michael",
+    "name": "Bowers, David Michael",
+    "imagePath": "/artists/David-Michael-Bowers.webp",
+    "prompt": "artwork in the style of Bowers, David Michael, illustration, painting, oil, Surrealism, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Cover Art",
+      "Surrealism",
+      "USA"
+    ],
+    "birthYear": 1956,
+    "deathYear": null
+  },
+  {
+    "id": "Bowling-Frank",
+    "name": "Bowling, Frank",
+    "imagePath": "/artists/Frank-Bowling.webp",
+    "prompt": "artwork in the style of Bowling, Frank, painting, acrylic, Expressionism, UK",
+    "category": [
+      "Painting",
+      "Acrylic",
+      "Expressionism",
+      "UK"
+    ],
+    "birthYear": 1934,
+    "deathYear": null
+  },
+  {
+    "id": "Boys-Thomas-Shotter",
+    "name": "Boys, Thomas Shotter",
+    "imagePath": "/artists/Thomas-Shotter-Boys.webp",
+    "prompt": "artwork in the style of Boys, Thomas Shotter, painting, watercolor, cityscape, UK",
+    "category": [
+      "Painting",
+      "Watercolor",
+      "Cityscape",
+      "UK"
+    ],
+    "birthYear": 1803,
+    "deathYear": 1874
+  },
+  {
+    "id": "Bradley-Noah",
+    "name": "Bradley, Noah",
+    "imagePath": "/artists/Noah_Bradley.webp",
+    "prompt": "artwork in the style of Bradley, Noah, concept art, DnD",
+    "category": [
+      "Concept Art",
+      "DnD",
+      "MTG",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Bramley-Frank",
+    "name": "Bramley, Frank",
+    "imagePath": "/artists/Frank_Bramley.webp",
+    "prompt": "artwork in the style of Bramley, Frank, painting, oil, 19th Century, UK",
+    "category": [
+      "Painting",
+      "Oil",
+      "UK",
+      "19th Century"
+    ],
+    "birthYear": 1857,
+    "deathYear": 1915
+  },
+  {
+    "id": "Bridgman-George-B",
+    "name": "Bridgman, George B.",
+    "imagePath": "/artists/George-B-Bridgman.webp",
+    "prompt": "artwork in the style of Bridgman, George B., painting, landscape, portrait, Canada",
+    "category": [
+      "Painting",
+      "Landscape",
+      "Portrait",
+      "Canada"
+    ],
+    "birthYear": 1864,
+    "deathYear": 1943
+  },
+  {
+    "id": "Briggs-Austin",
+    "name": "Briggs, Austin",
+    "imagePath": "/artists/Austin-Briggs.webp",
+    "prompt": "artwork in the style of Briggs, Austin, illustration, comic, Cartoon",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Cartoon",
+      "USA"
+    ],
+    "birthYear": 1908,
+    "deathYear": 1973
+  },
+  {
+    "id": "Britto-Romero",
+    "name": "Britto, Romero",
+    "imagePath": "/artists/Romero-Britto.webp",
+    "prompt": "artwork in the style of Britto, Romero, painting, acrylic, Pop-Art, Brazil",
+    "category": [
+      "Painting",
+      "Acrylic",
+      "Pop-Art",
+      "Brazil"
+    ],
+    "birthYear": 1963,
+    "deathYear": null
+  },
+  {
+    "id": "Brogan-Glen",
+    "name": "Brogan, Glen",
+    "imagePath": "/artists/Glen-Brogan.webp",
+    "prompt": "artwork in the style of Brogan, Glen, illustration, USA",
+    "category": [
+      "Illustration",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Brom-Gerald",
+    "name": "Brom, Gerald",
+    "imagePath": "/artists/Gerald_Brom.webp",
+    "prompt": "artwork in the style of Brom, Gerald, illustration, fantasy, horror, Gothic",
+    "category": [
+      "Illustration",
+      "Fantasy",
+      "Gothic",
+      "Horror",
+      "USA"
+    ],
+    "birthYear": 1965,
+    "deathYear": null
+  },
+  {
+    "id": "Burne-Jones-Edward",
+    "name": "Burne-Jones, Edward",
+    "imagePath": "/artists/Edward-Burne-Jones.webp",
+    "prompt": "artwork in the style of Burne-Jones, Edward, painting, oil, watercolor, gouache, portrait, mythology, 19th Century, Stained Glass",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Gouache",
+      "Stained Glass",
+      "Portrait",
+      "Mythology",
+      "UK",
+      "19th Century"
+    ],
+    "birthYear": 1833,
+    "deathYear": 1898
+  },
+  {
+    "id": "Burns-Jim",
+    "name": "Burns, Jim",
+    "imagePath": "/artists/Jim-Burns.webp",
+    "prompt": "artwork in the style of Burns, Jim, illustration, painting, acrylic, sci-fi, UK",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Acrylic",
+      "Sci-Fi",
+      "Cover Art",
+      "UK"
+    ],
+    "birthYear": 1948,
+    "deathYear": null
+  },
+  {
+    "id": "Bussire-Gaston",
+    "name": "Bussière, Gaston",
+    "imagePath": "/artists/Gaston-Bussiere.webp",
+    "prompt": "artwork in the style of Bussière, Gaston, illustration, painting, oil, portrait, 19th Century, France",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Portrait",
+      "France",
+      "19th Century"
+    ],
+    "birthYear": 1862,
+    "deathYear": 1928
+  },
+  {
+    "id": "Bcklin-Arnold",
+    "name": "Böcklin, Arnold",
+    "imagePath": "/artists/Arnold-Boecklin.webp",
+    "prompt": "artwork in the style of Böcklin, Arnold, painting, oil, Symbolism, portrait, landscape, 19th Century, Switzerland",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Landscape",
+      "Symbolism",
+      "Switzerland",
+      "19th Century"
+    ],
+    "birthYear": 1827,
+    "deathYear": 1901
+  }
+]

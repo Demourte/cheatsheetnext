@@ -7,8 +7,10 @@ import ArtistGrid from "@/components/ArtistGrid";
 import AlphabetFilter from "@/components/AlphabetFilter";
 import Pagination from "@/components/Pagination";
 import BackToTop from "@/components/BackToTop";
+import Footer from "@/components/Footer";
 import { artists } from "@/data/artists";
 import { filterArtists, getAllCategories } from "@/utils/artistUtils";
+import { Palette } from "lucide-react";
 
 export default function Home() {
   // State for search and filtering
@@ -55,7 +57,12 @@ export default function Home() {
       <BackToTop />
       
       <main className="container mx-auto px-4 py-8">
-        <section className="space-y-6">
+        <div className="flex items-center gap-3 mb-6">
+          <Palette size={28} className="text-primary" />
+          <h1 className="text-2xl font-bold">Artist Styles</h1>
+        </div>
+        
+        <div className="space-y-6">
           {/* Filters and search */}
           <ArtistFilters 
             categories={allCategories}
@@ -104,14 +111,10 @@ export default function Home() {
               totalItems={filteredArtists.length}
             />
           )}
-        </section>
+        </div>
       </main>
       
-      <footer className="footer footer-center p-4 bg-base-300 text-base-content">
-        <div>
-          <p>Stable Diffusion Cheatsheet - A comprehensive reference for AI image generation</p>
-        </div>
-      </footer>
+      <Footer />
     </div>
   );
 }

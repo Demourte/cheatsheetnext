@@ -1,0 +1,681 @@
+[
+  {
+    "id": "Abbey-Edwin-Austin",
+    "name": "Abbey, Edwin Austin",
+    "imagePath": "/artists/Edwin-Austin-Abbey.webp",
+    "prompt": "artwork in the style of Abbey, Edwin Austin, illustration, painting, oil, pastel, ink, 19th Century, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Pastel",
+      "Ink",
+      "USA",
+      "19th Century"
+    ],
+    "birthYear": 1852,
+    "deathYear": 1911
+  },
+  {
+    "id": "Achenbach-Andreas",
+    "name": "Achenbach, Andreas",
+    "imagePath": "/artists/Andreas-Achenbach.webp",
+    "prompt": "artwork in the style of Achenbach, Andreas, painting, oil, landscape, marine, 19th Century, Germany",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Marine",
+      "Germany",
+      "19th Century"
+    ],
+    "birthYear": 1815,
+    "deathYear": 1910
+  },
+  {
+    "id": "Ackroyd-Norman",
+    "name": "Ackroyd, Norman",
+    "imagePath": "/artists/Norman-Ackroyd.webp",
+    "prompt": "artwork in the style of Ackroyd, Norman, landscape, Aquatint",
+    "category": [
+      "Aquatint",
+      "Landscape",
+      "B&W",
+      "UK"
+    ],
+    "birthYear": 1938,
+    "deathYear": null
+  },
+  {
+    "id": "Adams-Ansel",
+    "name": "Adams, Ansel",
+    "imagePath": "/artists/Ansel-Adams.webp",
+    "prompt": "artwork in the style of Adams, Ansel, photography, landscape, USA",
+    "category": [
+      "Photography",
+      "Landscape",
+      "B&W",
+      "USA"
+    ],
+    "birthYear": 1902,
+    "deathYear": 1984
+  },
+  {
+    "id": "Adams-Art-Arthur",
+    "name": "Adams, Art (Arthur)",
+    "imagePath": "/artists/Arthur-Adams.webp",
+    "prompt": "artwork in the style of Adams, Art (Arthur), illustration, comic, dc comics, Marvel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "Cover Art",
+      "B&W",
+      "USA"
+    ],
+    "birthYear": 1963,
+    "deathYear": null
+  },
+  {
+    "id": "Adams-Neal",
+    "name": "Adams, Neal",
+    "imagePath": "/artists/Neal-Adams.webp",
+    "prompt": "artwork in the style of Adams, Neal, illustration, comic, dc comics, Marvel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1941,
+    "deathYear": 2022
+  },
+  {
+    "id": "Adolfsson-Mattias",
+    "name": "Adolfsson, Mattias",
+    "imagePath": "/artists/Mattias_Adolfsson.webp",
+    "prompt": "artwork in the style of Adolfsson, Mattias, illustration, watercolor, ink, Sweden",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Ink",
+      "Sweden"
+    ],
+    "birthYear": 1965,
+    "deathYear": null
+  },
+  {
+    "id": "Aenami-Alena",
+    "name": "Aenami, Alena",
+    "imagePath": "/artists/Alena_Aenami.webp",
+    "prompt": "artwork in the style of Aenami, Alena, illustration, concept art, landscape, Ukraine",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Landscape",
+      "Ukraine"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Afremov-Leonid",
+    "name": "Afremov, Leonid",
+    "imagePath": "/artists/Leonid_Afremov.webp",
+    "prompt": "artwork in the style of Afremov, Leonid, painting, Belarus",
+    "category": [
+      "Painting",
+      "Belarus"
+    ],
+    "birthYear": 1955,
+    "deathYear": 2019
+  },
+  {
+    "id": "Afshar-Petros",
+    "name": "Afshar, Petros",
+    "imagePath": "/artists/Petros-Afshar.webp",
+    "prompt": "artwork in the style of Afshar, Petros, illustration, UK",
+    "category": [
+      "Illustration",
+      "UK"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Aivazovsky-Ivan",
+    "name": "Aivazovsky, Ivan",
+    "imagePath": "/artists/Ivan-Aivazovsky.webp",
+    "prompt": "artwork in the style of Aivazovsky, Ivan, painting, oil, marine, 19th Century, Crimea",
+    "category": [
+      "Painting",
+      "Oil",
+      "Marine",
+      "Crimea",
+      "19th Century"
+    ],
+    "birthYear": 1817,
+    "deathYear": 1900
+  },
+  {
+    "id": "Aja-David",
+    "name": "Aja, David",
+    "imagePath": "/artists/David-Aja.webp",
+    "prompt": "artwork in the style of Aja, David, illustration, comic, Spain",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Cover Art",
+      "Spain"
+    ],
+    "birthYear": 1977,
+    "deathYear": null
+  },
+  {
+    "id": "Albi-Alessio",
+    "name": "Albi, Alessio",
+    "imagePath": "/artists/Alessio-Albi.webp",
+    "prompt": "artwork in the style of Albi, Alessio, photography, portrait, Italy",
+    "category": [
+      "Photography",
+      "Portrait",
+      "Italy"
+    ],
+    "birthYear": 1986,
+    "deathYear": null
+  },
+  {
+    "id": "Albuquerque-Rafael",
+    "name": "Albuquerque, Rafael",
+    "imagePath": "/artists/Rafael_Albuquerque.webp",
+    "prompt": "artwork in the style of Albuquerque, Rafael, comic, dc comics, Brazil",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Brazil"
+    ],
+    "birthYear": 1981,
+    "deathYear": null
+  },
+  {
+    "id": "Aldridge-Miles",
+    "name": "Aldridge, Miles",
+    "imagePath": "/artists/Miles-Aldridge.webp",
+    "prompt": "artwork in the style of Aldridge, Miles, photography, portrait, UK",
+    "category": [
+      "Photography",
+      "Portrait",
+      "UK"
+    ],
+    "birthYear": 1964,
+    "deathYear": null
+  },
+  {
+    "id": "Alizadeh-Shahab",
+    "name": "Alizadeh, Shahab",
+    "imagePath": "/artists/Shahab-Alizadeh.webp",
+    "prompt": "artwork in the style of Alizadeh, Shahab, illustration, concept art, Austria",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Austria"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Allred-Mike",
+    "name": "Allred, Mike",
+    "imagePath": "/artists/Mike_Allred.webp",
+    "prompt": "artwork in the style of Allred, Mike, comic, dc comics, USA",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "USA"
+    ],
+    "birthYear": 1969,
+    "deathYear": null
+  },
+  {
+    "id": "Altdorfer-Albrecht",
+    "name": "Altdorfer, Albrecht",
+    "imagePath": "/artists/Albrecht-Altdorfer.webp",
+    "prompt": "artwork in the style of Altdorfer, Albrecht, painting, oil, engraving, 16th Century, Germany",
+    "category": [
+      "Painting",
+      "Oil",
+      "Engraving",
+      "Germany",
+      "16th Century"
+    ],
+    "birthYear": 1480,
+    "deathYear": 1538
+  },
+  {
+    "id": "Amano-Yoshitaka",
+    "name": "Amano, Yoshitaka",
+    "imagePath": "/artists/Yoshitaka-Amano.webp",
+    "prompt": "artwork in the style of Amano, Yoshitaka, illustration, Japan",
+    "category": [
+      "Illustration",
+      "Character Design",
+      "Game Art",
+      "Japan"
+    ],
+    "birthYear": 1952,
+    "deathYear": null
+  },
+  {
+    "id": "Amaral-Tarsila-do",
+    "name": "Amaral, Tarsila do",
+    "imagePath": "/artists/Tarsila-do-Amaral.webp",
+    "prompt": "artwork in the style of Amaral, Tarsila do, painting, oil, Brazil",
+    "category": [
+      "Painting",
+      "Oil",
+      "Brazil"
+    ],
+    "birthYear": 1886,
+    "deathYear": 1973
+  },
+  {
+    "id": "Amiet-Cuno",
+    "name": "Amiet, Cuno",
+    "imagePath": "/artists/Cuno-Amiet.webp",
+    "prompt": "artwork in the style of Amiet, Cuno, painting, oil, Expressionism, landscape, portrait, Switzerland",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Portrait",
+      "Expressionism",
+      "Switzerland"
+    ],
+    "birthYear": 1868,
+    "deathYear": 1961
+  },
+  {
+    "id": "Amorsolo-Fernando",
+    "name": "Amorsolo, Fernando",
+    "imagePath": "/artists/Fernando-Amorsolo.webp",
+    "prompt": "artwork in the style of Amorsolo, Fernando, painting, oil, portrait, landscape, Philippines",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Landscape",
+      "Philippines"
+    ],
+    "birthYear": 1892,
+    "deathYear": 1972
+  },
+  {
+    "id": "Anacleto-Jay",
+    "name": "Anacleto, Jay",
+    "imagePath": "/artists/Jay-Anacleto.webp",
+    "prompt": "artwork in the style of Anacleto, Jay, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Ancher-Anna",
+    "name": "Ancher, Anna",
+    "imagePath": "/artists/Anna-Ancher.webp",
+    "prompt": "artwork in the style of Ancher, Anna, painting, oil, portrait, 19th Century, Denmark",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Denmark",
+      "19th Century"
+    ],
+    "birthYear": 1859,
+    "deathYear": 1935
+  },
+  {
+    "id": "Anderson-Richard",
+    "name": "Anderson, Richard",
+    "imagePath": "/artists/Richard-Anderson.webp",
+    "prompt": "artwork in the style of Anderson, Richard, illustration, concept art, UK",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Game Art",
+      "UK"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Anderson-Wes",
+    "name": "Anderson, Wes",
+    "imagePath": "/artists/Wes-Anderson.webp",
+    "prompt": "artwork in the style of Anderson, Wes, Movie Director",
+    "category": [
+      "Movie Director",
+      "USA"
+    ],
+    "birthYear": 1969,
+    "deathYear": null
+  },
+  {
+    "id": "Andreev-Alex",
+    "name": "Andreev, Alex",
+    "imagePath": "/artists/Alex-Andreev.webp",
+    "prompt": "artwork in the style of Andreev, Alex, illustration, concept art, Russia",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Russia"
+    ],
+    "birthYear": 1972,
+    "deathYear": null
+  },
+  {
+    "id": "Andrews-Esao",
+    "name": "Andrews, Esao",
+    "imagePath": "/artists/Esao-Andrews.webp",
+    "prompt": "artwork in the style of Andrews, Esao, painting, oil, Surrealism, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Surrealism",
+      "USA"
+    ],
+    "birthYear": 1978,
+    "deathYear": null
+  },
+  {
+    "id": "Ansin-Martin",
+    "name": "Ansin, Martin",
+    "imagePath": "/artists/Martin-Ansin.webp",
+    "prompt": "artwork in the style of Ansin, Martin, illustration, Poster",
+    "category": [
+      "Illustration",
+      "Poster",
+      "B&W",
+      "Uruguay"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Aoshima-Chiho",
+    "name": "Aoshima, Chiho",
+    "imagePath": "/artists/Chiho-Aoshima.webp",
+    "prompt": "artwork in the style of Aoshima, Chiho, illustration, Superflat",
+    "category": [
+      "Illustration",
+      "Superflat",
+      "Japan"
+    ],
+    "birthYear": 1974,
+    "deathYear": null
+  },
+  {
+    "id": "Appel-Karel",
+    "name": "Appel, Karel",
+    "imagePath": "/artists/Karel-Appel.webp",
+    "prompt": "artwork in the style of Appel, Karel, painting, oil, acrylic, Abstract, Netherlands",
+    "category": [
+      "Painting",
+      "Oil",
+      "Acrylic",
+      "Abstract",
+      "Netherlands"
+    ],
+    "birthYear": 1921,
+    "deathYear": 2006
+  },
+  {
+    "id": "Apterus-Sabbas-Peter-Polach",
+    "name": "Apterus, Sabbas (Peter Polach)",
+    "imagePath": "/artists/Sabbas-Apterus.webp",
+    "prompt": "artwork in the style of Apterus, Sabbas (Peter Polach), illustration, concept art, fantasy, horror, Slovakia",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Fantasy",
+      "Horror",
+      "Slovakia"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Archipenko-Alexander",
+    "name": "Archipenko, Alexander",
+    "imagePath": "/artists/Alexander-Archipenko.webp",
+    "prompt": "artwork in the style of Archipenko, Alexander, sculpture, painting, ink, oil, gouache, Cubism, Ukraine",
+    "category": [
+      "Sculpture",
+      "Painting",
+      "Ink",
+      "Oil",
+      "Gouache",
+      "Cubism",
+      "Ukraine",
+      "USA"
+    ],
+    "birthYear": 1887,
+    "deathYear": 1964
+  },
+  {
+    "id": "Arcimboldo-Giuseppe",
+    "name": "Arcimboldo, Giuseppe",
+    "imagePath": "/artists/Giuseppe-Arcimboldo.webp",
+    "prompt": "artwork in the style of Arcimboldo, Giuseppe, painting, oil, still life, botanical, 16th Century, Italy",
+    "category": [
+      "Painting",
+      "Oil",
+      "Still Life",
+      "Botanical",
+      "Italy",
+      "16th Century"
+    ],
+    "birthYear": 1526,
+    "deathYear": 1593
+  },
+  {
+    "id": "Ardon-Mordecai",
+    "name": "Ardon, Mordecai",
+    "imagePath": "/artists/Mordecai-Ardon.webp",
+    "prompt": "artwork in the style of Ardon, Mordecai, painting, oil, Poland",
+    "category": [
+      "Painting",
+      "Oil",
+      "Poland",
+      "Israel"
+    ],
+    "birthYear": 1896,
+    "deathYear": 1992
+  },
+  {
+    "id": "Armstrong-Rolf",
+    "name": "Armstrong, Rolf",
+    "imagePath": "/artists/Rolf-Armstrong.webp",
+    "prompt": "artwork in the style of Armstrong, Rolf, painting, pastel, portrait, Pin-Ups",
+    "category": [
+      "Painting",
+      "Pastel",
+      "Portrait",
+      "Pin-Ups",
+      "Cover Art",
+      "Nudity",
+      "USA"
+    ],
+    "birthYear": 1889,
+    "deathYear": 1960
+  },
+  {
+    "id": "Arnegger-Alois",
+    "name": "Arnegger, Alois",
+    "imagePath": "/artists/Alois-Arnegger.webp",
+    "prompt": "artwork in the style of Arnegger, Alois, painting, oil, landscape, Austria",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Austria"
+    ],
+    "birthYear": 1879,
+    "deathYear": 1963
+  },
+  {
+    "id": "Arntzenius-Floris",
+    "name": "Arntzenius, Floris",
+    "imagePath": "/artists/Floris-Arntzenius.webp",
+    "prompt": "artwork in the style of Arntzenius, Floris, illustration, painting, oil, watercolor, portrait, landscape, 19th Century, Netherlands",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Portrait",
+      "Landscape",
+      "Netherlands",
+      "19th Century"
+    ],
+    "birthYear": 1864,
+    "deathYear": 1925
+  },
+  {
+    "id": "Arrivabene-Agostino",
+    "name": "Arrivabene, Agostino",
+    "imagePath": "/artists/Agostino-Arrivabene.webp",
+    "prompt": "artwork in the style of Arrivabene, Agostino, illustration, painting, oil, ink, Surrealism, Italy",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Ink",
+      "Surrealism",
+      "Italy"
+    ],
+    "birthYear": 1967,
+    "deathYear": null
+  },
+  {
+    "id": "Artgerm-Stanley-Lau",
+    "name": "Artgerm (Stanley Lau)",
+    "imagePath": "/artists/Artgerm.webp",
+    "prompt": "artwork in the style of Artgerm (Stanley Lau), illustration, concept art, dc comics, Marvel",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Marvel",
+      "DC Comics"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Asencio-Henry",
+    "name": "Asencio, Henry",
+    "imagePath": "/artists/Henry_Asencio.webp",
+    "prompt": "artwork in the style of Asencio, Henry, painting, oil, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "USA"
+    ],
+    "birthYear": 1971,
+    "deathYear": null
+  },
+  {
+    "id": "Ast-Balthasar-van-der",
+    "name": "Ast, Balthasar van der",
+    "imagePath": "/artists/Balthasar-van-der-Ast.webp",
+    "prompt": "artwork in the style of Ast, Balthasar van der, painting, oil, still life, botanical, 17th Century",
+    "category": [
+      "Painting",
+      "Still Life",
+      "Oil",
+      "Botanical",
+      "17th Century"
+    ],
+    "birthYear": 1593,
+    "deathYear": 1657
+  },
+  {
+    "id": "Astrup-Nikolai",
+    "name": "Astrup, Nikolai",
+    "imagePath": "/artists/Nikolai-Astrup.webp",
+    "prompt": "artwork in the style of Astrup, Nikolai, painting, woodcut, Norway",
+    "category": [
+      "Painting",
+      "Woodcut",
+      "Norway"
+    ],
+    "birthYear": 1880,
+    "deathYear": 1928
+  },
+  {
+    "id": "Atget-Eugne",
+    "name": "Atget, Eugène",
+    "imagePath": "/artists/Eugene-Atget.webp",
+    "prompt": "artwork in the style of Atget, Eugène, photography, portrait, landscape, 19th Century, France",
+    "category": [
+      "Photography",
+      "Portrait",
+      "Landscape",
+      "B&W",
+      "France",
+      "19th Century"
+    ],
+    "birthYear": 1857,
+    "deathYear": 1927
+  },
+  {
+    "id": "Audubon-John-James",
+    "name": "Audubon, John James",
+    "imagePath": "/artists/John-James-Audubon.webp",
+    "prompt": "artwork in the style of Audubon, John James, illustration, 19th Century, Ornithology",
+    "category": [
+      "Illustration",
+      "Ornithology",
+      "Haiti",
+      "19th Century"
+    ],
+    "birthYear": 1785,
+    "deathYear": 1851
+  },
+  {
+    "id": "Auerbach-Frank",
+    "name": "Auerbach, Frank",
+    "imagePath": "/artists/Frank-Auerbach.webp",
+    "prompt": "artwork in the style of Auerbach, Frank, painting, oil, portrait, UK",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "UK"
+    ],
+    "birthYear": 1931,
+    "deathYear": null
+  },
+  {
+    "id": "Avedon-Richard",
+    "name": "Avedon, Richard",
+    "imagePath": "/artists/Richard-Avedon.webp",
+    "prompt": "artwork in the style of Avedon, Richard, photography, portrait, USA",
+    "category": [
+      "Photography",
+      "Portrait",
+      "B&W",
+      "USA"
+    ],
+    "birthYear": 1923,
+    "deathYear": 2004
+  }
+]

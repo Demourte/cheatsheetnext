@@ -1,0 +1,451 @@
+[
+  {
+    "id": "Wain-Louis",
+    "name": "Wain, Louis",
+    "imagePath": "/artists/Louis-Wain.webp",
+    "prompt": "artwork in the style of Wain, Louis, illustration, painting, ink, watercolor, gouache, 19th Century, Cat",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Ink",
+      "Watercolor",
+      "Gouache",
+      "Cat",
+      "UK",
+      "19th Century"
+    ],
+    "birthYear": 1860,
+    "deathYear": 1939
+  },
+  {
+    "id": "Walala-Camille",
+    "name": "Walala, Camille",
+    "imagePath": "/artists/Camille-Walala.webp",
+    "prompt": "artwork in the style of Walala, Camille, illustration, painting, Visual Arts",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Visual Arts",
+      "Pattern",
+      "France"
+    ],
+    "birthYear": 1975,
+    "deathYear": null
+  },
+  {
+    "id": "Walde-Alfons",
+    "name": "Walde, Alfons",
+    "imagePath": "/artists/Alfons-Walde.webp",
+    "prompt": "artwork in the style of Walde, Alfons, painting, oil, landscape, Austria",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Austria"
+    ],
+    "birthYear": 1891,
+    "deathYear": 1958
+  },
+  {
+    "id": "Wallis-Alfred",
+    "name": "Wallis, Alfred",
+    "imagePath": "/artists/Alfred-Wallis.webp",
+    "prompt": "artwork in the style of Wallis, Alfred, painting, landscape, UK",
+    "category": [
+      "Painting",
+      "Landscape",
+      "UK"
+    ],
+    "birthYear": 1855,
+    "deathYear": 1942
+  },
+  {
+    "id": "Ward-Lynd",
+    "name": "Ward, Lynd",
+    "imagePath": "/artists/Lynd-Ward.webp",
+    "prompt": "artwork in the style of Ward, Lynd, illustration, woodcut, engraving, Author",
+    "category": [
+      "Author",
+      "Illustration",
+      "Children's Book",
+      "Graphic Novel",
+      "Woodcut",
+      "Engraving",
+      "USA"
+    ],
+    "birthYear": 1905,
+    "deathYear": 1985
+  },
+  {
+    "id": "Warhol-Andy",
+    "name": "Warhol, Andy",
+    "imagePath": "/artists/Andy-Warhol.webp",
+    "prompt": "artwork in the style of Warhol, Andy, painting, Pop-Art, USA",
+    "category": [
+      "Painting",
+      "Pop-Art",
+      "USA"
+    ],
+    "birthYear": 1928,
+    "deathYear": 1987
+  },
+  {
+    "id": "Waterhouse-John-William",
+    "name": "Waterhouse, John William",
+    "imagePath": "/artists/John-William-Waterhouse.webp",
+    "prompt": "artwork in the style of Waterhouse, John William, painting, oil, portrait, 19th Century, UK",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "UK",
+      "19th Century"
+    ],
+    "birthYear": 1849,
+    "deathYear": 1917
+  },
+  {
+    "id": "Watteau-Jean-Antoine",
+    "name": "Watteau, Jean-Antoine",
+    "imagePath": "/artists/Jean-Antoine-Watteau.webp",
+    "prompt": "artwork in the style of Watteau, Jean-Antoine, painting, oil, portrait, 18th Century, Rococo",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Rococo",
+      "France",
+      "18th Century"
+    ],
+    "birthYear": 1684,
+    "deathYear": 1721
+  },
+  {
+    "id": "Webb-Joe",
+    "name": "Webb, Joe",
+    "imagePath": "/artists/Joe-Webb.webp",
+    "prompt": "artwork in the style of Webb, Joe, print, Collage",
+    "category": [
+      "Collage",
+      "Print",
+      "UK"
+    ],
+    "birthYear": 1976,
+    "deathYear": null
+  },
+  {
+    "id": "Weeks-Edwin-Lord",
+    "name": "Weeks, Edwin Lord",
+    "imagePath": "/artists/Edwin-Lord-Weeks.webp",
+    "prompt": "artwork in the style of Weeks, Edwin Lord, illustration, painting, Orientalism",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Orientalism",
+      "USA"
+    ],
+    "birthYear": 1849,
+    "deathYear": 1903
+  },
+  {
+    "id": "Weissenbruch-Johan-Hendrik",
+    "name": "Weissenbruch, Johan Hendrik",
+    "imagePath": "/artists/Johan-Hendrik-Weissenbruch.webp",
+    "prompt": "artwork in the style of Weissenbruch, Johan Hendrik, painting, oil, watercolor, landscape, 19th Century, Netherlands",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Landscape",
+      "Netherlands",
+      "19th Century"
+    ],
+    "birthYear": 1824,
+    "deathYear": 1903
+  },
+  {
+    "id": "Weldon-Casey",
+    "name": "Weldon, Casey",
+    "imagePath": "/artists/Casey-Weldon.webp",
+    "prompt": "artwork in the style of Weldon, Casey, painting, acrylic, Surrealism, USA",
+    "category": [
+      "Painting",
+      "Acrylic",
+      "Surrealism",
+      "USA"
+    ],
+    "birthYear": 1979,
+    "deathYear": null
+  },
+  {
+    "id": "Whalen-Tom-Strongstuff",
+    "name": "Whalen, Tom (Strongstuff)",
+    "imagePath": "/artists/Tom-Whalen.webp",
+    "prompt": "artwork in the style of Whalen, Tom (Strongstuff), illustration, USA",
+    "category": [
+      "Illustration",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Whelan-Michael",
+    "name": "Whelan, Michael",
+    "imagePath": "/artists/Michael-Whelan.webp",
+    "prompt": "artwork in the style of Whelan, Michael, illustration, fantasy, sci-fi, USA",
+    "category": [
+      "Illustration",
+      "Fantasy",
+      "Sci-Fi",
+      "USA"
+    ],
+    "birthYear": 1950,
+    "deathYear": null
+  },
+  {
+    "id": "Whitcomb-Jon",
+    "name": "Whitcomb, Jon",
+    "imagePath": "/artists/Jon-Whitcomb.webp",
+    "prompt": "artwork in the style of Whitcomb, Jon, illustration, painting, oil, gouache, Poster",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Gouache",
+      "Poster",
+      "USA"
+    ],
+    "birthYear": 1906,
+    "deathYear": 1988
+  },
+  {
+    "id": "Whitmore-Coby",
+    "name": "Whitmore, Coby",
+    "imagePath": "/artists/Coby-Whitmore.webp",
+    "prompt": "artwork in the style of Whitmore, Coby, illustration, painting, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1913,
+    "deathYear": 1988
+  },
+  {
+    "id": "Wileman-Peter",
+    "name": "Wileman, Peter",
+    "imagePath": "/artists/Peter-Wileman.webp",
+    "prompt": "artwork in the style of Wileman, Peter, painting, oil, Abstract, landscape, UK",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Abstract",
+      "UK"
+    ],
+    "birthYear": 1946,
+    "deathYear": null
+  },
+  {
+    "id": "Wiley-Kehinde",
+    "name": "Wiley, Kehinde",
+    "imagePath": "/artists/Kehinde-Wiley.webp",
+    "prompt": "artwork in the style of Wiley, Kehinde, painting, oil, portrait, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1977,
+    "deathYear": null
+  },
+  {
+    "id": "Wilkins-Edward-Blair",
+    "name": "Wilkins, Edward Blair",
+    "imagePath": "/artists/Edward-Blair-Wilkins.webp",
+    "prompt": "artwork in the style of Wilkins, Edward Blair, illustration, painting, sci-fi",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Sci-Fi",
+      "Cover Art"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Williamson-Al",
+    "name": "Williamson, Al",
+    "imagePath": "/artists/Al-Williamson.webp",
+    "prompt": "artwork in the style of Williamson, Al, comic, USA",
+    "category": [
+      "Comic",
+      "USA"
+    ],
+    "birthYear": 1931,
+    "deathYear": 2010
+  },
+  {
+    "id": "Windsor-Smith-Barry",
+    "name": "Windsor-Smith, Barry",
+    "imagePath": "/artists/Barry-Windsor-Smith.webp",
+    "prompt": "artwork in the style of Windsor-Smith, Barry, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "B&W",
+      "UK"
+    ],
+    "birthYear": 1949,
+    "deathYear": null
+  },
+  {
+    "id": "Winterhalter-Franz-Xaver",
+    "name": "Winterhalter, Franz Xaver",
+    "imagePath": "/artists/Franz-Xaver-Winterhalter.webp",
+    "prompt": "artwork in the style of Winterhalter, Franz Xaver, painting, oil, portrait, 19th Century, Germany",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Germany",
+      "19th Century"
+    ],
+    "birthYear": 1805,
+    "deathYear": 1873
+  },
+  {
+    "id": "Wirth-Nathan",
+    "name": "Wirth, Nathan",
+    "imagePath": "/artists/Nathan-Wirth.webp",
+    "prompt": "artwork in the style of Wirth, Nathan, photography, landscape, USA",
+    "category": [
+      "Photography",
+      "Landscape",
+      "B&W",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Wlop",
+    "name": "Wlop",
+    "imagePath": "/artists/Wlop.webp",
+    "prompt": "artwork in the style of Wlop, illustration, China",
+    "category": [
+      "Illustration",
+      "China"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Woelfel-Brandon",
+    "name": "Woelfel, Brandon",
+    "imagePath": "/artists/Brandon-Woelfel.webp",
+    "prompt": "artwork in the style of Woelfel, Brandon, photography, portrait, USA",
+    "category": [
+      "Photography",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1994,
+    "deathYear": null
+  },
+  {
+    "id": "Wong-Liam",
+    "name": "Wong, Liam",
+    "imagePath": "/artists/Liam-Wong.webp",
+    "prompt": "artwork in the style of Wong, Liam, photography, Scotland",
+    "category": [
+      "Photography",
+      "Game Art",
+      "Scotland",
+      "UK"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Wood-Ashley",
+    "name": "Wood, Ashley",
+    "imagePath": "/artists/Ashley-Wood.webp",
+    "prompt": "artwork in the style of Wood, Ashley, illustration, comic, painting, ink, Australia",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Painting",
+      "Ink",
+      "Australia"
+    ],
+    "birthYear": 1971,
+    "deathYear": null
+  },
+  {
+    "id": "Wood-Grant",
+    "name": "Wood, Grant",
+    "imagePath": "/artists/Grant-Wood.webp",
+    "prompt": "artwork in the style of Wood, Grant, painting, oil, tempera, portrait, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Tempera",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1891,
+    "deathYear": 1942
+  },
+  {
+    "id": "Wou-Ki-Zao",
+    "name": "Wou-Ki, Zao",
+    "imagePath": "/artists/Zao-Wou-Ki.webp",
+    "prompt": "artwork in the style of Wou-Ki, Zao, painting, ink, Aquatint",
+    "category": [
+      "Painting",
+      "Ink",
+      "Aquatint",
+      "China"
+    ],
+    "birthYear": 1921,
+    "deathYear": 2013
+  },
+  {
+    "id": "Wrightson-Bernie",
+    "name": "Wrightson, Bernie",
+    "imagePath": "/artists/Bernie-Wrightson.webp",
+    "prompt": "artwork in the style of Wrightson, Bernie, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "B&W",
+      "USA"
+    ],
+    "birthYear": 1948,
+    "deathYear": 2017
+  },
+  {
+    "id": "Wyeth-Andrew",
+    "name": "Wyeth, Andrew",
+    "imagePath": "/artists/Andrew-Wyeth.webp",
+    "prompt": "artwork in the style of Wyeth, Andrew, painting, oil, watercolor, gouache, Realism, portrait, landscape, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Gouache",
+      "Portrait",
+      "Landscape",
+      "Realism",
+      "USA"
+    ],
+    "birthYear": 1917,
+    "deathYear": 2009
+  }
+]

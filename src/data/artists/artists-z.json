@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Zabrocki-Darek",
+    "name": "Zabrocki, Darek",
+    "imagePath": "/artists/Darek-Zabrocki.webp",
+    "prompt": "artwork in the style of Zabrocki, Darek, illustration, concept art, fantasy, sci-fi, Poland",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Fantasy",
+      "Sci-Fi",
+      "Poland"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Zadkine-Ossip",
+    "name": "Zadkine, Ossip",
+    "imagePath": "/artists/Ossip-Zadkine.webp",
+    "prompt": "artwork in the style of Zadkine, Ossip, painting, oil, Cubism, Belarus",
+    "category": [
+      "Painting",
+      "Oil",
+      "Cubism",
+      "Belarus"
+    ],
+    "birthYear": 1888,
+    "deathYear": 1967
+  },
+  {
+    "id": "Zana-Eytan",
+    "name": "Zana, Eytan",
+    "imagePath": "/artists/Eytan-Zana.webp",
+    "prompt": "artwork in the style of Zana, Eytan, illustration, concept art, USA",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Game Art",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Zener-Eric",
+    "name": "Zener, Eric",
+    "imagePath": "/artists/Eric-Zener.webp",
+    "prompt": "artwork in the style of Zener, Eric, painting, oil, Realism, portrait, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Realism",
+      "USA"
+    ],
+    "birthYear": 1966,
+    "deathYear": null
+  },
+  {
+    "id": "Zhong-Fenghua-",
+    "name": "Zhong, Fenghua ",
+    "imagePath": "/artists/Fenghua-Zhong.webp",
+    "prompt": "artwork in the style of Zhong, Fenghua , illustration, China",
+    "category": [
+      "Illustration",
+      "China"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Zorach-William",
+    "name": "Zorach, William",
+    "imagePath": "/artists/William-Zorach.webp",
+    "prompt": "artwork in the style of Zorach, William, painting, oil, watercolor, sculpture, Cubism, portrait, Lithuania",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Portrait",
+      "Sculpture",
+      "Cubism",
+      "Lithuania",
+      "USA"
+    ],
+    "birthYear": 1887,
+    "deathYear": 1966
+  },
+  {
+    "id": "Zorn-Anders",
+    "name": "Zorn, Anders",
+    "imagePath": "/artists/Anders-Zorn.webp",
+    "prompt": "artwork in the style of Zorn, Anders, painting, watercolor, portrait, 19th Century, Sweden",
+    "category": [
+      "Painting",
+      "Watercolor",
+      "Portrait",
+      "Sweden",
+      "19th Century"
+    ],
+    "birthYear": 1860,
+    "deathYear": 1920
+  },
+  {
+    "id": "Zuloaga-Ignacio",
+    "name": "Zuloaga, Ignacio",
+    "imagePath": "/artists/Ignacio-Zuloaga.webp",
+    "prompt": "artwork in the style of Zuloaga, Ignacio, painting, oil, portrait, Spain",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Spain"
+    ],
+    "birthYear": 1870,
+    "deathYear": 1945
+  }
+]

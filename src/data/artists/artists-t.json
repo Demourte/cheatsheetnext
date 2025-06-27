@@ -1,0 +1,443 @@
+[
+  {
+    "id": "Takahashi-Hiroyuki-Mitsume",
+    "name": "Takahashi, Hiroyuki-Mitsume",
+    "imagePath": "/artists/Hiroyuki-Mitsume-Takahashi.webp",
+    "prompt": "artwork in the style of Takahashi, Hiroyuki-Mitsume, illustration, comic, Japan",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Japan"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Takahashi-Kazuya",
+    "name": "Takahashi, Kazuya",
+    "imagePath": "/artists/Kazuya-Takahashi.webp",
+    "prompt": "artwork in the style of Takahashi, Kazuya, illustration, Japan",
+    "category": [
+      "Illustration",
+      "Game Art",
+      "Japan"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Takahashi-Rumiko",
+    "name": "Takahashi, Rumiko",
+    "imagePath": "/artists/Rumiko-Takahashi.webp",
+    "prompt": "artwork in the style of Takahashi, Rumiko, illustration, Manga",
+    "category": [
+      "Illustration",
+      "Manga",
+      "Japan"
+    ],
+    "birthYear": 1957,
+    "deathYear": null
+  },
+  {
+    "id": "Tamayo-Rufino",
+    "name": "Tamayo, Rufino",
+    "imagePath": "/artists/Rufino-Tamayo.webp",
+    "prompt": "artwork in the style of Tamayo, Rufino, painting, oil, Cubism, Surrealism, Abstract, Mexico",
+    "category": [
+      "Painting",
+      "Oil",
+      "Cubism",
+      "Surrealism",
+      "Abstract",
+      "Mexico"
+    ],
+    "birthYear": 1899,
+    "deathYear": 1991
+  },
+  {
+    "id": "Tan-Shaun",
+    "name": "Tan, Shaun",
+    "imagePath": "/artists/Shaun-Tan.webp",
+    "prompt": "artwork in the style of Tan, Shaun, illustration, painting, ink, oil, Australia",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Ink",
+      "Oil",
+      "Australia"
+    ],
+    "birthYear": 1974,
+    "deathYear": null
+  },
+  {
+    "id": "Tanner-Henry-Ossawa",
+    "name": "Tanner, Henry Ossawa",
+    "imagePath": "/artists/Henry-Ossawa-Tanner.webp",
+    "prompt": "artwork in the style of Tanner, Henry Ossawa, painting, oil, portrait, 19th Century, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "USA",
+      "19th Century"
+    ],
+    "birthYear": 1859,
+    "deathYear": 1937
+  },
+  {
+    "id": "Tartakovsky-Genndy",
+    "name": "Tartakovsky, Genndy",
+    "imagePath": "/artists/Genndy-Tartakovsky.webp",
+    "prompt": "artwork in the style of Tartakovsky, Genndy, illustration, Animation",
+    "category": [
+      "Illustration",
+      "Animation",
+      "Character Design",
+      "TV",
+      "Russia",
+      "USA"
+    ],
+    "birthYear": 1970,
+    "deathYear": null
+  },
+  {
+    "id": "Templesmith-Ben",
+    "name": "Templesmith, Ben",
+    "imagePath": "/artists/Ben-Templesmith.webp",
+    "prompt": "artwork in the style of Templesmith, Ben, illustration, comic, Australia",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Australia"
+    ],
+    "birthYear": 1984,
+    "deathYear": null
+  },
+  {
+    "id": "Teng-Sachin",
+    "name": "Teng, Sachin",
+    "imagePath": "/artists/Sachin-Teng.webp",
+    "prompt": "artwork in the style of Teng, Sachin, illustration, comic, Poster",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Poster",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1989,
+    "deathYear": null
+  },
+  {
+    "id": "Tenggren-Gustaf",
+    "name": "Tenggren, Gustaf",
+    "imagePath": "/artists/Gustaf-Tenggren.webp",
+    "prompt": "artwork in the style of Tenggren, Gustaf, illustration, Disney",
+    "category": [
+      "Illustration",
+      "Disney",
+      "USA"
+    ],
+    "birthYear": 1896,
+    "deathYear": 1970
+  },
+  {
+    "id": "Tepper-Saul",
+    "name": "Tepper, Saul",
+    "imagePath": "/artists/Saul-Tepper.webp",
+    "prompt": "artwork in the style of Tepper, Saul, illustration, painting, oil, portrait, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1899,
+    "deathYear": 1987
+  },
+  {
+    "id": "Terada-Katsuya",
+    "name": "Terada, Katsuya",
+    "imagePath": "/artists/Terada-Katsuya.webp",
+    "prompt": "artwork in the style of Terada, Katsuya, illustration, Japan",
+    "category": [
+      "Illustration",
+      "Japan"
+    ],
+    "birthYear": 1963,
+    "deathYear": null
+  },
+  {
+    "id": "Terpning-Howard",
+    "name": "Terpning, Howard",
+    "imagePath": "/artists/Howard-Terpning.webp",
+    "prompt": "artwork in the style of Terpning, Howard, illustration, painting, oil, Realism, portrait, landscape, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Landscape",
+      "Realism",
+      "USA"
+    ],
+    "birthYear": 1927,
+    "deathYear": null
+  },
+  {
+    "id": "Tezuka-Osamu",
+    "name": "Tezuka, Osamu",
+    "imagePath": "/artists/Osamu-Tezuka.webp",
+    "prompt": "artwork in the style of Tezuka, Osamu, illustration, Manga",
+    "category": [
+      "Illustration",
+      "Manga",
+      "Japan"
+    ],
+    "birthYear": 1928,
+    "deathYear": 1989
+  },
+  {
+    "id": "Thayer-Abbott-Handerson",
+    "name": "Thayer, Abbott Handerson",
+    "imagePath": "/artists/Abbott-Handerson-Thayer.webp",
+    "prompt": "artwork in the style of Thayer, Abbott Handerson, painting, oil, portrait, 19th Century, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "USA",
+      "19th Century"
+    ],
+    "birthYear": 1849,
+    "deathYear": 1921
+  },
+  {
+    "id": "Thole-Karel",
+    "name": "Thole, Karel",
+    "imagePath": "/artists/Karel-Thole.webp",
+    "prompt": "artwork in the style of Thole, Karel, illustration, painting, Netherlands",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Netherlands"
+    ],
+    "birthYear": 1914,
+    "deathYear": 2000
+  },
+  {
+    "id": "Thomas-Mickalene",
+    "name": "Thomas, Mickalene",
+    "imagePath": "/artists/Mickalene-Thomas.webp",
+    "prompt": "artwork in the style of Thomas, Mickalene, painting, acrylic, photography, Collage",
+    "category": [
+      "Painting",
+      "Acrylic",
+      "Photography",
+      "Collage",
+      "USA"
+    ],
+    "birthYear": 1971,
+    "deathYear": null
+  },
+  {
+    "id": "Thompson-Craig",
+    "name": "Thompson, Craig",
+    "imagePath": "/artists/Craig-Thompson.webp",
+    "prompt": "artwork in the style of Thompson, Craig, comic, ink, Graphic Novel",
+    "category": [
+      "Comic",
+      "Graphic Novel",
+      "Ink",
+      "B&W",
+      "USA"
+    ],
+    "birthYear": 1975,
+    "deathYear": null
+  },
+  {
+    "id": "Thomson-Tom",
+    "name": "Thomson, Tom",
+    "imagePath": "/artists/Tom-Thomson.webp",
+    "prompt": "artwork in the style of Thomson, Tom, painting, oil, landscape, 19th Century, Canada",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Canada",
+      "19th Century"
+    ],
+    "birthYear": 1877,
+    "deathYear": 1917
+  },
+  {
+    "id": "Tiepolo-Giovanni",
+    "name": "Tiepolo, Giovanni",
+    "imagePath": "/artists/Giovanni-Tiepolo.webp",
+    "prompt": "artwork in the style of Tiepolo, Giovanni, painting, oil, 18th Century",
+    "category": [
+      "Painting",
+      "Oil",
+      "18th Century"
+    ],
+    "birthYear": 1696,
+    "deathYear": 1770
+  },
+  {
+    "id": "Timmermans-Alex",
+    "name": "Timmermans, Alex",
+    "imagePath": "/artists/Alex-Timmermans.webp",
+    "prompt": "artwork in the style of Timmermans, Alex, photography, Netherlands",
+    "category": [
+      "Photography",
+      "Netherlands"
+    ],
+    "birthYear": 1962,
+    "deathYear": null
+  },
+  {
+    "id": "Titian-Tiziano-Vecelli",
+    "name": "Titian (Tiziano Vecelli)",
+    "imagePath": "/artists/Titian.webp",
+    "prompt": "artwork in the style of Titian (Tiziano Vecelli), painting, oil, portrait, mythology, 16th Century, Italy",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Mythology",
+      "Italy",
+      "16th Century"
+    ],
+    "birthYear": 1488,
+    "deathYear": 1576
+  },
+  {
+    "id": "Tomine-Adrian",
+    "name": "Tomine, Adrian",
+    "imagePath": "/artists/Adrian-Tomine.webp",
+    "prompt": "artwork in the style of Tomine, Adrian, illustration, comic, USA",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1974,
+    "deathYear": null
+  },
+  {
+    "id": "Toor-Ori",
+    "name": "Toor, Ori",
+    "imagePath": "/artists/Ori-Toor.webp",
+    "prompt": "artwork in the style of Toor, Ori, illustration, Israel",
+    "category": [
+      "Illustration",
+      "Israel"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Toriyama-Akira",
+    "name": "Toriyama, Akira",
+    "imagePath": "/artists/Akira-Toriyama.webp",
+    "prompt": "artwork in the style of Toriyama, Akira, illustration, Manga",
+    "category": [
+      "Illustration",
+      "Manga",
+      "Anime",
+      "DragonBall",
+      "Japan"
+    ],
+    "birthYear": 1955,
+    "deathYear": null
+  },
+  {
+    "id": "Toth-Alex",
+    "name": "Toth, Alex",
+    "imagePath": "/artists/Alex-Toth.webp",
+    "prompt": "artwork in the style of Toth, Alex, comic, dc comics, USA",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "B&W",
+      "USA"
+    ],
+    "birthYear": 1928,
+    "deathYear": 2006
+  },
+  {
+    "id": "Toulouse-Lautrec-Henri-de",
+    "name": "Toulouse-Lautrec, Henri de",
+    "imagePath": "/artists/Henri-de-Toulouse-Lautrec.webp",
+    "prompt": "artwork in the style of Toulouse-Lautrec, Henri de, illustration, painting, 19th Century, France",
+    "category": [
+      "Illustration",
+      "Painting",
+      "France",
+      "19th Century"
+    ],
+    "birthYear": 1864,
+    "deathYear": 1901
+  },
+  {
+    "id": "Tran-Ross-RossDraws",
+    "name": "Tran, Ross (RossDraws)",
+    "imagePath": "/artists/Ross-Tran.webp",
+    "prompt": "artwork in the style of Tran, Ross (RossDraws), illustration, concept art, portrait, USA",
+    "category": [
+      "Illustration",
+      "Character Design",
+      "Concept Art",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1992,
+    "deathYear": null
+  },
+  {
+    "id": "Turner-William",
+    "name": "Turner, William",
+    "imagePath": "/artists/William-Turner.webp",
+    "prompt": "artwork in the style of Turner, William, painting, oil, watercolor, landscape, 19th Century, Romanticism",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Landscape",
+      "Romanticism",
+      "UK",
+      "19th Century"
+    ],
+    "birthYear": 1775,
+    "deathYear": 1851
+  },
+  {
+    "id": "Turnham-Chris",
+    "name": "Turnham, Chris",
+    "imagePath": "/artists/Chris-Turnham.webp",
+    "prompt": "artwork in the style of Turnham, Chris, illustration, USA",
+    "category": [
+      "Illustration",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Tutwiler-David",
+    "name": "Tutwiler, David",
+    "imagePath": "/artists/David-Tutwiler.webp",
+    "prompt": "artwork in the style of Tutwiler, David, painting, oil, watercolor, landscape, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Landscape",
+      "USA"
+    ],
+    "birthYear": 1952,
+    "deathYear": null
+  }
+]

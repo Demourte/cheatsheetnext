@@ -1,8 +1,9 @@
 "use client";
 
 import Image from "next/image";
-import { Copy, ExternalLink } from "lucide-react";
+import { Copy, ExternalLink, Edit } from "lucide-react";
 import { useState } from "react";
+import { useRouter } from "next/navigation";
 
 interface ArtistCardProps {
   id: string;
@@ -10,9 +11,6 @@ interface ArtistCardProps {
   imagePath: string;
   prompt: string;
   category: string[];
-  birthYear?: number | null;
-  deathYear?: number | null;
-  notes?: string;
   viewMode?: 'grid' | 'list';
 }
 
@@ -22,9 +20,6 @@ export default function ArtistCard({
   imagePath,
   prompt,
   category,
-  birthYear,
-  deathYear,
-  notes,
   viewMode = 'grid',
 }: ArtistCardProps) {
   const [copied, setCopied] = useState(false);
@@ -37,6 +32,12 @@ export default function ArtistCard({
 
   const searchArtist = () => {
     window.open(`https://www.google.com/search?q=${encodeURIComponent(name)}`, "_blank");
+  };
+  
+  const router = useRouter();
+  
+  const editArtist = () => {
+    router.push(`/admin/artists/edit/${id}`);
   };
 
   // Render grid view (card style)
@@ -71,11 +72,6 @@ export default function ArtistCard({
         </div>
         <div className="card-body p-4">
           <h2 className="card-title text-lg">{name}</h2>
-          {(birthYear || deathYear) && (
-            <p className="text-sm text-gray-500">
-              {birthYear && birthYear} {deathYear && `- ${deathYear}`}
-            </p>
-          )}
           <div className="flex flex-wrap gap-1 my-1">
             {category.map((cat) => (
               <span key={cat} className="badge badge-sm badge-outline">{cat}</span>
@@ -98,11 +94,15 @@ export default function ArtistCard({
               </div>
             )}
           </div>
-          {notes && <p className="text-xs mt-2">{notes}</p>}
+
           <div className="card-actions justify-end mt-2">
+            <button onClick={editArtist} className="btn btn-xs btn-outline">
+              <Edit size={14} />
+              <span className="ml-1">Edit</span>
+            </button>
             <button onClick={searchArtist} className="btn btn-xs btn-outline">
               <ExternalLink size={14} />
-              <span className="ml-1">Search Artist</span>
+              <span className="ml-1">Search</span>
             </button>
           </div>
         </div>
@@ -141,14 +141,7 @@ export default function ArtistCard({
       </div>
       <div className="card-body p-4">
         <div className="flex flex-col sm:flex-row sm:items-center gap-2 justify-between">
-          <div>
-            <h2 className="card-title text-lg">{name}</h2>
-            {(birthYear || deathYear) && (
-              <p className="text-sm text-gray-500">
-                {birthYear && birthYear} {deathYear && `- ${deathYear}`}
-              </p>
-            )}
-          </div>
+          <h2 className="card-title text-lg">{name}</h2>
           <div className="flex flex-wrap gap-1">
             {category.map((cat) => (
               <span key={cat} className="badge badge-sm badge-outline">{cat}</span>
@@ -173,11 +166,14 @@ export default function ArtistCard({
             </div>
           )}
         </div>
-        {notes && <p className="text-xs mt-2">{notes}</p>}
         <div className="card-actions justify-end mt-2">
+          <button onClick={editArtist} className="btn btn-xs btn-outline">
+            <Edit size={14} />
+            <span className="ml-1">Edit</span>
+          </button>
           <button onClick={searchArtist} className="btn btn-xs btn-outline">
             <ExternalLink size={14} />
-            <span className="ml-1">Search Artist</span>
+            <span className="ml-1">Search</span>
           </button>
         </div>
       </div>

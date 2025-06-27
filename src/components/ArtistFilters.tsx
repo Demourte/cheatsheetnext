@@ -46,21 +46,7 @@ export default function ArtistFilters({
   };
   
   return (
-    <div className="space-y-6">
-      <div className="flex justify-between items-center flex-wrap gap-4">
-        <h1 className="text-2xl font-bold">Artist Inspired Styles</h1>
-        
-        {selectedCategories.length > 0 && (
-          <button 
-            onClick={onClearFilters}
-            className="btn btn-sm btn-ghost rounded-full"
-          >
-            <X size={16} />
-            <span className="ml-1">Clear filters</span>
-          </button>
-        )}
-      </div>
-      
+    <div className="space-y-6">     
       <div className="flex gap-2 items-center">
         {/* Main search input */}
         <div className="relative flex-grow">

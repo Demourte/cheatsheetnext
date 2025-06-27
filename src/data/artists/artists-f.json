@@ -1,0 +1,543 @@
+[
+  {
+    "id": "Fabry-Glenn",
+    "name": "Fabry, Glenn",
+    "imagePath": "/artists/Glenn-Fabry.webp",
+    "prompt": "artwork in the style of Fabry, Glenn, illustration, painting, comic, acrylic, gouache, ink, UK",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Comic",
+      "Acrylic",
+      "Gouache",
+      "Ink",
+      "Cover Art",
+      "UK"
+    ],
+    "birthYear": 1961,
+    "deathYear": null
+  },
+  {
+    "id": "Fadeev-Anton",
+    "name": "Fadeev, Anton",
+    "imagePath": "/artists/Anton_Fadeev.webp",
+    "prompt": "artwork in the style of Fadeev, Anton, illustration, concept art, fantasy, Russia",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Fantasy",
+      "Russia"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Fairey-Shepard",
+    "name": "Fairey, Shepard",
+    "imagePath": "/artists/Shepard-Fairey.webp",
+    "prompt": "artwork in the style of Fairey, Shepard, illustration, portrait, Street Art",
+    "category": [
+      "Illustration",
+      "Street Art",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1970,
+    "deathYear": null
+  },
+  {
+    "id": "Fairhurst-Andy",
+    "name": "Fairhurst, Andy",
+    "imagePath": "/artists/Andy_Fairhurst.webp",
+    "prompt": "artwork in the style of Fairhurst, Andy, illustration, concept art, Australia",
+    "category": [
+      "Illustration",
+      "Character Design",
+      "Concept Art",
+      "Australia"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Falter-John-Philip",
+    "name": "Falter, John Philip",
+    "imagePath": "/artists/John-Philip-Falter.webp",
+    "prompt": "artwork in the style of Falter, John Philip, illustration, painting, oil, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1910,
+    "deathYear": 1982
+  },
+  {
+    "id": "Fang-Lijun",
+    "name": "Fang, Lijun",
+    "imagePath": "/artists/Fang-Lijun.webp",
+    "prompt": "artwork in the style of Fang, Lijun, painting, oil, Surrealism, China",
+    "category": [
+      "Painting",
+      "Oil",
+      "Surrealism",
+      "China"
+    ],
+    "birthYear": 1963,
+    "deathYear": null
+  },
+  {
+    "id": "Fantin-Latour-Henri",
+    "name": "Fantin-Latour, Henri",
+    "imagePath": "/artists/Henri-Fantin-Latour.webp",
+    "prompt": "artwork in the style of Fantin-Latour, Henri, painting, oil, still life, portrait, botanical, 19th Century, France",
+    "category": [
+      "Painting",
+      "Oil",
+      "Still Life",
+      "Portrait",
+      "Botanical",
+      "19th Century",
+      "France"
+    ],
+    "birthYear": 1836,
+    "deathYear": 1904
+  },
+  {
+    "id": "Fegredo-Duncan",
+    "name": "Fegredo, Duncan",
+    "imagePath": "/artists/Duncan-Fegredo.webp",
+    "prompt": "artwork in the style of Fegredo, Duncan, comic, UK",
+    "category": [
+      "Comic",
+      "UK"
+    ],
+    "birthYear": 1964,
+    "deathYear": null
+  },
+  {
+    "id": "Feininger-Lyonel",
+    "name": "Feininger, Lyonel",
+    "imagePath": "/artists/Lyonel-Feininger.webp",
+    "prompt": "artwork in the style of Feininger, Lyonel, painting, Expressionism, landscape, USA",
+    "category": [
+      "Painting",
+      "Landscape",
+      "Expressionism",
+      "USA"
+    ],
+    "birthYear": 1871,
+    "deathYear": 1956
+  },
+  {
+    "id": "Ferez-Andrew",
+    "name": "Ferez, Andrew",
+    "imagePath": "/artists/Andrew-Ferez.webp",
+    "prompt": "artwork in the style of Ferez, Andrew, illustration, fantasy, Russia",
+    "category": [
+      "Illustration",
+      "Fantasy",
+      "Russia"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Ferri-Roberto",
+    "name": "Ferri, Roberto",
+    "imagePath": "/artists/Roberto-Ferri.webp",
+    "prompt": "artwork in the style of Ferri, Roberto, painting, oil, portrait, mythology, Nudity",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Nudity",
+      "Mythology",
+      "Italy"
+    ],
+    "birthYear": 1978,
+    "deathYear": null
+  },
+  {
+    "id": "Ferriss-Hugh",
+    "name": "Ferriss, Hugh",
+    "imagePath": "/artists/Hugh-Ferriss.webp",
+    "prompt": "artwork in the style of Ferriss, Hugh, illustration, cityscape, 19th Century, Architecture",
+    "category": [
+      "Illustration",
+      "Architecture",
+      "Cityscape",
+      "B&W",
+      "USA",
+      "19th Century"
+    ],
+    "birthYear": 1889,
+    "deathYear": 1962
+  },
+  {
+    "id": "Finlay-Virgil",
+    "name": "Finlay, Virgil",
+    "imagePath": "/artists/Virgil_Finlay.webp",
+    "prompt": "artwork in the style of Finlay, Virgil, illustration, fantasy, sci-fi, USA",
+    "category": [
+      "Illustration",
+      "Fantasy",
+      "Sci-Fi",
+      "B&W",
+      "USA"
+    ],
+    "birthYear": 1914,
+    "deathYear": 1971
+  },
+  {
+    "id": "Finnstark-Anato",
+    "name": "Finnstark, Anato",
+    "imagePath": "/artists/Anato_Finnstark.webp",
+    "prompt": "artwork in the style of Finnstark, Anato, illustration, concept art, MTG",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "MTG",
+      "France"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Fischer-Paul-Gustav",
+    "name": "Fischer, Paul Gustav",
+    "imagePath": "/artists/Paul-Gustav-Fischer.webp",
+    "prompt": "artwork in the style of Fischer, Paul Gustav, painting, oil, landscape, portrait, Denmark",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Portrait",
+      "Denmark"
+    ],
+    "birthYear": 1860,
+    "deathYear": 1934
+  },
+  {
+    "id": "Fischinger-Oskar",
+    "name": "Fischinger, Oskar",
+    "imagePath": "/artists/Oskar-Fischinger.webp",
+    "prompt": "artwork in the style of Fischinger, Oskar, Abstract, Movie Director",
+    "category": [
+      "Movie Director",
+      "Animation",
+      "Abstract",
+      "Germany"
+    ],
+    "birthYear": 1900,
+    "deathYear": 1967
+  },
+  {
+    "id": "Flavin-Dan",
+    "name": "Flavin, Dan",
+    "imagePath": "/artists/Dan-Flavin.webp",
+    "prompt": "artwork in the style of Flavin, Dan, Light Installation",
+    "category": [
+      "Light Installation",
+      "Minimalism",
+      "USA"
+    ],
+    "birthYear": 1933,
+    "deathYear": 1996
+  },
+  {
+    "id": "Flinck-Govert",
+    "name": "Flinck, Govert",
+    "imagePath": "/artists/Govert_Flinck.webp",
+    "prompt": "artwork in the style of Flinck, Govert, painting, oil, portrait, 17th Century, Netherlands",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Netherlands",
+      "17th Century"
+    ],
+    "birthYear": 1615,
+    "deathYear": 1660
+  },
+  {
+    "id": "Flint-Alex-Russell",
+    "name": "Flint, Alex Russell",
+    "imagePath": "/artists/Alex_Russell_Flint.webp",
+    "prompt": "artwork in the style of Flint, Alex Russell, painting, oil, portrait, UK",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "UK"
+    ],
+    "birthYear": 1974,
+    "deathYear": null
+  },
+  {
+    "id": "Foksowicz-Piotr",
+    "name": "Foksowicz, Piotr",
+    "imagePath": "/artists/Piotr-Foksowicz.webp",
+    "prompt": "artwork in the style of Foksowicz, Piotr, illustration, concept art, fantasy, Poland",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Game Art",
+      "Fantasy",
+      "Poland"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Forbes-Stanhope",
+    "name": "Forbes, Stanhope",
+    "imagePath": "/artists/Stanhope_Forbes.webp",
+    "prompt": "artwork in the style of Forbes, Stanhope, painting, oil, landscape, 19th Century, Ireland",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Ireland",
+      "19th Century"
+    ],
+    "birthYear": 1857,
+    "deathYear": 1947
+  },
+  {
+    "id": "Fortescue-Brickdale-Eleanor",
+    "name": "Fortescue-Brickdale, Eleanor",
+    "imagePath": "/artists/Eleanor_Fortescue_Brickdale.webp",
+    "prompt": "artwork in the style of Fortescue-Brickdale, Eleanor, painting, illustration, UK",
+    "category": [
+      "Painting",
+      "Illustration",
+      "UK"
+    ],
+    "birthYear": 1872,
+    "deathYear": 1945
+  },
+  {
+    "id": "Foss-Chris",
+    "name": "Foss, Chris",
+    "imagePath": "/artists/Chris-Foss.webp",
+    "prompt": "artwork in the style of Foss, Chris, illustration, painting, sci-fi, Guernsey",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Sci-Fi",
+      "Guernsey"
+    ],
+    "birthYear": 1946,
+    "deathYear": null
+  },
+  {
+    "id": "Foster-Hal",
+    "name": "Foster, Hal",
+    "imagePath": "/artists/Hal-Foster.webp",
+    "prompt": "artwork in the style of Foster, Hal, illustration, comic, Canada",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Canada"
+    ],
+    "birthYear": 1892,
+    "deathYear": 1982
+  },
+  {
+    "id": "Foster-Jon",
+    "name": "Foster, Jon",
+    "imagePath": "/artists/Jon-Foster.webp",
+    "prompt": "artwork in the style of Foster, Jon, illustration, comic, MTG",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Cover Art",
+      "Game Art",
+      "MTG",
+      "USA"
+    ],
+    "birthYear": 1941,
+    "deathYear": null
+  },
+  {
+    "id": "Fra-Angelico",
+    "name": "Fra Angelico",
+    "imagePath": "/artists/Fra-Angelico.webp",
+    "prompt": "artwork in the style of Fra Angelico, painting, oil, tempera, portrait, mythology, 15th Century, Italy",
+    "category": [
+      "Painting",
+      "Oil",
+      "Tempera",
+      "Portrait",
+      "Mythology",
+      "Italy",
+      "15th Century"
+    ],
+    "birthYear": 1395,
+    "deathYear": 1455
+  },
+  {
+    "id": "Fraction-Matt",
+    "name": "Fraction, Matt",
+    "imagePath": "/artists/Matt-Fraction.webp",
+    "prompt": "artwork in the style of Fraction, Matt, comic, Marvel",
+    "category": [
+      "Comic",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1975,
+    "deathYear": null
+  },
+  {
+    "id": "Fragonard-Jean-Honor",
+    "name": "Fragonard, Jean-Honoré",
+    "imagePath": "/artists/Jean-Honore-Fragonard.webp",
+    "prompt": "artwork in the style of Fragonard, Jean-Honoré, painting, oil, portrait, 18th Century, Rococo",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Rococo",
+      "France",
+      "18th Century"
+    ],
+    "birthYear": 1732,
+    "deathYear": 1806
+  },
+  {
+    "id": "Francavilla-Francesco",
+    "name": "Francavilla, Francesco",
+    "imagePath": "/artists/Francesco-Francavilla.webp",
+    "prompt": "artwork in the style of Francavilla, Francesco, comic, dc comics, Graphic Novel",
+    "category": [
+      "Comic",
+      "Graphic Novel",
+      "DC Comics",
+      "Marvel",
+      "Cover Art",
+      "Italy"
+    ],
+    "birthYear": 1950,
+    "deathYear": null
+  },
+  {
+    "id": "Francesca-Piero-della",
+    "name": "Francesca, Piero della",
+    "imagePath": "/artists/Piero_della_Francesca.webp",
+    "prompt": "artwork in the style of Francesca, Piero della, painting, oil, 15th Century, Italy",
+    "category": [
+      "Painting",
+      "Oil",
+      "Italy",
+      "15th Century"
+    ],
+    "birthYear": 1410,
+    "deathYear": 1492
+  },
+  {
+    "id": "Frank-Lisa",
+    "name": "Frank, Lisa",
+    "imagePath": "/artists/Lisa-Frank.webp",
+    "prompt": "artwork in the style of Frank, Lisa, illustration, Rainbow",
+    "category": [
+      "Illustration",
+      "Rainbow",
+      "USA"
+    ],
+    "birthYear": 1955,
+    "deathYear": null
+  },
+  {
+    "id": "Frazetta-Frank",
+    "name": "Frazetta, Frank",
+    "imagePath": "/artists/Frank-Frazetta.webp",
+    "prompt": "artwork in the style of Frazetta, Frank, illustration, fantasy, sci-fi, USA",
+    "category": [
+      "Illustration",
+      "Fantasy",
+      "Sci-Fi",
+      "USA"
+    ],
+    "birthYear": 1928,
+    "deathYear": 2010
+  },
+  {
+    "id": "Friedrich-Caspar-David",
+    "name": "Friedrich, Caspar David",
+    "imagePath": "/artists/Caspar-David-Friedrich.webp",
+    "prompt": "artwork in the style of Friedrich, Caspar David, painting, oil, landscape, 19th Century, Romanticism",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Romanticism",
+      "Germany",
+      "19th Century"
+    ],
+    "birthYear": 1774,
+    "deathYear": 1840
+  },
+  {
+    "id": "Friel-Chris",
+    "name": "Friel, Chris",
+    "imagePath": "/artists/Chris-Friel.webp",
+    "prompt": "artwork in the style of Friel, Chris, photography, landscape, UK",
+    "category": [
+      "Photography",
+      "Landscape",
+      "B&W",
+      "UK"
+    ],
+    "birthYear": 1959,
+    "deathYear": null
+  },
+  {
+    "id": "Froud-Brian",
+    "name": "Froud, Brian",
+    "imagePath": "/artists/Brian-Froud.webp",
+    "prompt": "artwork in the style of Froud, Brian, illustration, concept art, fantasy, Jim Henson",
+    "category": [
+      "Illustration",
+      "Fantasy",
+      "Concept Art",
+      "Jim Henson",
+      "UK"
+    ],
+    "birthYear": 1947,
+    "deathYear": null
+  },
+  {
+    "id": "Fuchs-Ando",
+    "name": "Fuchs, Ando",
+    "imagePath": "/artists/Ando-Fuchs.webp",
+    "prompt": "artwork in the style of Fuchs, Ando, photography, portrait, landscape, Italy",
+    "category": [
+      "Photography",
+      "Portrait",
+      "Landscape",
+      "B&W",
+      "Italy"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Fujita-Goro",
+    "name": "Fujita, Goro",
+    "imagePath": "/artists/Goro-Fujita.webp",
+    "prompt": "artwork in the style of Fujita, Goro, illustration, Animation",
+    "category": [
+      "Illustration",
+      "Animation",
+      "Character Design",
+      "Japan",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  }
+]

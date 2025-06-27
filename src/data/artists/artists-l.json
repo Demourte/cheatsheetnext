@@ -1,0 +1,488 @@
+[
+  {
+    "id": "LaChapelle-David",
+    "name": "LaChapelle, David",
+    "imagePath": "/artists/David-LaChapelle.webp",
+    "prompt": "artwork in the style of LaChapelle, David, photography, portrait, USA",
+    "category": [
+      "Photography",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1963,
+    "deathYear": null
+  },
+  {
+    "id": "Lacoste-Raphael",
+    "name": "Lacoste, Raphael",
+    "imagePath": "/artists/Raphael-Lacoste.webp",
+    "prompt": "artwork in the style of Lacoste, Raphael, illustration, concept art, France",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Game Art",
+      "France"
+    ],
+    "birthYear": 1974,
+    "deathYear": null
+  },
+  {
+    "id": "Lagerstedt-Mikko",
+    "name": "Lagerstedt, Mikko",
+    "imagePath": "/artists/Mikko-Lagerstedt.webp",
+    "prompt": "artwork in the style of Lagerstedt, Mikko, photography, landscape, Finland",
+    "category": [
+      "Photography",
+      "Landscape",
+      "Finland"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Lane-Fitz-Henry",
+    "name": "Lane, Fitz Henry",
+    "imagePath": "/artists/Fitz-Henry-Lane.webp",
+    "prompt": "artwork in the style of Lane, Fitz Henry, painting, oil, landscape, marine, 19th Century, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "Marine",
+      "USA",
+      "19th Century"
+    ],
+    "birthYear": 1804,
+    "deathYear": 1865
+  },
+  {
+    "id": "Larson-Abigail",
+    "name": "Larson, Abigail",
+    "imagePath": "/artists/Abigail-Larson.webp",
+    "prompt": "artwork in the style of Larson, Abigail, illustration, watercolor, ink, Gothic",
+    "category": [
+      "Illustration",
+      "Character Design",
+      "Watercolor",
+      "Ink",
+      "Gothic",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Larson-Gary",
+    "name": "Larson, Gary",
+    "imagePath": "/artists/Gary-Larson.webp",
+    "prompt": "artwork in the style of Larson, Gary, illustration, comic, Author",
+    "category": [
+      "Author",
+      "Illustration",
+      "Comic",
+      "Cartoon",
+      "USA"
+    ],
+    "birthYear": 1950,
+    "deathYear": null
+  },
+  {
+    "id": "Larsson-Carl",
+    "name": "Larsson, Carl",
+    "imagePath": "/artists/Carl-Larsson.webp",
+    "prompt": "artwork in the style of Larsson, Carl, illustration, watercolor, 19th Century, Sweden",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Sweden",
+      "19th Century"
+    ],
+    "birthYear": 1853,
+    "deathYear": 1919
+  },
+  {
+    "id": "Lassnig-Maria",
+    "name": "Lassnig, Maria",
+    "imagePath": "/artists/Maria-Lassnig.webp",
+    "prompt": "artwork in the style of Lassnig, Maria, painting, oil, portrait, Austria",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Austria"
+    ],
+    "birthYear": 1919,
+    "deathYear": 2014
+  },
+  {
+    "id": "Lawrence-Don",
+    "name": "Lawrence, Don",
+    "imagePath": "/artists/Don-Lawrence.webp",
+    "prompt": "artwork in the style of Lawrence, Don, comic, watercolor, gouache, UK",
+    "category": [
+      "Comic",
+      "Watercolor",
+      "Gouache",
+      "UK"
+    ],
+    "birthYear": 1928,
+    "deathYear": 2003
+  },
+  {
+    "id": "Lecouffe-Deharme-Bastien",
+    "name": "Lecouffe-Deharme, Bastien",
+    "imagePath": "/artists/Bastien-Lecouffe-Deharme.webp",
+    "prompt": "artwork in the style of Lecouffe-Deharme, Bastien, illustration, sci-fi, fantasy, France",
+    "category": [
+      "Illustration",
+      "Sci-Fi",
+      "Fantasy",
+      "France"
+    ],
+    "birthYear": 1982,
+    "deathYear": null
+  },
+  {
+    "id": "Lee-Alan",
+    "name": "Lee, Alan",
+    "imagePath": "/artists/Alan-Lee.webp",
+    "prompt": "artwork in the style of Lee, Alan, illustration, concept art, Tolkien",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Tolkien",
+      "UK"
+    ],
+    "birthYear": 1947,
+    "deathYear": null
+  },
+  {
+    "id": "Lee-Jae",
+    "name": "Lee, Jae",
+    "imagePath": "/artists/Jae-Lee.webp",
+    "prompt": "artwork in the style of Lee, Jae, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1972,
+    "deathYear": null
+  },
+  {
+    "id": "Lee-Jim",
+    "name": "Lee, Jim",
+    "imagePath": "/artists/Jim-Lee.webp",
+    "prompt": "artwork in the style of Lee, Jim, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "South Korea",
+      "USA"
+    ],
+    "birthYear": 1964,
+    "deathYear": null
+  },
+  {
+    "id": "Lehr-Paul",
+    "name": "Lehr, Paul",
+    "imagePath": "/artists/Paul-Lehr.webp",
+    "prompt": "artwork in the style of Lehr, Paul, illustration, sci-fi, USA",
+    "category": [
+      "Illustration",
+      "Sci-Fi",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1930,
+    "deathYear": 1998
+  },
+  {
+    "id": "Lemire-Jeff",
+    "name": "Lemire, Jeff",
+    "imagePath": "/artists/Jeff-Lemire.webp",
+    "prompt": "artwork in the style of Lemire, Jeff, illustration, watercolor, comic, dc comics, Marvel",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1976,
+    "deathYear": null
+  },
+  {
+    "id": "Lentulov-Aristarkh",
+    "name": "Lentulov, Aristarkh",
+    "imagePath": "/artists/Aristarkh-Lentulov.webp",
+    "prompt": "artwork in the style of Lentulov, Aristarkh, painting, oil, Cubism, Russia",
+    "category": [
+      "Painting",
+      "Oil",
+      "Cubism",
+      "Russia"
+    ],
+    "birthYear": 1882,
+    "deathYear": 1943
+  },
+  {
+    "id": "Leyendecker-Joseph-Christian",
+    "name": "Leyendecker, Joseph Christian",
+    "imagePath": "/artists/J_C_Leyendecker.webp",
+    "prompt": "artwork in the style of Leyendecker, Joseph Christian, illustration, Art Nouveau, 19th Century, Germany",
+    "category": [
+      "Illustration",
+      "Art Nouveau",
+      "Cover Art",
+      "Germany",
+      "19th Century"
+    ],
+    "birthYear": 1874,
+    "deathYear": 1951
+  },
+  {
+    "id": "Lhote-Andr",
+    "name": "Lhote, André",
+    "imagePath": "/artists/Andre-Lhote.webp",
+    "prompt": "artwork in the style of Lhote, André, painting, oil, gouache, Cubism, portrait, landscape, France",
+    "category": [
+      "Painting",
+      "Oil",
+      "Gouache",
+      "Portrait",
+      "Landscape",
+      "Cubism",
+      "France"
+    ],
+    "birthYear": 1885,
+    "deathYear": 1962
+  },
+  {
+    "id": "Lichtenstein-Roy",
+    "name": "Lichtenstein, Roy",
+    "imagePath": "/artists/Roy-Lichtenstein.webp",
+    "prompt": "artwork in the style of Lichtenstein, Roy, painting, Pop-Art, USA",
+    "category": [
+      "Painting",
+      "Pop-Art",
+      "USA"
+    ],
+    "birthYear": 1923,
+    "deathYear": 1997
+  },
+  {
+    "id": "Liefeld-Rob",
+    "name": "Liefeld, Rob",
+    "imagePath": "/artists/Rob-Liefeld.webp",
+    "prompt": "artwork in the style of Liefeld, Rob, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1967,
+    "deathYear": null
+  },
+  {
+    "id": "Lindner-Richard",
+    "name": "Lindner, Richard",
+    "imagePath": "/artists/Richard-Lindner.webp",
+    "prompt": "artwork in the style of Lindner, Richard, illustration, painting, Pop-Art, Lithography",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Lithography",
+      "Pop-Art",
+      "Germany",
+      "USA"
+    ],
+    "birthYear": 1901,
+    "deathYear": 1978
+  },
+  {
+    "id": "Liniers",
+    "name": "Liniers",
+    "imagePath": "/artists/Liniers.webp",
+    "prompt": "artwork in the style of Liniers, illustration, comic, Cartoon",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Cartoon",
+      "Argentina"
+    ],
+    "birthYear": 1973,
+    "deathYear": null
+  },
+  {
+    "id": "Lippi-Filippino",
+    "name": "Lippi, Filippino",
+    "imagePath": "/artists/Filippino-Lippi.webp",
+    "prompt": "artwork in the style of Lippi, Filippino, painting, oil, portrait, mythology, 15th Century, Italy",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Mythology",
+      "Italy",
+      "15th Century"
+    ],
+    "birthYear": 1457,
+    "deathYear": 1504
+  },
+  {
+    "id": "Lipton-Laurie",
+    "name": "Lipton, Laurie",
+    "imagePath": "/artists/Laurie-Lipton.webp",
+    "prompt": "artwork in the style of Lipton, Laurie, illustration, portrait, Pencil",
+    "category": [
+      "Illustration",
+      "Pencil",
+      "Portrait",
+      "B&W",
+      "USA"
+    ],
+    "birthYear": 1953,
+    "deathYear": null
+  },
+  {
+    "id": "Lismer-Arthur",
+    "name": "Lismer, Arthur",
+    "imagePath": "/artists/Arthur-Lismer.webp",
+    "prompt": "artwork in the style of Lismer, Arthur, painting, oil, landscape, Canada",
+    "category": [
+      "Painting",
+      "Landscape",
+      "Oil",
+      "Canada"
+    ],
+    "birthYear": 1885,
+    "deathYear": 1969
+  },
+  {
+    "id": "Lisowski-Michal",
+    "name": "Lisowski, Michal",
+    "imagePath": "/artists/Michal-Lisowski.webp",
+    "prompt": "artwork in the style of Lisowski, Michal, concept art, Poland",
+    "category": [
+      "Concept Art",
+      "Game Art",
+      "Poland"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Listfield-Scott",
+    "name": "Listfield, Scott",
+    "imagePath": "/artists/Scott-Listfield.webp",
+    "prompt": "artwork in the style of Listfield, Scott, painting, oil, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "USA"
+    ],
+    "birthYear": 1976,
+    "deathYear": null
+  },
+  {
+    "id": "Loftis-Cory",
+    "name": "Loftis, Cory",
+    "imagePath": "/artists/Cory-Loftis.webp",
+    "prompt": "artwork in the style of Loftis, Cory, illustration, Animation",
+    "category": [
+      "Illustration",
+      "Animation",
+      "Character Design",
+      "Disney",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Loish-Lois-van-Baarle",
+    "name": "Loish (Lois van Baarle)",
+    "imagePath": "/artists/Loish.webp",
+    "prompt": "artwork in the style of Loish (Lois van Baarle), illustration, concept art, portrait, Netherlands",
+    "category": [
+      "Illustration",
+      "Character Design",
+      "Concept Art",
+      "Portrait",
+      "Netherlands"
+    ],
+    "birthYear": 1985,
+    "deathYear": null
+  },
+  {
+    "id": "Loomis-Andrew",
+    "name": "Loomis, Andrew",
+    "imagePath": "/artists/Andrew-Loomis.webp",
+    "prompt": "artwork in the style of Loomis, Andrew, illustration, painting, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "USA"
+    ],
+    "birthYear": 1892,
+    "deathYear": 1959
+  },
+  {
+    "id": "Loureno-Didier",
+    "name": "Lourenço, Didier",
+    "imagePath": "/artists/Didier-Lourenco.webp",
+    "prompt": "artwork in the style of Lourenço, Didier, painting, Lithography",
+    "category": [
+      "Painting",
+      "Lithography",
+      "Spain"
+    ],
+    "birthYear": 1968,
+    "deathYear": null
+  },
+  {
+    "id": "Lovecraft-HP",
+    "name": "Lovecraft, H.P.",
+    "imagePath": "/artists/HP-Lovecraft.webp",
+    "prompt": "artwork in the style of Lovecraft, H.P., horror, Author",
+    "category": [
+      "Author",
+      "Horror",
+      "USA"
+    ],
+    "birthYear": 1890,
+    "deathYear": 1937
+  },
+  {
+    "id": "Lovell-Tom",
+    "name": "Lovell, Tom",
+    "imagePath": "/artists/Tom-Lovell.webp",
+    "prompt": "artwork in the style of Lovell, Tom, illustration, painting, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "USA"
+    ],
+    "birthYear": 1909,
+    "deathYear": 1997
+  },
+  {
+    "id": "Luce-Maximilien",
+    "name": "Luce, Maximilien",
+    "imagePath": "/artists/Maximilien-Luce.webp",
+    "prompt": "artwork in the style of Luce, Maximilien, painting, oil, Pointillism",
+    "category": [
+      "Painting",
+      "Oil",
+      "Pointillism",
+      "France"
+    ],
+    "birthYear": 1858,
+    "deathYear": 1941
+  }
+]

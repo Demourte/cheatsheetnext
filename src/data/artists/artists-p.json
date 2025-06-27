@@ -1,0 +1,488 @@
+[
+  {
+    "id": "PA-Works",
+    "name": "P.A. Works",
+    "imagePath": "/artists/P-A-Works.webp",
+    "prompt": "artwork in the style of P.A. Works, Anime",
+    "category": [
+      "Anime",
+      "Japan"
+    ],
+    "birthYear": 2000,
+    "deathYear": null
+  },
+  {
+    "id": "Panter-Gary",
+    "name": "Panter, Gary",
+    "imagePath": "/artists/Gary-Panter.webp",
+    "prompt": "artwork in the style of Panter, Gary, illustration, painting, comic, acrylic, ink, Author",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Comic",
+      "Author",
+      "Acrylic",
+      "Ink",
+      "USA"
+    ],
+    "birthYear": 1950,
+    "deathYear": null
+  },
+  {
+    "id": "Paolozzi-Eduardo",
+    "name": "Paolozzi, Eduardo",
+    "imagePath": "/artists/Eduardo-Paolozzi.webp",
+    "prompt": "artwork in the style of Paolozzi, Eduardo, illustration, Pop-Art, Lithography",
+    "category": [
+      "Illustration",
+      "Lithography",
+      "Collage",
+      "Pop-Art",
+      "Scotland",
+      "UK"
+    ],
+    "birthYear": 1924,
+    "deathYear": 2005
+  },
+  {
+    "id": "Parel-Gerald",
+    "name": "Parel, Gerald",
+    "imagePath": "/artists/Gerald-Parel.webp",
+    "prompt": "artwork in the style of Parel, Gerald, illustration, Germany",
+    "category": [
+      "Illustration",
+      "Game Art",
+      "Germany"
+    ],
+    "birthYear": 1975,
+    "deathYear": null
+  },
+  {
+    "id": "Parmigianino",
+    "name": "Parmigianino",
+    "imagePath": "/artists/Parmigianino.webp",
+    "prompt": "artwork in the style of Parmigianino, painting, oil, portrait, mythology, 16th Century, Italy",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Mythology",
+      "Italy",
+      "16th Century"
+    ],
+    "birthYear": 1503,
+    "deathYear": 1540
+  },
+  {
+    "id": "Parrish-Maxfield",
+    "name": "Parrish, Maxfield",
+    "imagePath": "/artists/Maxfield-Parrish.webp",
+    "prompt": "artwork in the style of Parrish, Maxfield, illustration, painting, oil, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "USA"
+    ],
+    "birthYear": 1870,
+    "deathYear": 1966
+  },
+  {
+    "id": "Paschke-Edward-Francis",
+    "name": "Paschke, Edward Francis",
+    "imagePath": "/artists/Ed-Paschke.webp",
+    "prompt": "artwork in the style of Paschke, Edward Francis, painting, oil, Expressionism, Abstract, portrait, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Expressionism",
+      "Abstract",
+      "USA"
+    ],
+    "birthYear": 1939,
+    "deathYear": 2004
+  },
+  {
+    "id": "Peak-Bob",
+    "name": "Peak, Bob",
+    "imagePath": "/artists/Bob-Peak.webp",
+    "prompt": "artwork in the style of Peak, Bob, illustration, Poster",
+    "category": [
+      "Illustration",
+      "Poster",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1927,
+    "deathYear": 1992
+  },
+  {
+    "id": "Peeters-Clara",
+    "name": "Peeters, Clara",
+    "imagePath": "/artists/Clara-Peeters.webp",
+    "prompt": "artwork in the style of Peeters, Clara, painting, oil, still life, Belgium",
+    "category": [
+      "Painting",
+      "Oil",
+      "Still Life",
+      "Belgium"
+    ],
+    "birthYear": 1594,
+    "deathYear": 1658
+  },
+  {
+    "id": "Pei-Guo",
+    "name": "Pei, Guo",
+    "imagePath": "/artists/Guo-Pei.webp",
+    "prompt": "artwork in the style of Pei, Guo, Fashion Designer",
+    "category": [
+      "Fashion Designer",
+      "Fashion",
+      "China"
+    ],
+    "birthYear": 1967,
+    "deathYear": null
+  },
+  {
+    "id": "Pennington-Bruce",
+    "name": "Pennington, Bruce",
+    "imagePath": "/artists/Bruce-Pennington.webp",
+    "prompt": "artwork in the style of Pennington, Bruce, painting, fantasy, sci-fi, UK",
+    "category": [
+      "Painting",
+      "Fantasy",
+      "Sci-Fi",
+      "UK"
+    ],
+    "birthYear": 1944,
+    "deathYear": null
+  },
+  {
+    "id": "Perceval-John",
+    "name": "Perceval, John",
+    "imagePath": "/artists/John-Perceval.webp",
+    "prompt": "artwork in the style of Perceval, John, painting, Australia",
+    "category": [
+      "Painting",
+      "Australia"
+    ],
+    "birthYear": 1923,
+    "deathYear": 2000
+  },
+  {
+    "id": "Petolas-Nikolina",
+    "name": "Petolas, Nikolina",
+    "imagePath": "/artists/Nikolina-Petolas.webp",
+    "prompt": "artwork in the style of Petolas, Nikolina, illustration, painting, photography, concept art, Croatia",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Photography",
+      "Concept Art",
+      "Croatia"
+    ],
+    "birthYear": 1978,
+    "deathYear": null
+  },
+  {
+    "id": "Phillips-Coles",
+    "name": "Phillips, Coles",
+    "imagePath": "/artists/Coles-Phillips.webp",
+    "prompt": "artwork in the style of Phillips, Coles, illustration, watercolor, USA",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "USA"
+    ],
+    "birthYear": 1880,
+    "deathYear": 1927
+  },
+  {
+    "id": "Phillips-Sean",
+    "name": "Phillips, Sean",
+    "imagePath": "/artists/Sean-Phillips.webp",
+    "prompt": "artwork in the style of Phillips, Sean, illustration, comic, dc comics, Marvel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "UK"
+    ],
+    "birthYear": 1965,
+    "deathYear": null
+  },
+  {
+    "id": "Picabia-Francis-Marie-Martinez",
+    "name": "Picabia, Francis-Marie Martinez",
+    "imagePath": "/artists/Francis-Picabia.webp",
+    "prompt": "artwork in the style of Picabia, Francis-Marie Martinez, painting, oil, watercolor, Surrealism, Cubism, portrait, Dada",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Portrait",
+      "Dada",
+      "Surrealism",
+      "Cubism",
+      "France"
+    ],
+    "birthYear": 1879,
+    "deathYear": 1953
+  },
+  {
+    "id": "Picolo-Gabriel",
+    "name": "Picolo, Gabriel",
+    "imagePath": "/artists/Gabriel-Picolo.webp",
+    "prompt": "artwork in the style of Picolo, Gabriel, illustration, comic, dc comics, Blizzard",
+    "category": [
+      "Illustration",
+      "Comic",
+      "DC Comics",
+      "Blizzard",
+      "Brazil"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Pieck-Anton-Franciscus",
+    "name": "Pieck, Anton Franciscus",
+    "imagePath": "/artists/Anton-Pieck.webp",
+    "prompt": "artwork in the style of Pieck, Anton Franciscus, illustration, painting, watercolor, ink, gouache, Netherlands",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Watercolor",
+      "Ink",
+      "Gouache",
+      "Netherlands"
+    ],
+    "birthYear": 1895,
+    "deathYear": 1987
+  },
+  {
+    "id": "Pinkney-Jerry",
+    "name": "Pinkney, Jerry",
+    "imagePath": "/artists/Jerry-Pinkney.webp",
+    "prompt": "artwork in the style of Pinkney, Jerry, illustration, watercolor, Children's Book",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Children's Book",
+      "USA"
+    ],
+    "birthYear": 1939,
+    "deathYear": 2021
+  },
+  {
+    "id": "Pirner-Maximilian",
+    "name": "Pirner, Maximilian",
+    "imagePath": "/artists/Maximilian-Pirner.webp",
+    "prompt": "artwork in the style of Pirner, Maximilian, illustration, painting, oil, Czech Republic",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Oil",
+      "Czech Republic"
+    ],
+    "birthYear": 1854,
+    "deathYear": 1924
+  },
+  {
+    "id": "Pollock-Jackson",
+    "name": "Pollock, Jackson",
+    "imagePath": "/artists/Jackson-Pollock.webp",
+    "prompt": "artwork in the style of Pollock, Jackson, painting, Expressionism, USA",
+    "category": [
+      "Painting",
+      "Expressionism",
+      "USA"
+    ],
+    "birthYear": 1912,
+    "deathYear": 1956
+  },
+  {
+    "id": "Pontormo-Jacopo-da-",
+    "name": "Pontormo, Jacopo da ",
+    "imagePath": "/artists/Jacopo-Pontormo.webp",
+    "prompt": "artwork in the style of Pontormo, Jacopo da , painting, oil, portrait, mythology, 16th Century, Italy",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Mythology",
+      "Italy",
+      "16th Century"
+    ],
+    "birthYear": 1494,
+    "deathYear": 1557
+  },
+  {
+    "id": "Pope-Paul",
+    "name": "Pope, Paul",
+    "imagePath": "/artists/Paul-Pope.webp",
+    "prompt": "artwork in the style of Pope, Paul, comic, dc comics, USA",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "USA"
+    ],
+    "birthYear": 1970,
+    "deathYear": null
+  },
+  {
+    "id": "Porter-Fairfield",
+    "name": "Porter, Fairfield",
+    "imagePath": "/artists/Fairfield-Porter.webp",
+    "prompt": "artwork in the style of Porter, Fairfield, painting, oil, portrait, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "USA"
+    ],
+    "birthYear": 1907,
+    "deathYear": 1975
+  },
+  {
+    "id": "Portinari-Candido",
+    "name": "Portinari, Candido",
+    "imagePath": "/artists/Candido-Portinari.webp",
+    "prompt": "artwork in the style of Portinari, Candido, painting, oil, portrait, Brazil",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Brazil"
+    ],
+    "birthYear": 1903,
+    "deathYear": 1962
+  },
+  {
+    "id": "Prades-Simn",
+    "name": "Prades, Simón",
+    "imagePath": "/artists/Simon-Prades.webp",
+    "prompt": "artwork in the style of Prades, Simón, illustration, ink, Germany",
+    "category": [
+      "Illustration",
+      "Ink",
+      "Germany"
+    ],
+    "birthYear": 1985,
+    "deathYear": null
+  },
+  {
+    "id": "Pranckevicius-Gediminas",
+    "name": "Pranckevicius, Gediminas",
+    "imagePath": "/artists/Gediminas-Pranckevicius.webp",
+    "prompt": "artwork in the style of Pranckevicius, Gediminas, illustration, concept art, Animation",
+    "category": [
+      "Illustration",
+      "Animation",
+      "Concept Art",
+      "Lithuania"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Pratt-Hugo",
+    "name": "Pratt, Hugo",
+    "imagePath": "/artists/Hugo-Pratt.webp",
+    "prompt": "artwork in the style of Pratt, Hugo, illustration, watercolor, ink, comic, Graphic Novel",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Ink",
+      "Comic",
+      "Graphic Novel",
+      "Italy"
+    ],
+    "birthYear": 1927,
+    "deathYear": 1995
+  },
+  {
+    "id": "Prins-Theo",
+    "name": "Prins, Theo",
+    "imagePath": "/artists/Theo-Prins.webp",
+    "prompt": "artwork in the style of Prins, Theo, concept art, USA",
+    "category": [
+      "Concept Art",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Procter-Dod",
+    "name": "Procter, Dod",
+    "imagePath": "/artists/Dod-Procter.webp",
+    "prompt": "artwork in the style of Procter, Dod, painting, oil, portrait, UK",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "UK"
+    ],
+    "birthYear": 1890,
+    "deathYear": 1972
+  },
+  {
+    "id": "Procter-Ernest",
+    "name": "Procter, Ernest",
+    "imagePath": "/artists/Ernest-Procter.webp",
+    "prompt": "artwork in the style of Procter, Ernest, painting, oil, portrait, UK",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "UK"
+    ],
+    "birthYear": 1885,
+    "deathYear": 1935
+  },
+  {
+    "id": "Provensen-Alice",
+    "name": "Provensen, Alice",
+    "imagePath": "/artists/Alice-Provensen.webp",
+    "prompt": "artwork in the style of Provensen, Alice, illustration, Children's Book",
+    "category": [
+      "Illustration",
+      "Children's Book",
+      "USA"
+    ],
+    "birthYear": 1918,
+    "deathYear": 2018
+  },
+  {
+    "id": "Purcell-Steve",
+    "name": "Purcell, Steve",
+    "imagePath": "/artists/Steve-Purcell.webp",
+    "prompt": "artwork in the style of Purcell, Steve, comic, Animation",
+    "category": [
+      "Comic",
+      "Animation",
+      "Character Design",
+      "Game Art",
+      "USA"
+    ],
+    "birthYear": 1961,
+    "deathYear": null
+  },
+  {
+    "id": "Putz-Leo",
+    "name": "Putz, Leo",
+    "imagePath": "/artists/Leo-Putz.webp",
+    "prompt": "artwork in the style of Putz, Leo, painting, oil, portrait, Italy",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Italy"
+    ],
+    "birthYear": 1869,
+    "deathYear": 1940
+  }
+]

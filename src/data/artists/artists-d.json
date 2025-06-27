@@ -1,0 +1,593 @@
+[
+  {
+    "id": "Da-Vinci-Leonardo",
+    "name": "Da Vinci, Leonardo",
+    "imagePath": "/artists/Leonardo-Da-Vinci.webp",
+    "prompt": "artwork in the style of Da Vinci, Leonardo, painting, oil, sculpture, portrait, landscape, 15th Century, Italy",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Landscape",
+      "Sculpture",
+      "Italy",
+      "15th Century"
+    ],
+    "birthYear": 1452,
+    "deathYear": 1519
+  },
+  {
+    "id": "DaLuz-Steven",
+    "name": "DaLuz, Steven",
+    "imagePath": "/artists/Steven-DaLuz.webp",
+    "prompt": "artwork in the style of DaLuz, Steven, painting, USA",
+    "category": [
+      "Painting",
+      "USA"
+    ],
+    "birthYear": 1953,
+    "deathYear": null
+  },
+  {
+    "id": "Daeni-Pino",
+    "name": "Daeni, Pino",
+    "imagePath": "/artists/Pino_Daeni.webp",
+    "prompt": "artwork in the style of Daeni, Pino, illustration, painting, portrait, Italy",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Portrait",
+      "Cover Art",
+      "Italy"
+    ],
+    "birthYear": 1939,
+    "deathYear": 2010
+  },
+  {
+    "id": "Dahl-Wolfe-Louise",
+    "name": "Dahl-Wolfe, Louise",
+    "imagePath": "/artists/Louise-Dahl-Wolfe.webp",
+    "prompt": "artwork in the style of Dahl-Wolfe, Louise, photography, Fashion",
+    "category": [
+      "Photography",
+      "Fashion",
+      "USA"
+    ],
+    "birthYear": 1895,
+    "deathYear": 1989
+  },
+  {
+    "id": "Dalrymple-Farel",
+    "name": "Dalrymple, Farel",
+    "imagePath": "/artists/Farel-Dalrymple.webp",
+    "prompt": "artwork in the style of Dalrymple, Farel, illustration, watercolor, comic, dc comics, Author",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Author",
+      "Comic",
+      "Graphic Novel",
+      "DC Comics",
+      "Marvel",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1972,
+    "deathYear": null
+  },
+  {
+    "id": "Darger-Henry",
+    "name": "Darger, Henry",
+    "imagePath": "/artists/Henry-Darger.webp",
+    "prompt": "artwork in the style of Darger, Henry, watercolor, Illstration",
+    "category": [
+      "Illstration",
+      "Watercolor",
+      "Author",
+      "USA"
+    ],
+    "birthYear": 1892,
+    "deathYear": 1973
+  },
+  {
+    "id": "Darrow-Geof",
+    "name": "Darrow, Geof",
+    "imagePath": "/artists/Geof-Darrow.webp",
+    "prompt": "artwork in the style of Darrow, Geof, illustration, comic, Graphic Novel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Graphic Novel",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1955,
+    "deathYear": null
+  },
+  {
+    "id": "Daumier-Honor",
+    "name": "Daumier, Honoré",
+    "imagePath": "/artists/Honore-Daumier.webp",
+    "prompt": "artwork in the style of Daumier, Honoré, illustration, ink, 19th Century, Cartoon",
+    "category": [
+      "Illustration",
+      "Cartoon",
+      "Lithography",
+      "Ink",
+      "France",
+      "19th Century"
+    ],
+    "birthYear": 1808,
+    "deathYear": 1879
+  },
+  {
+    "id": "David-Jacques-Louis",
+    "name": "David, Jacques-Louis",
+    "imagePath": "/artists/Jacques-Louis_David.webp",
+    "prompt": "artwork in the style of David, Jacques-Louis, painting, oil, portrait, 18th Century, Neoclassicism",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Neoclassicism",
+      "France",
+      "18th Century"
+    ],
+    "birthYear": 1748,
+    "deathYear": 1825
+  },
+  {
+    "id": "Davis-Jack",
+    "name": "Davis, Jack",
+    "imagePath": "/artists/Jack-Davis.webp",
+    "prompt": "artwork in the style of Davis, Jack, comic, Mad Magazine",
+    "category": [
+      "Comic",
+      "Mad Magazine",
+      "USA"
+    ],
+    "birthYear": 1924,
+    "deathYear": 2016
+  },
+  {
+    "id": "Davis-Marc",
+    "name": "Davis, Marc",
+    "imagePath": "/artists/Marc_Davis.webp",
+    "prompt": "artwork in the style of Davis, Marc, illustration, Animation",
+    "category": [
+      "Illustration",
+      "Animation",
+      "Character Design",
+      "Disney"
+    ],
+    "birthYear": 1913,
+    "deathYear": 2000
+  },
+  {
+    "id": "Davison-Craig",
+    "name": "Davison, Craig",
+    "imagePath": "/artists/Craig_Davison.webp",
+    "prompt": "artwork in the style of Davison, Craig, illustration, comic, UK",
+    "category": [
+      "Illustration",
+      "Comic",
+      "UK"
+    ],
+    "birthYear": 1965,
+    "deathYear": null
+  },
+  {
+    "id": "De-Ro-Jonas",
+    "name": "De Ro, Jonas",
+    "imagePath": "/artists/Jonas-De-Ro.webp",
+    "prompt": "artwork in the style of De Ro, Jonas, illustration, concept art, Belgium",
+    "category": [
+      "Illustration",
+      "Concept Art",
+      "Belgium"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "DeConnick-Kelly-Sue",
+    "name": "DeConnick, Kelly Sue",
+    "imagePath": "/artists/Kelly-Sue-DeConnick.webp",
+    "prompt": "artwork in the style of DeConnick, Kelly Sue, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1970,
+    "deathYear": null
+  },
+  {
+    "id": "DeForge-Michael",
+    "name": "DeForge, Michael",
+    "imagePath": "/artists/Michael-DeForge.webp",
+    "prompt": "artwork in the style of DeForge, Michael, illustration, comic, Graphic Novel",
+    "category": [
+      "Illustration",
+      "Comic",
+      "Graphic Novel",
+      "Canada"
+    ],
+    "birthYear": 1987,
+    "deathYear": null
+  },
+  {
+    "id": "Deakin-Edwin",
+    "name": "Deakin, Edwin",
+    "imagePath": "/artists/Edwin-Deakin.webp",
+    "prompt": "artwork in the style of Deakin, Edwin, painting, oil, landscape, still life, 19th Century, Architecture",
+    "category": [
+      "Painting",
+      "Oil",
+      "Architecture",
+      "Landscape",
+      "Still Life",
+      "UK",
+      "USA",
+      "19th Century"
+    ],
+    "birthYear": 1838,
+    "deathYear": 1923
+  },
+  {
+    "id": "Degas-Edgar",
+    "name": "Degas, Edgar",
+    "imagePath": "/artists/Edgar-Degas.webp",
+    "prompt": "artwork in the style of Degas, Edgar, painting, oil, Impressionism, portrait, 19th Century, France",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Impressionism",
+      "France",
+      "19th Century"
+    ],
+    "birthYear": 1834,
+    "deathYear": 1917
+  },
+  {
+    "id": "Delaunay-Robert-Victor-Flix",
+    "name": "Delaunay, Robert Victor Félix",
+    "imagePath": "/artists/Robert-Delaunay.webp",
+    "prompt": "artwork in the style of Delaunay, Robert Victor Félix, painting, oil, watercolor, pastel, Cubism, Abstract, France",
+    "category": [
+      "Painting",
+      "Oil",
+      "Watercolor",
+      "Pastel",
+      "Cubism",
+      "Abstract",
+      "France"
+    ],
+    "birthYear": 1885,
+    "deathYear": 1941
+  },
+  {
+    "id": "Delort-Nicolas",
+    "name": "Delort, Nicolas",
+    "imagePath": "/artists/Nicolas-Delort.webp",
+    "prompt": "artwork in the style of Delort, Nicolas, illustration, fantasy, MTG",
+    "category": [
+      "Illustration",
+      "Fantasy",
+      "MTG",
+      "Game Art",
+      "B&W",
+      "Canada",
+      "France"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Delville-Jean",
+    "name": "Delville, Jean",
+    "imagePath": "/artists/Jean_Delville.webp",
+    "prompt": "artwork in the style of Delville, Jean, painting, Symbolism, 19th Century, Belgium",
+    "category": [
+      "Painting",
+      "Symbolism",
+      "Belgium",
+      "19th Century"
+    ],
+    "birthYear": 1867,
+    "deathYear": 1953
+  },
+  {
+    "id": "Delvoye-Wim",
+    "name": "Delvoye, Wim",
+    "imagePath": "/artists/Wim_Delvoye.webp",
+    "prompt": "artwork in the style of Delvoye, Wim, concept art, Belgium",
+    "category": [
+      "Concept Art",
+      "Belgium"
+    ],
+    "birthYear": 1965,
+    "deathYear": null
+  },
+  {
+    "id": "Denis-Maurice",
+    "name": "Denis, Maurice",
+    "imagePath": "/artists/Maurice_Denis.webp",
+    "prompt": "artwork in the style of Denis, Maurice, painting, Symbolism, 19th Century, France",
+    "category": [
+      "Painting",
+      "Symbolism",
+      "France",
+      "19th Century"
+    ],
+    "birthYear": 1870,
+    "deathYear": 1943
+  },
+  {
+    "id": "Denning-Guy",
+    "name": "Denning, Guy",
+    "imagePath": "/artists/Guy-Denning.webp",
+    "prompt": "artwork in the style of Denning, Guy, painting, oil, Street Art",
+    "category": [
+      "Painting",
+      "Oil",
+      "Street Art",
+      "B&W",
+      "UK"
+    ],
+    "birthYear": 1965,
+    "deathYear": null
+  },
+  {
+    "id": "Deodato-Mike",
+    "name": "Deodato, Mike",
+    "imagePath": "/artists/Mike-Deodato.webp",
+    "prompt": "artwork in the style of Deodato, Mike, comic, dc comics, Marvel",
+    "category": [
+      "Comic",
+      "DC Comics",
+      "Marvel",
+      "B&W",
+      "Brazil"
+    ],
+    "birthYear": 1963,
+    "deathYear": null
+  },
+  {
+    "id": "Detmold-Charles-Maurice",
+    "name": "Detmold, Charles Maurice",
+    "imagePath": "/artists/Charles-Maurice-Detmold.webp",
+    "prompt": "artwork in the style of Detmold, Charles Maurice, illustration, watercolor, ink, UK",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Ink",
+      "UK"
+    ],
+    "birthYear": 1883,
+    "deathYear": 1908
+  },
+  {
+    "id": "Di-Fate-Vincent",
+    "name": "Di Fate, Vincent",
+    "imagePath": "/artists/Vincent-Di-Fate.webp",
+    "prompt": "artwork in the style of Di Fate, Vincent, illustration, painting, fantasy, sci-fi, USA",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Fantasy",
+      "Sci-Fi",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1945,
+    "deathYear": null
+  },
+  {
+    "id": "Dillon-Diane",
+    "name": "Dillon, Diane",
+    "imagePath": "/artists/Diane-Dillon.webp",
+    "prompt": "artwork in the style of Dillon, Diane, illustration, Children's Book",
+    "category": [
+      "Illustration",
+      "Children's Book",
+      "Cover Art",
+      "USA"
+    ],
+    "birthYear": 1933,
+    "deathYear": null
+  },
+  {
+    "id": "Ditko-Steve",
+    "name": "Ditko, Steve",
+    "imagePath": "/artists/Steve_Ditko.webp",
+    "prompt": "artwork in the style of Ditko, Steve, comic, Marvel",
+    "category": [
+      "Comic",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1927,
+    "deathYear": 2018
+  },
+  {
+    "id": "Dittmann-Anna",
+    "name": "Dittmann, Anna",
+    "imagePath": "/artists/Anna_Dittmann.webp",
+    "prompt": "artwork in the style of Dittmann, Anna, illustration, dc comics, portrait, USA",
+    "category": [
+      "Illustration",
+      "Portrait",
+      "DC Comics",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Dor-Gustave",
+    "name": "Doré, Gustave",
+    "imagePath": "/artists/Gustave_Dore.webp",
+    "prompt": "artwork in the style of Doré, Gustave, illustration, painting, 19th Century, France",
+    "category": [
+      "Illustration",
+      "Painting",
+      "B&W",
+      "France",
+      "19th Century"
+    ],
+    "birthYear": 1832,
+    "deathYear": 1883
+  },
+  {
+    "id": "Downton-David",
+    "name": "Downton, David",
+    "imagePath": "/artists/David_Downton.webp",
+    "prompt": "artwork in the style of Downton, David, illustration, portrait, Fashion",
+    "category": [
+      "Illustration",
+      "Fashion",
+      "Portrait",
+      "UK"
+    ],
+    "birthYear": 1959,
+    "deathYear": null
+  },
+  {
+    "id": "Doyle-Tim",
+    "name": "Doyle, Tim",
+    "imagePath": "/artists/Tim_Doyle.webp",
+    "prompt": "artwork in the style of Doyle, Tim, illustration, USA",
+    "category": [
+      "Illustration",
+      "USA"
+    ],
+    "birthYear": null,
+    "deathYear": null
+  },
+  {
+    "id": "Driskell-David-C",
+    "name": "Driskell, David C.",
+    "imagePath": "/artists/David-C-Driskell.webp",
+    "prompt": "artwork in the style of Driskell, David C., painting, acrylic, Collage",
+    "category": [
+      "Painting",
+      "Acrylic",
+      "Collage",
+      "USA"
+    ],
+    "birthYear": 1931,
+    "deathYear": 2020
+  },
+  {
+    "id": "Druillet-Philippe",
+    "name": "Druillet, Philippe",
+    "imagePath": "/artists/Philippe_Druillet.webp",
+    "prompt": "artwork in the style of Druillet, Philippe, illustration, comic, France",
+    "category": [
+      "Illustration",
+      "Comic",
+      "France"
+    ],
+    "birthYear": 1944,
+    "deathYear": null
+  },
+  {
+    "id": "Dubuffet-Jean",
+    "name": "Dubuffet, Jean",
+    "imagePath": "/artists/Jean_Dubuffet.webp",
+    "prompt": "artwork in the style of Dubuffet, Jean, painting, France",
+    "category": [
+      "Painting",
+      "France"
+    ],
+    "birthYear": 1901,
+    "deathYear": 1985
+  },
+  {
+    "id": "Duchamp-Villon-Raymond",
+    "name": "Duchamp-Villon, Raymond",
+    "imagePath": "/artists/Raymond-Duchamp-Villon.webp",
+    "prompt": "artwork in the style of Duchamp-Villon, Raymond, sculpture, ink, Drawing",
+    "category": [
+      "Sculpture",
+      "Drawing",
+      "Ink",
+      "France"
+    ],
+    "birthYear": 1876,
+    "deathYear": 1918
+  },
+  {
+    "id": "Duddle-Jonny",
+    "name": "Duddle, Jonny",
+    "imagePath": "/artists/Jonny-Duddle.webp",
+    "prompt": "artwork in the style of Duddle, Jonny, illustration, Author",
+    "category": [
+      "Author",
+      "Illustration",
+      "Children's Book",
+      "UK"
+    ],
+    "birthYear": 1979,
+    "deathYear": null
+  },
+  {
+    "id": "Dulac-Edmund",
+    "name": "Dulac, Edmund",
+    "imagePath": "/artists/Edmund-Dulac.webp",
+    "prompt": "artwork in the style of Dulac, Edmund, illustration, watercolor, ink, France",
+    "category": [
+      "Illustration",
+      "Watercolor",
+      "Ink",
+      "France"
+    ],
+    "birthYear": 1882,
+    "deathYear": 1953
+  },
+  {
+    "id": "Durand-Asher-Brown",
+    "name": "Durand, Asher Brown",
+    "imagePath": "/artists/Asher-Brown-Durand.webp",
+    "prompt": "artwork in the style of Durand, Asher Brown, painting, oil, landscape, 19th Century, USA",
+    "category": [
+      "Painting",
+      "Oil",
+      "Landscape",
+      "USA",
+      "19th Century"
+    ],
+    "birthYear": 1796,
+    "deathYear": 1886
+  },
+  {
+    "id": "Dyer-Chris",
+    "name": "Dyer, Chris",
+    "imagePath": "/artists/Chris-Dyer.webp",
+    "prompt": "artwork in the style of Dyer, Chris, painting, Canada",
+    "category": [
+      "Painting",
+      "Canada"
+    ],
+    "birthYear": 1979,
+    "deathYear": null
+  },
+  {
+    "id": "Drer-Albrecht",
+    "name": "Dürer, Albrecht",
+    "imagePath": "/artists/Albrecht_Durer.webp",
+    "prompt": "artwork in the style of Dürer, Albrecht, illustration, engraving, 15th Century, Germany",
+    "category": [
+      "Illustration",
+      "Engraving",
+      "B&W",
+      "Germany",
+      "15th Century"
+    ],
+    "birthYear": 1471,
+    "deathYear": 1528
+  }
+]

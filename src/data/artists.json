@@ -14,12 +14,11 @@
       "19th Century"
     ],
     "birthYear": 1852,
-    "deathYear": 1911,
-    "notes": null
+    "deathYear": 1911
   },
   {
     "id": "Achenbach-Andreas",
-    "name": "Achenbach, Andreas",
+    "name": "Achenbach, Andreasw",
     "imagePath": "/artists/Andreas-Achenbach.webp",
     "prompt": "artwork in the style of Achenbach, Andreas, painting, oil, landscape, marine, 19th Century, Germany",
     "category": [
@@ -31,8 +30,7 @@
       "19th Century"
     ],
     "birthYear": 1815,
-    "deathYear": 1910,
-    "notes": null
+    "deathYear": 1910
   },
   {
     "id": "Ackroyd-Norman",
@@ -46,8 +44,7 @@
       "UK"
     ],
     "birthYear": 1938,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Adams-Ansel",
@@ -61,8 +58,7 @@
       "USA"
     ],
     "birthYear": 1902,
-    "deathYear": 1984,
-    "notes": null
+    "deathYear": 1984
   },
   {
     "id": "Adams-Art-Arthur",
@@ -79,8 +75,7 @@
       "USA"
     ],
     "birthYear": 1963,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix, DPM++ 2M Karras, Denoising 0.6"
+    "deathYear": null
   },
   {
     "id": "Adams-Neal",
@@ -96,8 +91,7 @@
       "USA"
     ],
     "birthYear": 1941,
-    "deathYear": 2022,
-    "notes": "512px + Highres. Fix, sometimes problems with eyes"
+    "deathYear": 2022
   },
   {
     "id": "Adolfsson-Mattias",
@@ -111,8 +105,7 @@
       "Sweden"
     ],
     "birthYear": 1965,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Aenami-Alena",
@@ -126,8 +119,7 @@
       "Ukraine"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Afremov-Leonid",
@@ -139,8 +131,7 @@
       "Belarus"
     ],
     "birthYear": 1955,
-    "deathYear": 2019,
-    "notes": null
+    "deathYear": 2019
   },
   {
     "id": "Afshar-Petros",
@@ -152,8 +143,7 @@
       "UK"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Aivazovsky-Ivan",
@@ -168,8 +158,7 @@
       "19th Century"
     ],
     "birthYear": 1817,
-    "deathYear": 1900,
-    "notes": null
+    "deathYear": 1900
   },
   {
     "id": "Aja-David",
@@ -183,8 +172,7 @@
       "Spain"
     ],
     "birthYear": 1977,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Albi-Alessio",
@@ -197,8 +185,7 @@
       "Italy"
     ],
     "birthYear": 1986,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Albuquerque-Rafael",
@@ -211,8 +198,7 @@
       "Brazil"
     ],
     "birthYear": 1981,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Aldridge-Miles",
@@ -225,8 +211,7 @@
       "UK"
     ],
     "birthYear": 1964,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Alizadeh-Shahab",
@@ -239,8 +224,7 @@
       "Austria"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Allred-Mike",
@@ -253,8 +237,7 @@
       "USA"
     ],
     "birthYear": 1969,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Altdorfer-Albrecht",
@@ -269,8 +252,7 @@
       "16th Century"
     ],
     "birthYear": 1480,
-    "deathYear": 1538,
-    "notes": null
+    "deathYear": 1538
   },
   {
     "id": "Amano-Yoshitaka",
@@ -284,8 +266,7 @@
       "Japan"
     ],
     "birthYear": 1952,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Amaral-Tarsila-do",
@@ -298,8 +279,7 @@
       "Brazil"
     ],
     "birthYear": 1886,
-    "deathYear": 1973,
-    "notes": null
+    "deathYear": 1973
   },
   {
     "id": "Amiet-Cuno",
@@ -315,8 +295,7 @@
       "Switzerland"
     ],
     "birthYear": 1868,
-    "deathYear": 1961,
-    "notes": null
+    "deathYear": 1961
   },
   {
     "id": "Amorsolo-Fernando",
@@ -331,8 +310,7 @@
       "Philippines"
     ],
     "birthYear": 1892,
-    "deathYear": 1972,
-    "notes": null
+    "deathYear": 1972
   },
   {
     "id": "Anacleto-Jay",
@@ -347,8 +325,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ancher-Anna",
@@ -363,8 +340,7 @@
       "19th Century"
     ],
     "birthYear": 1859,
-    "deathYear": 1935,
-    "notes": null
+    "deathYear": 1935
   },
   {
     "id": "Anderson-Richard",
@@ -378,8 +354,7 @@
       "UK"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Anderson-Wes",
@@ -391,8 +366,7 @@
       "USA"
     ],
     "birthYear": 1969,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Andreev-Alex",
@@ -405,8 +379,7 @@
       "Russia"
     ],
     "birthYear": 1972,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Andrews-Esao",
@@ -420,8 +393,7 @@
       "USA"
     ],
     "birthYear": 1978,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix (1024)"
+    "deathYear": null
   },
   {
     "id": "Ansin-Martin",
@@ -435,8 +407,7 @@
       "Uruguay"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Aoshima-Chiho",
@@ -449,8 +420,7 @@
       "Japan"
     ],
     "birthYear": 1974,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Appel-Karel",
@@ -465,8 +435,7 @@
       "Netherlands"
     ],
     "birthYear": 1921,
-    "deathYear": 2006,
-    "notes": null
+    "deathYear": 2006
   },
   {
     "id": "Apterus-Sabbas-Peter-Polach",
@@ -481,8 +450,7 @@
       "Slovakia"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Archipenko-Alexander",
@@ -500,8 +468,7 @@
       "USA"
     ],
     "birthYear": 1887,
-    "deathYear": 1964,
-    "notes": null
+    "deathYear": 1964
   },
   {
     "id": "Arcimboldo-Giuseppe",
@@ -517,8 +484,7 @@
       "16th Century"
     ],
     "birthYear": 1526,
-    "deathYear": 1593,
-    "notes": null
+    "deathYear": 1593
   },
   {
     "id": "Ardon-Mordecai",
@@ -532,8 +498,7 @@
       "Israel"
     ],
     "birthYear": 1896,
-    "deathYear": 1992,
-    "notes": null
+    "deathYear": 1992
   },
   {
     "id": "Armstrong-Rolf",
@@ -550,8 +515,7 @@
       "USA"
     ],
     "birthYear": 1889,
-    "deathYear": 1960,
-    "notes": null
+    "deathYear": 1960
   },
   {
     "id": "Arnegger-Alois",
@@ -565,8 +529,7 @@
       "Austria"
     ],
     "birthYear": 1879,
-    "deathYear": 1963,
-    "notes": null
+    "deathYear": 1963
   },
   {
     "id": "Arntzenius-Floris",
@@ -584,8 +547,7 @@
       "19th Century"
     ],
     "birthYear": 1864,
-    "deathYear": 1925,
-    "notes": null
+    "deathYear": 1925
   },
   {
     "id": "Arrivabene-Agostino",
@@ -601,8 +563,7 @@
       "Italy"
     ],
     "birthYear": 1967,
-    "deathYear": null,
-    "notes": "768px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Artgerm-Stanley-Lau",
@@ -616,8 +577,7 @@
       "DC Comics"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Asencio-Henry",
@@ -630,8 +590,7 @@
       "USA"
     ],
     "birthYear": 1971,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ast-Balthasar-van-der",
@@ -646,8 +605,7 @@
       "17th Century"
     ],
     "birthYear": 1593,
-    "deathYear": 1657,
-    "notes": null
+    "deathYear": 1657
   },
   {
     "id": "Astrup-Nikolai",
@@ -660,8 +618,7 @@
       "Norway"
     ],
     "birthYear": 1880,
-    "deathYear": 1928,
-    "notes": null
+    "deathYear": 1928
   },
   {
     "id": "Atget-Eugne",
@@ -677,8 +634,7 @@
       "19th Century"
     ],
     "birthYear": 1857,
-    "deathYear": 1927,
-    "notes": null
+    "deathYear": 1927
   },
   {
     "id": "Audubon-John-James",
@@ -692,8 +648,7 @@
       "19th Century"
     ],
     "birthYear": 1785,
-    "deathYear": 1851,
-    "notes": null
+    "deathYear": 1851
   },
   {
     "id": "Auerbach-Frank",
@@ -707,8 +662,7 @@
       "UK"
     ],
     "birthYear": 1931,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Avedon-Richard",
@@ -722,8 +676,7 @@
       "USA"
     ],
     "birthYear": 1923,
-    "deathYear": 2004,
-    "notes": null
+    "deathYear": 2004
   },
   {
     "id": "Bachalo-Chris",
@@ -738,8 +691,7 @@
       "Canada"
     ],
     "birthYear": 1965,
-    "deathYear": null,
-    "notes": "eyes are difficult, DPM++ SDE Karras, Highres. Fix, Denoising Strength 0.7"
+    "deathYear": null
   },
   {
     "id": "Bachelier-Anne",
@@ -754,8 +706,7 @@
       "France"
     ],
     "birthYear": 1949,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Bagshaw-Tom",
@@ -768,8 +719,7 @@
       "UK"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Bailly-Alice",
@@ -785,8 +735,7 @@
       "Switzerland"
     ],
     "birthYear": 1872,
-    "deathYear": 1938,
-    "notes": null
+    "deathYear": 1938
   },
   {
     "id": "Bak-Karol",
@@ -800,8 +749,7 @@
       "Poland"
     ],
     "birthYear": 1961,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Bakshi-Ralph",
@@ -816,8 +764,7 @@
       "USA"
     ],
     "birthYear": 1938,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix, DPM++ SDE Karras, had to use [from:to:when] for H.C."
+    "deathYear": null
   },
   {
     "id": "Balaskas-Christopher",
@@ -831,8 +778,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Balivet-Emily",
@@ -847,8 +793,7 @@
       "USA"
     ],
     "birthYear": 1973,
-    "deathYear": null,
-    "notes": "768px + Highres. Fix, difficult to prompt men, had to use [from:to:when]"
+    "deathYear": null
   },
   {
     "id": "Balke-Peder",
@@ -863,8 +808,7 @@
       "19th Century"
     ],
     "birthYear": 1804,
-    "deathYear": 1887,
-    "notes": null
+    "deathYear": 1887
   },
   {
     "id": "Bana-Benedick",
@@ -877,8 +821,7 @@
       "Philippines"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Barbier-George",
@@ -891,8 +834,7 @@
       "France"
     ],
     "birthYear": 1882,
-    "deathYear": 1932,
-    "notes": null
+    "deathYear": 1932
   },
   {
     "id": "Barker-Clive",
@@ -907,8 +849,7 @@
       "UK"
     ],
     "birthYear": 1952,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Barlowe-Wayne",
@@ -925,8 +866,7 @@
       "USA"
     ],
     "birthYear": 1958,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Barnes-Ernie",
@@ -941,8 +881,7 @@
       "USA"
     ],
     "birthYear": 1938,
-    "deathYear": 2009,
-    "notes": null
+    "deathYear": 2009
   },
   {
     "id": "Barnet-Will",
@@ -958,8 +897,7 @@
       "USA"
     ],
     "birthYear": 1911,
-    "deathYear": 2012,
-    "notes": null
+    "deathYear": 2012
   },
   {
     "id": "Barrett-Angela",
@@ -974,8 +912,7 @@
       "UK"
     ],
     "birthYear": 1955,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Barson-Paul",
@@ -988,8 +925,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Bartlett-Bo",
@@ -1004,8 +940,7 @@
       "USA"
     ],
     "birthYear": 1955,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Baugh-Casey",
@@ -1019,8 +954,7 @@
       "USA"
     ],
     "birthYear": 1984,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Beal-Gifford",
@@ -1034,8 +968,7 @@
       "USA"
     ],
     "birthYear": 1879,
-    "deathYear": 1956,
-    "notes": null
+    "deathYear": 1956
   },
   {
     "id": "Beardsley-Aubrey",
@@ -1048,8 +981,7 @@
       "UK"
     ],
     "birthYear": 1872,
-    "deathYear": 1898,
-    "notes": null
+    "deathYear": 1898
   },
   {
     "id": "Beatrix-Potter",
@@ -1063,8 +995,7 @@
       "UK"
     ],
     "birthYear": 1866,
-    "deathYear": 1943,
-    "notes": null
+    "deathYear": 1943
   },
   {
     "id": "Beeple-Mike-Winkelmann",
@@ -1077,8 +1008,7 @@
       "USA"
     ],
     "birthYear": 1981,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Beksiski-Zdzisaw",
@@ -1091,8 +1021,7 @@
       "Poland"
     ],
     "birthYear": 1929,
-    "deathYear": 2005,
-    "notes": null
+    "deathYear": 2005
   },
   {
     "id": "Bellmer-Hans",
@@ -1105,8 +1034,7 @@
       "Germany"
     ],
     "birthYear": 1902,
-    "deathYear": 1975,
-    "notes": null
+    "deathYear": 1975
   },
   {
     "id": "Bellows-George-Wesley",
@@ -1120,8 +1048,7 @@
       "USA"
     ],
     "birthYear": 1882,
-    "deathYear": 1925,
-    "notes": null
+    "deathYear": 1925
   },
   {
     "id": "Bemelmans-Ludwig",
@@ -1136,8 +1063,7 @@
       "USA"
     ],
     "birthYear": 1898,
-    "deathYear": 1962,
-    "notes": "512px + Highres. Fix, high denoise"
+    "deathYear": 1962
   },
   {
     "id": "Benois-Alexandre",
@@ -1151,8 +1077,7 @@
       "Russia"
     ],
     "birthYear": 1870,
-    "deathYear": 1960,
-    "notes": "quite different, but maybe still useful"
+    "deathYear": 1960
   },
   {
     "id": "Bergey-Earle-K",
@@ -1167,8 +1092,7 @@
       "USA"
     ],
     "birthYear": 1901,
-    "deathYear": 1952,
-    "notes": null
+    "deathYear": 1952
   },
   {
     "id": "Berkey-John",
@@ -1182,8 +1106,7 @@
       "USA"
     ],
     "birthYear": 1932,
-    "deathYear": 2008,
-    "notes": null
+    "deathYear": 2008
   },
   {
     "id": "Bernini-Gian-Lorenzo",
@@ -1199,8 +1122,7 @@
       "17th Century"
     ],
     "birthYear": 1598,
-    "deathYear": 1680,
-    "notes": "also did paintings, but defaults to sculptures/statues"
+    "deathYear": 1680
   },
   {
     "id": "Beskow-Elsa",
@@ -1215,8 +1137,7 @@
       "Sweden"
     ],
     "birthYear": 1874,
-    "deathYear": 1953,
-    "notes": "difficult to prompt"
+    "deathYear": 1953
   },
   {
     "id": "Bidgood-James",
@@ -1229,8 +1150,7 @@
       "USA"
     ],
     "birthYear": 1933,
-    "deathYear": 2022,
-    "notes": null
+    "deathYear": 2022
   },
   {
     "id": "Biernacki-Szymon",
@@ -1244,8 +1164,7 @@
       "Spain"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Bierstadt-Albert",
@@ -1260,8 +1179,7 @@
       "19th Century"
     ],
     "birthYear": 1830,
-    "deathYear": 1902,
-    "notes": null
+    "deathYear": 1902
   },
   {
     "id": "Biggers-John-Thomas",
@@ -1276,8 +1194,7 @@
       "USA"
     ],
     "birthYear": 1924,
-    "deathYear": 2001,
-    "notes": null
+    "deathYear": 2001
   },
   {
     "id": "Bilal-Enki",
@@ -1290,8 +1207,7 @@
       "France"
     ],
     "birthYear": 1951,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Bilibin-Ivan",
@@ -1308,8 +1224,7 @@
       "Russia"
     ],
     "birthYear": 1876,
-    "deathYear": 1942,
-    "notes": null
+    "deathYear": 1942
   },
   {
     "id": "Billy-Butcher",
@@ -1323,8 +1238,7 @@
       "Brazil"
     ],
     "birthYear": 1978,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Binkley-Ed",
@@ -1339,8 +1253,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Bischoff-Elmer",
@@ -1355,8 +1268,7 @@
       "USA"
     ],
     "birthYear": 1916,
-    "deathYear": 1991,
-    "notes": null
+    "deathYear": 1991
   },
   {
     "id": "Bisley-Simon",
@@ -1368,8 +1280,7 @@
       "UK"
     ],
     "birthYear": 1962,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Bissell-Robert",
@@ -1382,8 +1293,7 @@
       "UK"
     ],
     "birthYear": 1952,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Blair-Mary",
@@ -1396,8 +1306,7 @@
       "USA"
     ],
     "birthYear": 1911,
-    "deathYear": 1978,
-    "notes": "512px + Highres. Fix, DPM2, 40 Steps"
+    "deathYear": 1978
   },
   {
     "id": "Blanchard-Antoine",
@@ -1411,8 +1320,7 @@
       "France"
     ],
     "birthYear": 1910,
-    "deathYear": 1988,
-    "notes": null
+    "deathYear": 1988
   },
   {
     "id": "Blanche-John",
@@ -1427,8 +1335,7 @@
       "UK"
     ],
     "birthYear": 1948,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Blandin-Tim",
@@ -1440,8 +1347,7 @@
       "Sci-Fi"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": "sparse info, deleted DeviantArt and ArtStation profiles"
+    "deathYear": null
   },
   {
     "id": "Blevins-Neil",
@@ -1456,8 +1362,7 @@
       "USA"
     ],
     "birthYear": 1976,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Boccioni-Umberto",
@@ -1472,8 +1377,7 @@
       "Italy"
     ],
     "birthYear": 1882,
-    "deathYear": 1916,
-    "notes": null
+    "deathYear": 1916
   },
   {
     "id": "Bolland-Brian",
@@ -1488,8 +1392,7 @@
       "UK"
     ],
     "birthYear": 1951,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Bonestell-Chesley",
@@ -1505,8 +1408,7 @@
       "USA"
     ],
     "birthYear": 1888,
-    "deathYear": 1986,
-    "notes": null
+    "deathYear": 1986
   },
   {
     "id": "Bonhomme-Olivier",
@@ -1518,8 +1420,7 @@
       "France"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Booth-Franklin",
@@ -1533,8 +1434,7 @@
       "USA"
     ],
     "birthYear": 1874,
-    "deathYear": 1948,
-    "notes": null
+    "deathYear": 1948
   },
   {
     "id": "Bors-Matt",
@@ -1547,8 +1447,7 @@
       "USA"
     ],
     "birthYear": 1983,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Bosch-Hieronymus",
@@ -1562,8 +1461,7 @@
       "15th Century"
     ],
     "birthYear": 1450,
-    "deathYear": 1516,
-    "notes": null
+    "deathYear": 1516
   },
   {
     "id": "Bosma-Sam",
@@ -1578,8 +1476,7 @@
       "USA"
     ],
     "birthYear": 1986,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Bosschaert-Ambrosius-the-Elder",
@@ -1595,8 +1492,7 @@
       "17th Century"
     ],
     "birthYear": 1573,
-    "deathYear": 1621,
-    "notes": null
+    "deathYear": 1621
   },
   {
     "id": "Bosschart-Johfra",
@@ -1610,8 +1506,7 @@
       "Netherlands"
     ],
     "birthYear": 1919,
-    "deathYear": 1998,
-    "notes": null
+    "deathYear": 1998
   },
   {
     "id": "Botero",
@@ -1624,8 +1519,7 @@
       "Colombia"
     ],
     "birthYear": 1932,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Botticelli-Sandro",
@@ -1639,8 +1533,7 @@
       "15th Century"
     ],
     "birthYear": 1445,
-    "deathYear": 1510,
-    "notes": null
+    "deathYear": 1510
   },
   {
     "id": "Boucher-Franois",
@@ -1657,8 +1550,7 @@
       "18th Century"
     ],
     "birthYear": 1703,
-    "deathYear": 1770,
-    "notes": "512px + Highres. Fix, DPM2, 40 Steps"
+    "deathYear": 1770
   },
   {
     "id": "Bowater-Charlie",
@@ -1672,8 +1564,7 @@
       "UK"
     ],
     "birthYear": 1988,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Bowers-David-Michael",
@@ -1689,8 +1580,7 @@
       "USA"
     ],
     "birthYear": 1956,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Bowling-Frank",
@@ -1704,8 +1594,7 @@
       "UK"
     ],
     "birthYear": 1934,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Boys-Thomas-Shotter",
@@ -1719,8 +1608,7 @@
       "UK"
     ],
     "birthYear": 1803,
-    "deathYear": 1874,
-    "notes": "Thomas the Tank Engine likes to show up"
+    "deathYear": 1874
   },
   {
     "id": "Bradley-Noah",
@@ -1734,8 +1622,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Bramley-Frank",
@@ -1749,8 +1636,7 @@
       "19th Century"
     ],
     "birthYear": 1857,
-    "deathYear": 1915,
-    "notes": null
+    "deathYear": 1915
   },
   {
     "id": "Bridgman-George-B",
@@ -1764,8 +1650,7 @@
       "Canada"
     ],
     "birthYear": 1864,
-    "deathYear": 1943,
-    "notes": null
+    "deathYear": 1943
   },
   {
     "id": "Briggs-Austin",
@@ -1779,8 +1664,7 @@
       "USA"
     ],
     "birthYear": 1908,
-    "deathYear": 1973,
-    "notes": null
+    "deathYear": 1973
   },
   {
     "id": "Britto-Romero",
@@ -1794,8 +1678,7 @@
       "Brazil"
     ],
     "birthYear": 1963,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Brogan-Glen",
@@ -1807,8 +1690,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix, Euler A"
+    "deathYear": null
   },
   {
     "id": "Brom-Gerald",
@@ -1823,8 +1705,7 @@
       "USA"
     ],
     "birthYear": 1965,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Burne-Jones-Edward",
@@ -1843,8 +1724,7 @@
       "19th Century"
     ],
     "birthYear": 1833,
-    "deathYear": 1898,
-    "notes": null
+    "deathYear": 1898
   },
   {
     "id": "Burns-Jim",
@@ -1860,8 +1740,7 @@
       "UK"
     ],
     "birthYear": 1948,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Bussire-Gaston",
@@ -1877,8 +1756,7 @@
       "19th Century"
     ],
     "birthYear": 1862,
-    "deathYear": 1928,
-    "notes": null
+    "deathYear": 1928
   },
   {
     "id": "Bcklin-Arnold",
@@ -1895,8 +1773,7 @@
       "19th Century"
     ],
     "birthYear": 1827,
-    "deathYear": 1901,
-    "notes": null
+    "deathYear": 1901
   },
   {
     "id": "Cadell-Francis",
@@ -1911,8 +1788,7 @@
       "UK"
     ],
     "birthYear": 1883,
-    "deathYear": 1937,
-    "notes": "512px + Highres. Fix"
+    "deathYear": 1937
   },
   {
     "id": "Cadmus-Paul",
@@ -1928,8 +1804,7 @@
       "USA"
     ],
     "birthYear": 1904,
-    "deathYear": 1999,
-    "notes": null
+    "deathYear": 1999
   },
   {
     "id": "Caldwell-Clyde",
@@ -1946,8 +1821,7 @@
       "USA"
     ],
     "birthYear": 1948,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix, DPM++ SDE Karras"
+    "deathYear": null
   },
   {
     "id": "Calleri-Fred",
@@ -1961,8 +1835,7 @@
       "USA"
     ],
     "birthYear": 1964,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Camoin-Charles",
@@ -1976,8 +1849,7 @@
       "France"
     ],
     "birthYear": 1879,
-    "deathYear": 1965,
-    "notes": null
+    "deathYear": 1965
   },
   {
     "id": "Campbell-Cooper-Colin",
@@ -1992,8 +1864,7 @@
       "USA"
     ],
     "birthYear": 1856,
-    "deathYear": 1937,
-    "notes": null
+    "deathYear": 1937
   },
   {
     "id": "Campion-Pascal",
@@ -2006,8 +1877,7 @@
       "France"
     ],
     "birthYear": 1973,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Caniff-Milton",
@@ -2020,8 +1890,7 @@
       "USA"
     ],
     "birthYear": 1907,
-    "deathYear": 1988,
-    "notes": null
+    "deathYear": 1988
   },
   {
     "id": "Carpio-Pablo",
@@ -2035,8 +1904,7 @@
       "Spain"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Carson-Michael",
@@ -2050,8 +1918,7 @@
       "USA"
     ],
     "birthYear": 1972,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Caruso-Santiago",
@@ -2069,8 +1936,7 @@
       "Argentina"
     ],
     "birthYear": 1982,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Cassegrain-Didier",
@@ -2083,8 +1949,7 @@
       "France"
     ],
     "birthYear": 1966,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Casson-Alfred-Joseph",
@@ -2098,8 +1963,7 @@
       "Canada"
     ],
     "birthYear": 1898,
-    "deathYear": 1992,
-    "notes": null
+    "deathYear": 1992
   },
   {
     "id": "Catherall-Paul",
@@ -2115,8 +1979,7 @@
       "UK"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Cearley-Clint",
@@ -2131,8 +1994,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Cecile-Agnes-Silvia-Pelissero",
@@ -2147,8 +2009,7 @@
       "Italy"
     ],
     "birthYear": 1991,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Chagall-Marc",
@@ -2163,8 +2024,7 @@
       "France"
     ],
     "birthYear": 1887,
-    "deathYear": 1985,
-    "notes": null
+    "deathYear": 1985
   },
   {
     "id": "Chamberlain-John",
@@ -2177,8 +2037,7 @@
       "USA"
     ],
     "birthYear": 1927,
-    "deathYear": 2011,
-    "notes": null
+    "deathYear": 2011
   },
   {
     "id": "Chardin-Jean-Simon",
@@ -2194,8 +2053,7 @@
       "France"
     ],
     "birthYear": 1699,
-    "deathYear": 1779,
-    "notes": null
+    "deathYear": 1779
   },
   {
     "id": "Charest-Travis",
@@ -2210,8 +2068,7 @@
       "Canada"
     ],
     "birthYear": 1969,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Chavannes-Pierre-Puvis-de",
@@ -2226,8 +2083,7 @@
       "19th Century"
     ],
     "birthYear": 1824,
-    "deathYear": 1898,
-    "notes": null
+    "deathYear": 1898
   },
   {
     "id": "Cheng-Hsiao-Ron-",
@@ -2240,8 +2096,7 @@
       "Taiwan"
     ],
     "birthYear": 1986,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Cheng-Yanjun",
@@ -2253,8 +2108,7 @@
       "Portrait"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": "DPM++ 2M Karras"
+    "deathYear": null
   },
   {
     "id": "Chermayeff-Ivan",
@@ -2269,8 +2123,7 @@
       "USA"
     ],
     "birthYear": 1932,
-    "deathYear": 2017,
-    "notes": null
+    "deathYear": 2017
   },
   {
     "id": "Cheval-Michael",
@@ -2286,8 +2139,7 @@
       "USA"
     ],
     "birthYear": 1966,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix, DPM++ 2M Karras, sometimes horses (cheval = french for horse)"
+    "deathYear": null
   },
   {
     "id": "Chevrier-Sandra",
@@ -2301,8 +2153,7 @@
       "Canada"
     ],
     "birthYear": 1983,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Cho-Frank",
@@ -2319,8 +2170,7 @@
       "USA"
     ],
     "birthYear": 1971,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Christensen-James-C",
@@ -2336,8 +2186,7 @@
       "USA"
     ],
     "birthYear": 1942,
-    "deathYear": 2017,
-    "notes": null
+    "deathYear": 2017
   },
   {
     "id": "Cimabue-Cenni-di-Pepo",
@@ -2353,8 +2202,7 @@
       "13th Century"
     ],
     "birthYear": 1240,
-    "deathYear": 1302,
-    "notes": null
+    "deathYear": 1302
   },
   {
     "id": "Ciurlionis-Mikalojus",
@@ -2368,8 +2216,7 @@
       "19th Century"
     ],
     "birthYear": 1875,
-    "deathYear": 1911,
-    "notes": null
+    "deathYear": 1911
   },
   {
     "id": "Clarke-Harry",
@@ -2382,8 +2229,7 @@
       "Ireland"
     ],
     "birthYear": 1889,
-    "deathYear": 1931,
-    "notes": null
+    "deathYear": 1931
   },
   {
     "id": "Clive-Henry",
@@ -2398,8 +2244,7 @@
       "USA"
     ],
     "birthYear": 1883,
-    "deathYear": 1960,
-    "notes": null
+    "deathYear": 1960
   },
   {
     "id": "Cloonan-Becky",
@@ -2413,8 +2258,7 @@
       "USA"
     ],
     "birthYear": 1980,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Cobb-Ron",
@@ -2428,8 +2272,7 @@
       "USA"
     ],
     "birthYear": 1937,
-    "deathYear": 2020,
-    "notes": null
+    "deathYear": 2020
   },
   {
     "id": "Coburn-Alvin-Langdon",
@@ -2443,8 +2286,7 @@
       "USA"
     ],
     "birthYear": 1882,
-    "deathYear": 1966,
-    "notes": null
+    "deathYear": 1966
   },
   {
     "id": "Cold-Chris",
@@ -2458,8 +2300,7 @@
       "Spain"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Conder-Charles-Edward",
@@ -2476,8 +2317,7 @@
       "19th Century"
     ],
     "birthYear": 1868,
-    "deathYear": 1909,
-    "notes": null
+    "deathYear": 1909
   },
   {
     "id": "Condo-George",
@@ -2492,8 +2332,7 @@
       "USA"
     ],
     "birthYear": 1957,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Constable-John",
@@ -2508,8 +2347,7 @@
       "18th Century"
     ],
     "birthYear": 1776,
-    "deathYear": 1837,
-    "notes": null
+    "deathYear": 1837
   },
   {
     "id": "Coomber-Yvonne",
@@ -2523,8 +2361,7 @@
       "UK"
     ],
     "birthYear": 1964,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Corben-Richard",
@@ -2539,8 +2376,7 @@
       "USA"
     ],
     "birthYear": 1940,
-    "deathYear": 2020,
-    "notes": null
+    "deathYear": 2020
   },
   {
     "id": "Corfield-Paul",
@@ -2553,8 +2389,7 @@
       "UK"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Corot-Jean-Baptiste-Camille",
@@ -2570,8 +2405,7 @@
       "18th Century"
     ],
     "birthYear": 1796,
-    "deathYear": 1875,
-    "notes": null
+    "deathYear": 1875
   },
   {
     "id": "Coss-Shawn",
@@ -2583,8 +2417,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Cossa-Francesco-del",
@@ -2600,8 +2433,7 @@
       "15th Century"
     ],
     "birthYear": 1430,
-    "deathYear": 1478,
-    "notes": null
+    "deathYear": 1478
   },
   {
     "id": "Crane-Walter",
@@ -2617,8 +2449,7 @@
       "19th Century"
     ],
     "birthYear": 1845,
-    "deathYear": 1915,
-    "notes": null
+    "deathYear": 1915
   },
   {
     "id": "Crepax-Guido",
@@ -2635,8 +2466,7 @@
       "Italy"
     ],
     "birthYear": 1933,
-    "deathYear": 2003,
-    "notes": null
+    "deathYear": 2003
   },
   {
     "id": "Crewdson-Gregory",
@@ -2650,8 +2480,7 @@
       "USA"
     ],
     "birthYear": 1962,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Criswell-Debbie",
@@ -2663,8 +2492,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Crosby-Njideka-Akunyili",
@@ -2682,8 +2510,7 @@
       "USA"
     ],
     "birthYear": 1983,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Cross-Henri-Edmond",
@@ -2700,8 +2527,7 @@
       "19th Century"
     ],
     "birthYear": 1856,
-    "deathYear": 1910,
-    "notes": null
+    "deathYear": 1910
   },
   {
     "id": "Crcy-Nicolas-de",
@@ -2714,8 +2540,7 @@
       "France"
     ],
     "birthYear": 1966,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Currin-John",
@@ -2730,8 +2555,7 @@
       "USA"
     ],
     "birthYear": 1962,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Czanne-Paul",
@@ -2749,8 +2573,7 @@
       "19th Century"
     ],
     "birthYear": 1839,
-    "deathYear": 1906,
-    "notes": null
+    "deathYear": 1906
   },
   {
     "id": "Da-Vinci-Leonardo",
@@ -2767,8 +2590,7 @@
       "15th Century"
     ],
     "birthYear": 1452,
-    "deathYear": 1519,
-    "notes": null
+    "deathYear": 1519
   },
   {
     "id": "DaLuz-Steven",
@@ -2780,8 +2602,7 @@
       "USA"
     ],
     "birthYear": 1953,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Daeni-Pino",
@@ -2796,8 +2617,7 @@
       "Italy"
     ],
     "birthYear": 1939,
-    "deathYear": 2010,
-    "notes": null
+    "deathYear": 2010
   },
   {
     "id": "Dahl-Wolfe-Louise",
@@ -2810,8 +2630,7 @@
       "USA"
     ],
     "birthYear": 1895,
-    "deathYear": 1989,
-    "notes": null
+    "deathYear": 1989
   },
   {
     "id": "Dalrymple-Farel",
@@ -2830,8 +2649,7 @@
       "USA"
     ],
     "birthYear": 1972,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Darger-Henry",
@@ -2845,8 +2663,7 @@
       "USA"
     ],
     "birthYear": 1892,
-    "deathYear": 1973,
-    "notes": null
+    "deathYear": 1973
   },
   {
     "id": "Darrow-Geof",
@@ -2861,8 +2678,7 @@
       "USA"
     ],
     "birthYear": 1955,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Daumier-Honor",
@@ -2878,8 +2694,7 @@
       "19th Century"
     ],
     "birthYear": 1808,
-    "deathYear": 1879,
-    "notes": "use lithography as additional keyword if subject doesn't take the style"
+    "deathYear": 1879
   },
   {
     "id": "David-Jacques-Louis",
@@ -2895,8 +2710,7 @@
       "18th Century"
     ],
     "birthYear": 1748,
-    "deathYear": 1825,
-    "notes": null
+    "deathYear": 1825
   },
   {
     "id": "Davis-Jack",
@@ -2909,8 +2723,7 @@
       "USA"
     ],
     "birthYear": 1924,
-    "deathYear": 2016,
-    "notes": "512px + Highres. Fix"
+    "deathYear": 2016
   },
   {
     "id": "Davis-Marc",
@@ -2924,8 +2737,7 @@
       "Disney"
     ],
     "birthYear": 1913,
-    "deathYear": 2000,
-    "notes": null
+    "deathYear": 2000
   },
   {
     "id": "Davison-Craig",
@@ -2938,8 +2750,7 @@
       "UK"
     ],
     "birthYear": 1965,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "De-Ro-Jonas",
@@ -2952,8 +2763,7 @@
       "Belgium"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "DeConnick-Kelly-Sue",
@@ -2967,8 +2777,7 @@
       "USA"
     ],
     "birthYear": 1970,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "DeForge-Michael",
@@ -2982,8 +2791,7 @@
       "Canada"
     ],
     "birthYear": 1987,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Deakin-Edwin",
@@ -3001,8 +2809,7 @@
       "19th Century"
     ],
     "birthYear": 1838,
-    "deathYear": 1923,
-    "notes": null
+    "deathYear": 1923
   },
   {
     "id": "Degas-Edgar",
@@ -3018,8 +2825,7 @@
       "19th Century"
     ],
     "birthYear": 1834,
-    "deathYear": 1917,
-    "notes": null
+    "deathYear": 1917
   },
   {
     "id": "Delaunay-Robert-Victor-Flix",
@@ -3036,8 +2842,7 @@
       "France"
     ],
     "birthYear": 1885,
-    "deathYear": 1941,
-    "notes": null
+    "deathYear": 1941
   },
   {
     "id": "Delort-Nicolas",
@@ -3054,8 +2859,7 @@
       "France"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": "768px minimum"
+    "deathYear": null
   },
   {
     "id": "Delville-Jean",
@@ -3069,8 +2873,7 @@
       "19th Century"
     ],
     "birthYear": 1867,
-    "deathYear": 1953,
-    "notes": "Steps: 20, Sampler: Euler a, CFG scale: 7, Size: 512x512, Denoising strength: 0.2, Hires upscale: 2, Hires upscaler: SwinIR_4x"
+    "deathYear": 1953
   },
   {
     "id": "Delvoye-Wim",
@@ -3082,8 +2885,7 @@
       "Belgium"
     ],
     "birthYear": 1965,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Denis-Maurice",
@@ -3097,8 +2899,7 @@
       "19th Century"
     ],
     "birthYear": 1870,
-    "deathYear": 1943,
-    "notes": null
+    "deathYear": 1943
   },
   {
     "id": "Denning-Guy",
@@ -3113,8 +2914,7 @@
       "UK"
     ],
     "birthYear": 1965,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Deodato-Mike",
@@ -3129,8 +2929,7 @@
       "Brazil"
     ],
     "birthYear": 1963,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Detmold-Charles-Maurice",
@@ -3144,8 +2943,7 @@
       "UK"
     ],
     "birthYear": 1883,
-    "deathYear": 1908,
-    "notes": null
+    "deathYear": 1908
   },
   {
     "id": "Di-Fate-Vincent",
@@ -3161,8 +2959,7 @@
       "USA"
     ],
     "birthYear": 1945,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Dillon-Diane",
@@ -3176,8 +2973,7 @@
       "USA"
     ],
     "birthYear": 1933,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ditko-Steve",
@@ -3190,8 +2986,7 @@
       "USA"
     ],
     "birthYear": 1927,
-    "deathYear": 2018,
-    "notes": null
+    "deathYear": 2018
   },
   {
     "id": "Dittmann-Anna",
@@ -3205,8 +3000,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Dor-Gustave",
@@ -3221,8 +3015,7 @@
       "19th Century"
     ],
     "birthYear": 1832,
-    "deathYear": 1883,
-    "notes": null
+    "deathYear": 1883
   },
   {
     "id": "Downton-David",
@@ -3236,8 +3029,7 @@
       "UK"
     ],
     "birthYear": 1959,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Doyle-Tim",
@@ -3249,8 +3041,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Driskell-David-C",
@@ -3264,8 +3055,7 @@
       "USA"
     ],
     "birthYear": 1931,
-    "deathYear": 2020,
-    "notes": null
+    "deathYear": 2020
   },
   {
     "id": "Druillet-Philippe",
@@ -3278,8 +3068,7 @@
       "France"
     ],
     "birthYear": 1944,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Dubuffet-Jean",
@@ -3291,8 +3080,7 @@
       "France"
     ],
     "birthYear": 1901,
-    "deathYear": 1985,
-    "notes": null
+    "deathYear": 1985
   },
   {
     "id": "Duchamp-Villon-Raymond",
@@ -3306,8 +3094,7 @@
       "France"
     ],
     "birthYear": 1876,
-    "deathYear": 1918,
-    "notes": null
+    "deathYear": 1918
   },
   {
     "id": "Duddle-Jonny",
@@ -3321,8 +3108,7 @@
       "UK"
     ],
     "birthYear": 1979,
-    "deathYear": null,
-    "notes": "output quite different/generic, but more colorful than the Disney artists"
+    "deathYear": null
   },
   {
     "id": "Dulac-Edmund",
@@ -3336,8 +3122,7 @@
       "France"
     ],
     "birthYear": 1882,
-    "deathYear": 1953,
-    "notes": null
+    "deathYear": 1953
   },
   {
     "id": "Durand-Asher-Brown",
@@ -3352,8 +3137,7 @@
       "19th Century"
     ],
     "birthYear": 1796,
-    "deathYear": 1886,
-    "notes": null
+    "deathYear": 1886
   },
   {
     "id": "Dyer-Chris",
@@ -3365,8 +3149,7 @@
       "Canada"
     ],
     "birthYear": 1979,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Drer-Albrecht",
@@ -3381,8 +3164,7 @@
       "15th Century"
     ],
     "birthYear": 1471,
-    "deathYear": 1528,
-    "notes": null
+    "deathYear": 1528
   },
   {
     "id": "Eakins-Thomas",
@@ -3399,8 +3181,7 @@
       "19th Century"
     ],
     "birthYear": 1844,
-    "deathYear": 1916,
-    "notes": null
+    "deathYear": 1916
   },
   {
     "id": "Earle-Eyvind",
@@ -3416,8 +3197,7 @@
       "USA"
     ],
     "birthYear": 1916,
-    "deathYear": 2000,
-    "notes": null
+    "deathYear": 2000
   },
   {
     "id": "Earles-Amy",
@@ -3432,8 +3212,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Easley-Jeff",
@@ -3449,8 +3228,7 @@
       "USA"
     ],
     "birthYear": 1954,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix, DPM++ SDE Karras"
+    "deathYear": null
   },
   {
     "id": "Eaton-Tristan",
@@ -3464,8 +3242,7 @@
       "USA"
     ],
     "birthYear": 1978,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Edlin-Tyler",
@@ -3480,8 +3257,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Edmiston-Jason",
@@ -3495,8 +3271,7 @@
       "Canada"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Eggleston-William",
@@ -3508,8 +3283,7 @@
       "USA"
     ],
     "birthYear": 1939,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Eggleton-Bob",
@@ -3527,8 +3301,7 @@
       "USA"
     ],
     "birthYear": 1960,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Eisner-Will",
@@ -3540,8 +3313,7 @@
       "USA"
     ],
     "birthYear": 1917,
-    "deathYear": 2005,
-    "notes": null
+    "deathYear": 2005
   },
   {
     "id": "El-Greco-Domnikos-Theotokpoulos",
@@ -3557,8 +3329,7 @@
       "16th Century"
     ],
     "birthYear": 1541,
-    "deathYear": 1614,
-    "notes": null
+    "deathYear": 1614
   },
   {
     "id": "Ellis-Dean",
@@ -3573,8 +3344,7 @@
       "USA"
     ],
     "birthYear": 1920,
-    "deathYear": 2009,
-    "notes": null
+    "deathYear": 2009
   },
   {
     "id": "Elsheimer-Adam",
@@ -3591,8 +3361,7 @@
       "16th Century"
     ],
     "birthYear": 1578,
-    "deathYear": 1610,
-    "notes": null
+    "deathYear": 1610
   },
   {
     "id": "Elson-Peter",
@@ -3607,8 +3376,7 @@
       "UK"
     ],
     "birthYear": 1947,
-    "deathYear": 1998,
-    "notes": null
+    "deathYear": 1998
   },
   {
     "id": "Elvgren-Gil",
@@ -3621,8 +3389,7 @@
       "USA"
     ],
     "birthYear": 1914,
-    "deathYear": 1980,
-    "notes": "512px + Highres. Fix"
+    "deathYear": 1980
   },
   {
     "id": "Emshwiller-Ed",
@@ -3635,8 +3402,7 @@
       "USA"
     ],
     "birthYear": 1925,
-    "deathYear": 1990,
-    "notes": null
+    "deathYear": 1990
   },
   {
     "id": "Eng-Kilian",
@@ -3648,8 +3414,7 @@
       "Sweden"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Enjolras-Delphin",
@@ -3665,8 +3430,7 @@
       "France"
     ],
     "birthYear": 1857,
-    "deathYear": 1945,
-    "notes": null
+    "deathYear": 1945
   },
   {
     "id": "Erni-Hans",
@@ -3679,8 +3443,7 @@
       "Switzerland"
     ],
     "birthYear": 1909,
-    "deathYear": 2015,
-    "notes": null
+    "deathYear": 2015
   },
   {
     "id": "Ernst-Maximilian-Maria",
@@ -3696,8 +3459,7 @@
       "France"
     ],
     "birthYear": 1891,
-    "deathYear": 1976,
-    "notes": "had to use [from:to:when] for H.C."
+    "deathYear": 1976
   },
   {
     "id": "Ert-Romain-de-Tirtoff",
@@ -3713,8 +3475,7 @@
       "France"
     ],
     "birthYear": 1892,
-    "deathYear": 1990,
-    "notes": null
+    "deathYear": 1990
   },
   {
     "id": "Escher-Maurits-Cornelis",
@@ -3728,8 +3489,7 @@
       "Netherlands"
     ],
     "birthYear": 1898,
-    "deathYear": 1972,
-    "notes": null
+    "deathYear": 1972
   },
   {
     "id": "Eversen-Adrianus",
@@ -3744,8 +3504,7 @@
       "19th Century"
     ],
     "birthYear": 1818,
-    "deathYear": 1897,
-    "notes": null
+    "deathYear": 1897
   },
   {
     "id": "Fabry-Glenn",
@@ -3763,8 +3522,7 @@
       "UK"
     ],
     "birthYear": 1961,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Fadeev-Anton",
@@ -3778,8 +3536,7 @@
       "Russia"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Fairey-Shepard",
@@ -3793,8 +3550,7 @@
       "USA"
     ],
     "birthYear": 1970,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Fairhurst-Andy",
@@ -3808,8 +3564,7 @@
       "Australia"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Falter-John-Philip",
@@ -3824,8 +3579,7 @@
       "USA"
     ],
     "birthYear": 1910,
-    "deathYear": 1982,
-    "notes": null
+    "deathYear": 1982
   },
   {
     "id": "Fang-Lijun",
@@ -3839,8 +3593,7 @@
       "China"
     ],
     "birthYear": 1963,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Fantin-Latour-Henri",
@@ -3857,8 +3610,7 @@
       "France"
     ],
     "birthYear": 1836,
-    "deathYear": 1904,
-    "notes": null
+    "deathYear": 1904
   },
   {
     "id": "Fegredo-Duncan",
@@ -3870,8 +3622,7 @@
       "UK"
     ],
     "birthYear": 1964,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Feininger-Lyonel",
@@ -3885,8 +3636,7 @@
       "USA"
     ],
     "birthYear": 1871,
-    "deathYear": 1956,
-    "notes": null
+    "deathYear": 1956
   },
   {
     "id": "Ferez-Andrew",
@@ -3899,8 +3649,7 @@
       "Russia"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ferri-Roberto",
@@ -3916,8 +3665,7 @@
       "Italy"
     ],
     "birthYear": 1978,
-    "deathYear": null,
-    "notes": "didn't want to blur everything, so used Dreamshaper"
+    "deathYear": null
   },
   {
     "id": "Ferriss-Hugh",
@@ -3933,8 +3681,7 @@
       "19th Century"
     ],
     "birthYear": 1889,
-    "deathYear": 1962,
-    "notes": null
+    "deathYear": 1962
   },
   {
     "id": "Finlay-Virgil",
@@ -3949,8 +3696,7 @@
       "USA"
     ],
     "birthYear": 1914,
-    "deathYear": 1971,
-    "notes": null
+    "deathYear": 1971
   },
   {
     "id": "Finnstark-Anato",
@@ -3964,8 +3710,7 @@
       "France"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Fischer-Paul-Gustav",
@@ -3980,8 +3725,7 @@
       "Denmark"
     ],
     "birthYear": 1860,
-    "deathYear": 1934,
-    "notes": null
+    "deathYear": 1934
   },
   {
     "id": "Fischinger-Oskar",
@@ -3995,8 +3739,7 @@
       "Germany"
     ],
     "birthYear": 1900,
-    "deathYear": 1967,
-    "notes": null
+    "deathYear": 1967
   },
   {
     "id": "Flavin-Dan",
@@ -4009,8 +3752,7 @@
       "USA"
     ],
     "birthYear": 1933,
-    "deathYear": 1996,
-    "notes": null
+    "deathYear": 1996
   },
   {
     "id": "Flinck-Govert",
@@ -4025,8 +3767,7 @@
       "17th Century"
     ],
     "birthYear": 1615,
-    "deathYear": 1660,
-    "notes": null
+    "deathYear": 1660
   },
   {
     "id": "Flint-Alex-Russell",
@@ -4040,8 +3781,7 @@
       "UK"
     ],
     "birthYear": 1974,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Foksowicz-Piotr",
@@ -4056,8 +3796,7 @@
       "Poland"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Forbes-Stanhope",
@@ -4072,8 +3811,7 @@
       "19th Century"
     ],
     "birthYear": 1857,
-    "deathYear": 1947,
-    "notes": null
+    "deathYear": 1947
   },
   {
     "id": "Fortescue-Brickdale-Eleanor",
@@ -4086,8 +3824,7 @@
       "UK"
     ],
     "birthYear": 1872,
-    "deathYear": 1945,
-    "notes": null
+    "deathYear": 1945
   },
   {
     "id": "Foss-Chris",
@@ -4101,8 +3838,7 @@
       "Guernsey"
     ],
     "birthYear": 1946,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Foster-Hal",
@@ -4115,8 +3851,7 @@
       "Canada"
     ],
     "birthYear": 1892,
-    "deathYear": 1982,
-    "notes": null
+    "deathYear": 1982
   },
   {
     "id": "Foster-Jon",
@@ -4132,8 +3867,7 @@
       "USA"
     ],
     "birthYear": 1941,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Fra-Angelico",
@@ -4150,8 +3884,7 @@
       "15th Century"
     ],
     "birthYear": 1395,
-    "deathYear": 1455,
-    "notes": null
+    "deathYear": 1455
   },
   {
     "id": "Fraction-Matt",
@@ -4164,8 +3897,7 @@
       "USA"
     ],
     "birthYear": 1975,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Fragonard-Jean-Honor",
@@ -4181,8 +3913,7 @@
       "18th Century"
     ],
     "birthYear": 1732,
-    "deathYear": 1806,
-    "notes": null
+    "deathYear": 1806
   },
   {
     "id": "Francavilla-Francesco",
@@ -4198,8 +3929,7 @@
       "Italy"
     ],
     "birthYear": 1950,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Francesca-Piero-della",
@@ -4213,8 +3943,7 @@
       "15th Century"
     ],
     "birthYear": 1410,
-    "deathYear": 1492,
-    "notes": null
+    "deathYear": 1492
   },
   {
     "id": "Frank-Lisa",
@@ -4227,8 +3956,7 @@
       "USA"
     ],
     "birthYear": 1955,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Frazetta-Frank",
@@ -4242,8 +3970,7 @@
       "USA"
     ],
     "birthYear": 1928,
-    "deathYear": 2010,
-    "notes": "512px + Highres. Fix"
+    "deathYear": 2010
   },
   {
     "id": "Friedrich-Caspar-David",
@@ -4259,8 +3986,7 @@
       "19th Century"
     ],
     "birthYear": 1774,
-    "deathYear": 1840,
-    "notes": null
+    "deathYear": 1840
   },
   {
     "id": "Friel-Chris",
@@ -4274,8 +4000,7 @@
       "UK"
     ],
     "birthYear": 1959,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Froud-Brian",
@@ -4290,8 +4015,7 @@
       "UK"
     ],
     "birthYear": 1947,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Fuchs-Ando",
@@ -4306,8 +4030,7 @@
       "Italy"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Fujita-Goro",
@@ -4322,8 +4045,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Gallagher-Ellen",
@@ -4339,8 +4061,7 @@
       "USA"
     ],
     "birthYear": 1965,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Gammell-Stephen",
@@ -4355,8 +4076,7 @@
       "USA"
     ],
     "birthYear": 1943,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Gangloff-Hope",
@@ -4369,8 +4089,7 @@
       "USA"
     ],
     "birthYear": 1974,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Gauguin-Paul",
@@ -4385,8 +4104,7 @@
       "19th Century"
     ],
     "birthYear": 1848,
-    "deathYear": 1903,
-    "notes": null
+    "deathYear": 1903
   },
   {
     "id": "Geddes-Jeremy",
@@ -4402,8 +4120,7 @@
       "New Zealand"
     ],
     "birthYear": 1974,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Gentileschi-Artemisia",
@@ -4419,8 +4136,7 @@
       "17th Century"
     ],
     "birthYear": 1593,
-    "deathYear": 1653,
-    "notes": null
+    "deathYear": 1653
   },
   {
     "id": "Georgi-Edwin",
@@ -4437,8 +4153,7 @@
       "USA"
     ],
     "birthYear": 1896,
-    "deathYear": 1964,
-    "notes": null
+    "deathYear": 1964
   },
   {
     "id": "Gerard-Justin",
@@ -4451,8 +4166,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Gerhartz-Daniel-F",
@@ -4466,8 +4180,7 @@
       "USA"
     ],
     "birthYear": 1965,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ghailan-Atey",
@@ -4481,8 +4194,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ghenie-Adrian",
@@ -4495,8 +4207,7 @@
       "Romania"
     ],
     "birthYear": 1977,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ghirlandaio-Domenico",
@@ -4512,8 +4223,7 @@
       "15th Century"
     ],
     "birthYear": 1448,
-    "deathYear": 1494,
-    "notes": null
+    "deathYear": 1494
   },
   {
     "id": "Giancola-Donato",
@@ -4530,8 +4240,7 @@
       "USA"
     ],
     "birthYear": 1967,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Gibbons-Dave",
@@ -4549,8 +4258,7 @@
       "UK"
     ],
     "birthYear": 1949,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Gibson-Charles-Dana",
@@ -4564,8 +4272,7 @@
       "USA"
     ],
     "birthYear": 1867,
-    "deathYear": 1944,
-    "notes": null
+    "deathYear": 1944
   },
   {
     "id": "Gibson-Ralph",
@@ -4578,8 +4285,7 @@
       "USA"
     ],
     "birthYear": 1939,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Giger-Hans-Rudolf",
@@ -4595,8 +4301,7 @@
       "Switzerland"
     ],
     "birthYear": 1940,
-    "deathYear": 2014,
-    "notes": null
+    "deathYear": 2014
   },
   {
     "id": "Gilleard-James",
@@ -4610,8 +4315,7 @@
       "UK"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Gilliam-Sam",
@@ -4624,8 +4328,7 @@
       "USA"
     ],
     "birthYear": 1933,
-    "deathYear": 2022,
-    "notes": null
+    "deathYear": 2022
   },
   {
     "id": "Glackens-William-James",
@@ -4639,8 +4342,7 @@
       "19th Century"
     ],
     "birthYear": 1870,
-    "deathYear": 1938,
-    "notes": null
+    "deathYear": 1938
   },
   {
     "id": "Glaser-Milton",
@@ -4653,8 +4355,7 @@
       "USA"
     ],
     "birthYear": 1929,
-    "deathYear": 2020,
-    "notes": null
+    "deathYear": 2020
   },
   {
     "id": "Goble-Warwick",
@@ -4670,8 +4371,7 @@
       "19th Century"
     ],
     "birthYear": 1862,
-    "deathYear": 1943,
-    "notes": null
+    "deathYear": 1943
   },
   {
     "id": "Gogos-Basil",
@@ -4691,8 +4391,7 @@
       "USA"
     ],
     "birthYear": 1929,
-    "deathYear": 2017,
-    "notes": "wants to create basil leaves"
+    "deathYear": 2017
   },
   {
     "id": "Goldin-Nan",
@@ -4705,8 +4404,7 @@
       "USA"
     ],
     "birthYear": 1953,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Gonsalves-Rob",
@@ -4721,8 +4419,7 @@
       "Canada"
     ],
     "birthYear": 1959,
-    "deathYear": 2017,
-    "notes": null
+    "deathYear": 2017
   },
   {
     "id": "Gonzalez-Josan-Death-Burger",
@@ -4734,8 +4431,7 @@
       "Cocos Islands"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Gordin-Misha",
@@ -4749,8 +4445,7 @@
       "Latvia"
     ],
     "birthYear": 1946,
-    "deathYear": 2020,
-    "notes": null
+    "deathYear": 2020
   },
   {
     "id": "Gores-Derek",
@@ -4762,8 +4457,7 @@
       "USA"
     ],
     "birthYear": 1971,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Gottardo-Alessandro-Shout",
@@ -4776,8 +4470,7 @@
       "Italy"
     ],
     "birthYear": 1977,
-    "deathYear": null,
-    "notes": "DPM++ SDE Karras"
+    "deathYear": null
   },
   {
     "id": "Grandville-JJ",
@@ -4792,8 +4485,7 @@
       "19th Century"
     ],
     "birthYear": 1803,
-    "deathYear": 1847,
-    "notes": null
+    "deathYear": 1847
   },
   {
     "id": "Grant-Duncan",
@@ -4808,8 +4500,7 @@
       "UK"
     ],
     "birthYear": 1885,
-    "deathYear": 1978,
-    "notes": null
+    "deathYear": 1978
   },
   {
     "id": "Grasset-Eugne",
@@ -4824,8 +4515,7 @@
       "19th Century"
     ],
     "birthYear": 1845,
-    "deathYear": 1917,
-    "notes": "768px minimum"
+    "deathYear": 1917
   },
   {
     "id": "Greasley-Laurie",
@@ -4839,8 +4529,7 @@
       "UK"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Greenaway-Kate",
@@ -4855,8 +4544,7 @@
       "19th Century"
     ],
     "birthYear": 1846,
-    "deathYear": 1901,
-    "notes": null
+    "deathYear": 1901
   },
   {
     "id": "Grelle-Martin",
@@ -4868,8 +4556,7 @@
       "USA"
     ],
     "birthYear": 1954,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Grey-Alex",
@@ -4883,8 +4570,7 @@
       "USA"
     ],
     "birthYear": 1953,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Gric-Peter",
@@ -4898,8 +4584,7 @@
       "Czech Republic"
     ],
     "birthYear": 1968,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Griffiths-Carne",
@@ -4913,8 +4598,7 @@
       "UK"
     ],
     "birthYear": 1973,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Grimly-Gris",
@@ -4928,8 +4612,7 @@
       "USA"
     ],
     "birthYear": 1975,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Grimmer-Jordan",
@@ -4942,8 +4625,7 @@
       "UK"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Grimshaw-John-Atkinson",
@@ -4958,8 +4640,7 @@
       "19th Century"
     ],
     "birthYear": 1836,
-    "deathYear": 1893,
-    "notes": null
+    "deathYear": 1893
   },
   {
     "id": "Gross-Alex",
@@ -4973,8 +4654,7 @@
       "USA"
     ],
     "birthYear": 1968,
-    "deathYear": null,
-    "notes": "hard to get anything besides upper body portraits"
+    "deathYear": null
   },
   {
     "id": "Guangjian-Huang",
@@ -4988,8 +4668,7 @@
       "China"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Guay-Rebecca",
@@ -5003,8 +4682,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Guay-Sam",
@@ -5019,8 +4697,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix, had to use [from:to:when] for H.C."
+    "deathYear": null
   },
   {
     "id": "Guillaumin-Armand",
@@ -5037,8 +4714,7 @@
       "19th Century"
     ],
     "birthYear": 1841,
-    "deathYear": 1927,
-    "notes": null
+    "deathYear": 1927
   },
   {
     "id": "Guillemin-Grgoire",
@@ -5052,8 +4728,7 @@
       "France"
     ],
     "birthYear": 1967,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Gutekunst-Saskia",
@@ -5066,8 +4741,7 @@
       "Germany"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Guweiz-Zheng-Wei-Gu",
@@ -5080,8 +4754,7 @@
       "Singapore"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Hacker-Arthur",
@@ -5096,8 +4769,7 @@
       "19th Century"
     ],
     "birthYear": 1858,
-    "deathYear": 1919,
-    "notes": null
+    "deathYear": 1919
   },
   {
     "id": "Haeckel-Ernst",
@@ -5110,8 +4782,7 @@
       "19th Century"
     ],
     "birthYear": 1834,
-    "deathYear": 1919,
-    "notes": null
+    "deathYear": 1919
   },
   {
     "id": "Hamilton-Richard",
@@ -5127,8 +4798,7 @@
       "UK"
     ],
     "birthYear": 1922,
-    "deathYear": 2011,
-    "notes": null
+    "deathYear": 2011
   },
   {
     "id": "Hanson-Erin",
@@ -5142,8 +4812,7 @@
       "USA"
     ],
     "birthYear": 1981,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Hanuka-Tomer",
@@ -5155,8 +4824,7 @@
       "Israel"
     ],
     "birthYear": 1974,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Hardy-David-A",
@@ -5172,8 +4840,7 @@
       "UK"
     ],
     "birthYear": 1936,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Haring-Keith",
@@ -5187,8 +4854,7 @@
       "USA"
     ],
     "birthYear": 1958,
-    "deathYear": 1990,
-    "notes": null
+    "deathYear": 1990
   },
   {
     "id": "Harper-Charley",
@@ -5201,8 +4867,7 @@
       "USA"
     ],
     "birthYear": 1922,
-    "deathYear": 2007,
-    "notes": "512px + Highres. Fix"
+    "deathYear": 2007
   },
   {
     "id": "Harrington-Conor",
@@ -5217,8 +4882,7 @@
       "Ireland"
     ],
     "birthYear": 1980,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Harris-John",
@@ -5233,8 +4897,7 @@
       "UK"
     ],
     "birthYear": 1948,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Harris-Lawren",
@@ -5248,8 +4911,7 @@
       "Canada"
     ],
     "birthYear": 1885,
-    "deathYear": 1970,
-    "notes": null
+    "deathYear": 1970
   },
   {
     "id": "Hasui-Kawase",
@@ -5262,8 +4924,7 @@
       "Japan"
     ],
     "birthYear": 1883,
-    "deathYear": 1957,
-    "notes": null
+    "deathYear": 1957
   },
   {
     "id": "Hattori-Naoto",
@@ -5276,8 +4937,7 @@
       "Japan"
     ],
     "birthYear": 1975,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix, DPM2++ Karas, 40 Steps"
+    "deathYear": null
   },
   {
     "id": "Heem-Cornelis-de",
@@ -5293,8 +4953,7 @@
       "Netherlands"
     ],
     "birthYear": 1631,
-    "deathYear": 1695,
-    "notes": null
+    "deathYear": 1695
   },
   {
     "id": "Heighton-Brent",
@@ -5310,8 +4969,7 @@
       "Canada"
     ],
     "birthYear": 1954,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Herrero-Lowell",
@@ -5325,8 +4983,7 @@
       "USA"
     ],
     "birthYear": 1921,
-    "deathYear": 2015,
-    "notes": null
+    "deathYear": 2015
   },
   {
     "id": "Hess-F-Scott",
@@ -5341,8 +4998,7 @@
       "USA"
     ],
     "birthYear": 1955,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Hickman-Stephen",
@@ -5357,8 +5013,7 @@
       "USA"
     ],
     "birthYear": 1949,
-    "deathYear": 2021,
-    "notes": null
+    "deathYear": 2021
   },
   {
     "id": "Hiroshige-Utagawa",
@@ -5372,8 +5027,7 @@
       "19th Century"
     ],
     "birthYear": 1797,
-    "deathYear": 1858,
-    "notes": null
+    "deathYear": 1858
   },
   {
     "id": "Hitch-Bryan",
@@ -5387,8 +5041,7 @@
       "UK"
     ],
     "birthYear": 1970,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Hodas-Filip",
@@ -5401,8 +5054,7 @@
       "Czech Republic"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Hokusai-Katsushika-Hokusai",
@@ -5417,8 +5069,7 @@
       "18th Century"
     ],
     "birthYear": 1760,
-    "deathYear": 1849,
-    "notes": null
+    "deathYear": 1849
   },
   {
     "id": "Holbein-Ambrosius",
@@ -5435,8 +5086,7 @@
       "16th Century"
     ],
     "birthYear": 1494,
-    "deathYear": 1519,
-    "notes": "seems different enough from Hans Holbein"
+    "deathYear": 1519
   },
   {
     "id": "Holbein-Hans",
@@ -5451,8 +5101,7 @@
       "15th Century"
     ],
     "birthYear": 1497,
-    "deathYear": 1543,
-    "notes": null
+    "deathYear": 1543
   },
   {
     "id": "Homer-Winslow",
@@ -5469,8 +5118,7 @@
       "19th Century"
     ],
     "birthYear": 1836,
-    "deathYear": 1910,
-    "notes": null
+    "deathYear": 1910
   },
   {
     "id": "Hong-Frank",
@@ -5485,8 +5133,7 @@
       "Canada"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Hooch-Pieter-de",
@@ -5501,8 +5148,7 @@
       "17th Century"
     ],
     "birthYear": 1629,
-    "deathYear": 1684,
-    "notes": "difficult to generate faces, Highres. Fix"
+    "deathYear": 1684
   },
   {
     "id": "Hopper-Edward",
@@ -5516,8 +5162,7 @@
       "USA"
     ],
     "birthYear": 1882,
-    "deathYear": 1967,
-    "notes": "512px + Highres. Fix"
+    "deathYear": 1967
   },
   {
     "id": "Horkey-Aaron",
@@ -5530,8 +5175,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Horley-Alex",
@@ -5550,8 +5194,7 @@
       "USA"
     ],
     "birthYear": 1970,
-    "deathYear": null,
-    "notes": "has problem with faces, DPM++ 2M Karras, Highres. Fix 512px -> 1024px, Denoising Strength 0.5"
+    "deathYear": null
   },
   {
     "id": "Hornel-Edward-Atkinson",
@@ -5567,8 +5210,7 @@
       "19th Century"
     ],
     "birthYear": 1864,
-    "deathYear": 1933,
-    "notes": null
+    "deathYear": 1933
   },
   {
     "id": "Howe-John",
@@ -5582,8 +5224,7 @@
       "Canada"
     ],
     "birthYear": 1957,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Hoyland-John",
@@ -5597,8 +5238,7 @@
       "UK"
     ],
     "birthYear": 1934,
-    "deathYear": 2011,
-    "notes": null
+    "deathYear": 2011
   },
   {
     "id": "Hue-Sebastien",
@@ -5611,8 +5251,7 @@
       "France"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Hughes-Adam",
@@ -5627,8 +5266,7 @@
       "USA"
     ],
     "birthYear": 1967,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Hughes-Edward-Robert",
@@ -5644,8 +5282,7 @@
       "UK"
     ],
     "birthYear": 1851,
-    "deathYear": 1914,
-    "notes": null
+    "deathYear": 1914
   },
   {
     "id": "Hurrell-George",
@@ -5659,8 +5296,7 @@
       "USA"
     ],
     "birthYear": 1904,
-    "deathYear": 1992,
-    "notes": null
+    "deathYear": 1992
   },
   {
     "id": "Hutter-Michael",
@@ -5673,8 +5309,7 @@
       "Germany"
     ],
     "birthYear": 1963,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Huynh-Duy",
@@ -5689,8 +5324,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Hyde-Catherine",
@@ -5702,8 +5336,7 @@
       "USA"
     ],
     "birthYear": 1955,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Hch-Hannah",
@@ -5721,8 +5354,7 @@
       "Germany"
     ],
     "birthYear": 1889,
-    "deathYear": 1978,
-    "notes": "had to use [from:to:when] for H.C."
+    "deathYear": 1978
   },
   {
     "id": "Icart-Louis",
@@ -5736,8 +5368,7 @@
       "19th Century"
     ],
     "birthYear": 1888,
-    "deathYear": 1950,
-    "notes": null
+    "deathYear": 1950
   },
   {
     "id": "Immonen-Stuart",
@@ -5751,8 +5382,7 @@
       "Canada"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Inceoglu-Ismail",
@@ -5766,8 +5396,7 @@
       "Bulgaria"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Infantino-Carmine",
@@ -5781,8 +5410,7 @@
       "USA"
     ],
     "birthYear": 1925,
-    "deathYear": 2013,
-    "notes": null
+    "deathYear": 2013
   },
   {
     "id": "Ingpen-Robert",
@@ -5795,8 +5423,7 @@
       "Australia"
     ],
     "birthYear": 1936,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ingres-Jean-Auguste-Dominique",
@@ -5813,8 +5440,7 @@
       "19th Century"
     ],
     "birthYear": 1780,
-    "deathYear": 1867,
-    "notes": null
+    "deathYear": 1867
   },
   {
     "id": "Inoue-Takehiko",
@@ -5827,8 +5453,7 @@
       "Japan"
     ],
     "birthYear": 1967,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ishida-Sui",
@@ -5841,8 +5466,7 @@
       "Japan"
     ],
     "birthYear": 1986,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Itten-Johannes",
@@ -5858,8 +5482,7 @@
       "Switzerland"
     ],
     "birthYear": 1888,
-    "deathYear": 1967,
-    "notes": null
+    "deathYear": 1967
   },
   {
     "id": "It-Junji",
@@ -5874,8 +5497,7 @@
       "Japan"
     ],
     "birthYear": 1963,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Jacinto-Jorge",
@@ -5892,8 +5514,7 @@
       "Portugal"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Jacklin-Bill",
@@ -5910,8 +5531,7 @@
       "UK"
     ],
     "birthYear": 1943,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Jakubowski-Marcin",
@@ -5925,8 +5545,7 @@
       "Poland"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Jansson-Alexander",
@@ -5938,8 +5557,7 @@
       "Sweden"
     ],
     "birthYear": 1977,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Jasinski-Aaron",
@@ -5953,8 +5571,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Jean-James",
@@ -5967,8 +5584,7 @@
       "Taiwan"
     ],
     "birthYear": 1979,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Jeffers-Oliver",
@@ -5982,8 +5598,7 @@
       "Australia"
     ],
     "birthYear": 1977,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Jewett-Ellen",
@@ -5995,8 +5610,7 @@
       "Canada"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Jia-Ruan",
@@ -6010,8 +5624,7 @@
       "China"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Jimenez-Phil",
@@ -6024,8 +5637,7 @@
       "USA"
     ],
     "birthYear": 1970,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Johnstone-Dorothy",
@@ -6042,8 +5654,7 @@
       "UK"
     ],
     "birthYear": 1892,
-    "deathYear": 1980,
-    "notes": null
+    "deathYear": 1980
   },
   {
     "id": "Jones-Android-Andrew",
@@ -6057,8 +5668,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Jones-Jeffrey-Catherine",
@@ -6071,8 +5681,7 @@
       "USA"
     ],
     "birthYear": 1944,
-    "deathYear": 2011,
-    "notes": null
+    "deathYear": 2011
   },
   {
     "id": "Jover-Loui",
@@ -6086,8 +5695,7 @@
       "Australia"
     ],
     "birthYear": 1967,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Jullien-Jean",
@@ -6100,8 +5708,7 @@
       "France"
     ],
     "birthYear": 1983,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Jurgens-Mandy",
@@ -6114,8 +5721,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Jusko-Joe",
@@ -6131,8 +5737,7 @@
       "USA"
     ],
     "birthYear": 1959,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Kago-Shintar",
@@ -6146,8 +5751,7 @@
       "Japan"
     ],
     "birthYear": 1969,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Kahraman-Hayv",
@@ -6162,8 +5766,7 @@
       "USA"
     ],
     "birthYear": 1981,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Kaluta-Michael-William",
@@ -6180,8 +5783,7 @@
       "USA"
     ],
     "birthYear": 1947,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Kandinsky-Wassily",
@@ -6195,8 +5797,7 @@
       "Russia"
     ],
     "birthYear": 1866,
-    "deathYear": 1944,
-    "notes": null
+    "deathYear": 1944
   },
   {
     "id": "Kashin-Wadim",
@@ -6209,8 +5810,7 @@
       "Poland"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Katz-Alex",
@@ -6223,8 +5823,7 @@
       "USA"
     ],
     "birthYear": 1927,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Kawasaki-Audrey",
@@ -6240,8 +5839,7 @@
       "USA"
     ],
     "birthYear": 1982,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Keane-Glen",
@@ -6255,8 +5853,7 @@
       "USA"
     ],
     "birthYear": 1954,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Keever-Kim",
@@ -6268,8 +5865,7 @@
       "USA"
     ],
     "birthYear": 1955,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Kehoe-Andy",
@@ -6282,8 +5878,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Kelly-Ken",
@@ -6296,8 +5891,7 @@
       "USA"
     ],
     "birthYear": 1946,
-    "deathYear": 2022,
-    "notes": "512px + Highres. Fix"
+    "deathYear": 2022
   },
   {
     "id": "Kelly-Freas-Frank",
@@ -6313,8 +5907,7 @@
       "USA"
     ],
     "birthYear": 1922,
-    "deathYear": 2005,
-    "notes": null
+    "deathYear": 2005
   },
   {
     "id": "Kentridge-William",
@@ -6328,8 +5921,7 @@
       "South Africa"
     ],
     "birthYear": 1955,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Kesinger-Brian",
@@ -6343,8 +5935,7 @@
       "USA"
     ],
     "birthYear": 1975,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ketner-Jeremiah",
@@ -6357,8 +5948,7 @@
       "Japan"
     ],
     "birthYear": 1974,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Kiefer-Anselm",
@@ -6372,8 +5962,7 @@
       "Germany"
     ],
     "birthYear": 1945,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Kieth-Sam",
@@ -6386,8 +5975,7 @@
       "USA"
     ],
     "birthYear": 1963,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Kim-Jung-Gi",
@@ -6400,8 +5988,7 @@
       "South Korea"
     ],
     "birthYear": 1975,
-    "deathYear": 2022,
-    "notes": null
+    "deathYear": 2022
   },
   {
     "id": "Kinkade-Thomas",
@@ -6414,8 +6001,7 @@
       "USA"
     ],
     "birthYear": 1958,
-    "deathYear": 2012,
-    "notes": null
+    "deathYear": 2012
   },
   {
     "id": "Kirby-Jack",
@@ -6429,8 +6015,7 @@
       "USA"
     ],
     "birthYear": 1917,
-    "deathYear": 1994,
-    "notes": null
+    "deathYear": 1994
   },
   {
     "id": "Kirchner-Ernst-Ludwig",
@@ -6446,8 +6031,7 @@
       "Germany"
     ],
     "birthYear": 1880,
-    "deathYear": 1938,
-    "notes": null
+    "deathYear": 1938
   },
   {
     "id": "Kirchner-Raphael",
@@ -6462,8 +6046,7 @@
       "19th Century"
     ],
     "birthYear": 1875,
-    "deathYear": 1917,
-    "notes": null
+    "deathYear": 1917
   },
   {
     "id": "Kiuchi-Tatsuro",
@@ -6476,8 +6059,7 @@
       "Japan"
     ],
     "birthYear": 1966,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Klarwein-Abdul-Mati",
@@ -6494,8 +6076,7 @@
       "France"
     ],
     "birthYear": 1932,
-    "deathYear": 2002,
-    "notes": null
+    "deathYear": 2002
   },
   {
     "id": "Klassen-Jon",
@@ -6509,8 +6090,7 @@
       "Canada"
     ],
     "birthYear": 1981,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Klee-Paul",
@@ -6526,8 +6106,7 @@
       "Switzerland"
     ],
     "birthYear": 1879,
-    "deathYear": 1940,
-    "notes": "had to use [from:to:when] for H.C."
+    "deathYear": 1940
   },
   {
     "id": "Klimt-Gustav",
@@ -6543,8 +6122,7 @@
       "19th Century"
     ],
     "birthYear": 1862,
-    "deathYear": 1918,
-    "notes": null
+    "deathYear": 1918
   },
   {
     "id": "Klint-Hilma-af",
@@ -6560,8 +6138,7 @@
       "Sweden"
     ],
     "birthYear": 1862,
-    "deathYear": 1944,
-    "notes": null
+    "deathYear": 1944
   },
   {
     "id": "Knab-Ferdinand",
@@ -6576,8 +6153,7 @@
       "19th Century"
     ],
     "birthYear": 1834,
-    "deathYear": 1902,
-    "notes": "512px + Highres. Fix"
+    "deathYear": 1902
   },
   {
     "id": "Knight-Nick",
@@ -6590,8 +6166,7 @@
       "UK"
     ],
     "birthYear": 1958,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Knights-Winifred-Margaret",
@@ -6605,8 +6180,7 @@
       "UK"
     ],
     "birthYear": 1899,
-    "deathYear": 1947,
-    "notes": null
+    "deathYear": 1947
   },
   {
     "id": "Kojima-Ayami",
@@ -6621,8 +6195,7 @@
       "Japan"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Kokoschka-Oskar",
@@ -6638,8 +6211,7 @@
       "Austria"
     ],
     "birthYear": 1886,
-    "deathYear": 1980,
-    "notes": null
+    "deathYear": 1980
   },
   {
     "id": "Kollwitz-Kthe",
@@ -6655,8 +6227,7 @@
       "Germany"
     ],
     "birthYear": 1867,
-    "deathYear": 1945,
-    "notes": null
+    "deathYear": 1945
   },
   {
     "id": "Kon-Satoshi",
@@ -6668,8 +6239,7 @@
       "Japan"
     ],
     "birthYear": 1963,
-    "deathYear": 2010,
-    "notes": null
+    "deathYear": 2010
   },
   {
     "id": "Kooning-Willem-de",
@@ -6685,8 +6255,7 @@
       "USA"
     ],
     "birthYear": 1904,
-    "deathYear": 1997,
-    "notes": null
+    "deathYear": 1997
   },
   {
     "id": "Koons-Jeff",
@@ -6699,8 +6268,7 @@
       "USA"
     ],
     "birthYear": 1955,
-    "deathYear": null,
-    "notes": "had to use [from:to:when] for H.C."
+    "deathYear": null
   },
   {
     "id": "Koson-Ohara",
@@ -6713,8 +6281,7 @@
       "Japan"
     ],
     "birthYear": 1877,
-    "deathYear": 1945,
-    "notes": null
+    "deathYear": 1945
   },
   {
     "id": "Kotak-Bella",
@@ -6727,8 +6294,7 @@
       "UK"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Krishnamani-Ranganath",
@@ -6741,8 +6307,7 @@
       "India"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Krull-Germaine",
@@ -6756,8 +6321,7 @@
       "Germany"
     ],
     "birthYear": 1897,
-    "deathYear": 1985,
-    "notes": null
+    "deathYear": 1985
   },
   {
     "id": "Kubin-Alfred",
@@ -6774,8 +6338,7 @@
       "Hungary"
     ],
     "birthYear": 1877,
-    "deathYear": 1959,
-    "notes": null
+    "deathYear": 1959
   },
   {
     "id": "Kuciara-Maciej",
@@ -6790,8 +6353,7 @@
       "Poland"
     ],
     "birthYear": 1984,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Kunisada-Utagawa",
@@ -6806,8 +6368,7 @@
       "19th Century"
     ],
     "birthYear": 1786,
-    "deathYear": 1865,
-    "notes": null
+    "deathYear": 1865
   },
   {
     "id": "Kurtzman-Harvey",
@@ -6820,8 +6381,7 @@
       "USA"
     ],
     "birthYear": 1924,
-    "deathYear": 1993,
-    "notes": null
+    "deathYear": 1993
   },
   {
     "id": "Kusama-Yayoi",
@@ -6836,8 +6396,7 @@
       "Japan"
     ],
     "birthYear": 1929,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Kutsche-Michael",
@@ -6851,8 +6410,7 @@
       "Germany"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Kuvshinov-Ilya",
@@ -6866,8 +6424,7 @@
       "Russia"
     ],
     "birthYear": 1990,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "LaChapelle-David",
@@ -6880,8 +6437,7 @@
       "USA"
     ],
     "birthYear": 1963,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Lacoste-Raphael",
@@ -6895,8 +6451,7 @@
       "France"
     ],
     "birthYear": 1974,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Lagerstedt-Mikko",
@@ -6909,8 +6464,7 @@
       "Finland"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Lane-Fitz-Henry",
@@ -6926,8 +6480,7 @@
       "19th Century"
     ],
     "birthYear": 1804,
-    "deathYear": 1865,
-    "notes": null
+    "deathYear": 1865
   },
   {
     "id": "Larson-Abigail",
@@ -6943,8 +6496,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Larson-Gary",
@@ -6959,8 +6511,7 @@
       "USA"
     ],
     "birthYear": 1950,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Larsson-Carl",
@@ -6974,8 +6525,7 @@
       "19th Century"
     ],
     "birthYear": 1853,
-    "deathYear": 1919,
-    "notes": null
+    "deathYear": 1919
   },
   {
     "id": "Lassnig-Maria",
@@ -6989,8 +6539,7 @@
       "Austria"
     ],
     "birthYear": 1919,
-    "deathYear": 2014,
-    "notes": null
+    "deathYear": 2014
   },
   {
     "id": "Lawrence-Don",
@@ -7004,8 +6553,7 @@
       "UK"
     ],
     "birthYear": 1928,
-    "deathYear": 2003,
-    "notes": null
+    "deathYear": 2003
   },
   {
     "id": "Lecouffe-Deharme-Bastien",
@@ -7019,8 +6567,7 @@
       "France"
     ],
     "birthYear": 1982,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Lee-Alan",
@@ -7034,8 +6581,7 @@
       "UK"
     ],
     "birthYear": 1947,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Lee-Jae",
@@ -7049,8 +6595,7 @@
       "USA"
     ],
     "birthYear": 1972,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Lee-Jim",
@@ -7065,8 +6610,7 @@
       "USA"
     ],
     "birthYear": 1964,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Lehr-Paul",
@@ -7080,8 +6624,7 @@
       "USA"
     ],
     "birthYear": 1930,
-    "deathYear": 1998,
-    "notes": null
+    "deathYear": 1998
   },
   {
     "id": "Lemire-Jeff",
@@ -7097,8 +6640,7 @@
       "USA"
     ],
     "birthYear": 1976,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Lentulov-Aristarkh",
@@ -7112,8 +6654,7 @@
       "Russia"
     ],
     "birthYear": 1882,
-    "deathYear": 1943,
-    "notes": null
+    "deathYear": 1943
   },
   {
     "id": "Leyendecker-Joseph-Christian",
@@ -7128,8 +6669,7 @@
       "19th Century"
     ],
     "birthYear": 1874,
-    "deathYear": 1951,
-    "notes": null
+    "deathYear": 1951
   },
   {
     "id": "Lhote-Andr",
@@ -7146,8 +6686,7 @@
       "France"
     ],
     "birthYear": 1885,
-    "deathYear": 1962,
-    "notes": null
+    "deathYear": 1962
   },
   {
     "id": "Lichtenstein-Roy",
@@ -7160,8 +6699,7 @@
       "USA"
     ],
     "birthYear": 1923,
-    "deathYear": 1997,
-    "notes": null
+    "deathYear": 1997
   },
   {
     "id": "Liefeld-Rob",
@@ -7175,8 +6713,7 @@
       "USA"
     ],
     "birthYear": 1967,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Lindner-Richard",
@@ -7192,8 +6729,7 @@
       "USA"
     ],
     "birthYear": 1901,
-    "deathYear": 1978,
-    "notes": null
+    "deathYear": 1978
   },
   {
     "id": "Liniers",
@@ -7207,8 +6743,7 @@
       "Argentina"
     ],
     "birthYear": 1973,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Lippi-Filippino",
@@ -7224,8 +6759,7 @@
       "15th Century"
     ],
     "birthYear": 1457,
-    "deathYear": 1504,
-    "notes": null
+    "deathYear": 1504
   },
   {
     "id": "Lipton-Laurie",
@@ -7240,8 +6774,7 @@
       "USA"
     ],
     "birthYear": 1953,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Lismer-Arthur",
@@ -7255,8 +6788,7 @@
       "Canada"
     ],
     "birthYear": 1885,
-    "deathYear": 1969,
-    "notes": null
+    "deathYear": 1969
   },
   {
     "id": "Lisowski-Michal",
@@ -7269,8 +6801,7 @@
       "Poland"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Listfield-Scott",
@@ -7283,8 +6814,7 @@
       "USA"
     ],
     "birthYear": 1976,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Loftis-Cory",
@@ -7299,8 +6829,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Loish-Lois-van-Baarle",
@@ -7315,8 +6844,7 @@
       "Netherlands"
     ],
     "birthYear": 1985,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Loomis-Andrew",
@@ -7329,8 +6857,7 @@
       "USA"
     ],
     "birthYear": 1892,
-    "deathYear": 1959,
-    "notes": null
+    "deathYear": 1959
   },
   {
     "id": "Loureno-Didier",
@@ -7343,8 +6870,7 @@
       "Spain"
     ],
     "birthYear": 1968,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Lovecraft-HP",
@@ -7357,8 +6883,7 @@
       "USA"
     ],
     "birthYear": 1890,
-    "deathYear": 1937,
-    "notes": null
+    "deathYear": 1937
   },
   {
     "id": "Lovell-Tom",
@@ -7371,8 +6896,7 @@
       "USA"
     ],
     "birthYear": 1909,
-    "deathYear": 1997,
-    "notes": null
+    "deathYear": 1997
   },
   {
     "id": "Luce-Maximilien",
@@ -7386,8 +6910,7 @@
       "France"
     ],
     "birthYear": 1858,
-    "deathYear": 1941,
-    "notes": null
+    "deathYear": 1941
   },
   {
     "id": "MacDonald-Mackintosh-Margaret",
@@ -7403,8 +6926,7 @@
       "19th Century"
     ],
     "birthYear": 1864,
-    "deathYear": 1933,
-    "notes": null
+    "deathYear": 1933
   },
   {
     "id": "MacDonald-McNair-Frances",
@@ -7420,8 +6942,7 @@
       "19th Century"
     ],
     "birthYear": 1873,
-    "deathYear": 1921,
-    "notes": null
+    "deathYear": 1921
   },
   {
     "id": "MacNicol-Bessie-Elizabeth",
@@ -7437,8 +6958,7 @@
       "19th Century"
     ],
     "birthYear": 1869,
-    "deathYear": 1904,
-    "notes": null
+    "deathYear": 1904
   },
   {
     "id": "Macara-Andrew",
@@ -7451,8 +6971,7 @@
       "UK"
     ],
     "birthYear": 1944,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Macke-August",
@@ -7469,8 +6988,7 @@
       "Germany"
     ],
     "birthYear": 1887,
-    "deathYear": 1914,
-    "notes": null
+    "deathYear": 1914
   },
   {
     "id": "Mahfood-Jim-Food-One",
@@ -7482,8 +7000,7 @@
       "USA"
     ],
     "birthYear": 1975,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Makart-Hans",
@@ -7498,8 +7015,7 @@
       "19th Century"
     ],
     "birthYear": 1840,
-    "deathYear": 1884,
-    "notes": null
+    "deathYear": 1884
   },
   {
     "id": "Maleew-Alex",
@@ -7514,8 +7030,7 @@
       "Bulgaria"
     ],
     "birthYear": 1971,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Maller-Justin",
@@ -7527,8 +7042,7 @@
       "Australia"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Manara-Milo",
@@ -7545,8 +7059,7 @@
       "Italy"
     ],
     "birthYear": 1945,
-    "deathYear": null,
-    "notes": "potentially NSFW (Deliberate is with that prompt)"
+    "deathYear": null
   },
   {
     "id": "Manchess-Gregory",
@@ -7561,8 +7074,7 @@
       "USA"
     ],
     "birthYear": 1955,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Maniak-Slawomir",
@@ -7578,8 +7090,7 @@
       "Poland"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Mann-Jeremy",
@@ -7592,8 +7103,7 @@
       "USA"
     ],
     "birthYear": 1979,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Manoukian-Stan",
@@ -7606,8 +7116,7 @@
       "France"
     ],
     "birthYear": 1969,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Mantegna-Andrea",
@@ -7624,8 +7133,7 @@
       "15th Century"
     ],
     "birthYear": 1431,
-    "deathYear": 1506,
-    "notes": null
+    "deathYear": 1506
   },
   {
     "id": "Manutius-Aldus",
@@ -7640,8 +7148,7 @@
       "15th Century"
     ],
     "birthYear": 1449,
-    "deathYear": 1515,
-    "notes": "start with 768px = better/finer details, used DPM++ SDE Karras"
+    "deathYear": 1515
   },
   {
     "id": "Maroto-Esteban",
@@ -7656,8 +7163,7 @@
       "Spain"
     ],
     "birthYear": 1942,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Mars-Chris",
@@ -7673,8 +7179,7 @@
       "USA"
     ],
     "birthYear": 1961,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Martin-John",
@@ -7687,8 +7192,7 @@
       "UK"
     ],
     "birthYear": 1789,
-    "deathYear": 1854,
-    "notes": null
+    "deathYear": 1854
   },
   {
     "id": "Martinire-Stephan",
@@ -7703,8 +7207,7 @@
       "France"
     ],
     "birthYear": 1962,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Masereel-Frans",
@@ -7718,8 +7221,7 @@
       "Belgium"
     ],
     "birthYear": 1889,
-    "deathYear": 1972,
-    "notes": "512px + Highres. Fix"
+    "deathYear": 1972
   },
   {
     "id": "Mashburn-Brian",
@@ -7735,8 +7237,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Masson-Andr",
@@ -7751,8 +7252,7 @@
       "USA"
     ],
     "birthYear": 1896,
-    "deathYear": 1987,
-    "notes": null
+    "deathYear": 1987
   },
   {
     "id": "Matisse-Henri",
@@ -7766,8 +7266,7 @@
       "France"
     ],
     "birthYear": 1869,
-    "deathYear": 1954,
-    "notes": null
+    "deathYear": 1954
   },
   {
     "id": "Matthews-Rodney",
@@ -7780,8 +7279,7 @@
       "UK"
     ],
     "birthYear": 1945,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Mattingly-David",
@@ -7797,8 +7295,7 @@
       "USA"
     ],
     "birthYear": 1956,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Matutina-Dan",
@@ -7810,8 +7307,7 @@
       "Philippines"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Mayhew-Mike",
@@ -7827,8 +7323,7 @@
       "USA"
     ],
     "birthYear": 1969,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "McAllister-Cathleen",
@@ -7845,8 +7340,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "McCall-Robert-T",
@@ -7861,8 +7355,7 @@
       "USA"
     ],
     "birthYear": 1919,
-    "deathYear": 2010,
-    "notes": null
+    "deathYear": 2010
   },
   {
     "id": "McCarthy-Frank",
@@ -7875,8 +7368,7 @@
       "USA"
     ],
     "birthYear": 1924,
-    "deathYear": 2002,
-    "notes": null
+    "deathYear": 2002
   },
   {
     "id": "McCay-Winsor",
@@ -7891,8 +7383,7 @@
       "USA"
     ],
     "birthYear": 1869,
-    "deathYear": 1934,
-    "notes": null
+    "deathYear": 1934
   },
   {
     "id": "McCubbin-Frederick",
@@ -7907,8 +7398,7 @@
       "19th Century"
     ],
     "birthYear": 1855,
-    "deathYear": 1917,
-    "notes": null
+    "deathYear": 1917
   },
   {
     "id": "McFarlane-Todd",
@@ -7922,8 +7412,7 @@
       "Canada"
     ],
     "birthYear": 1961,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "McGee-Barry",
@@ -7938,8 +7427,7 @@
       "USA"
     ],
     "birthYear": 1966,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "McKean-Dave",
@@ -7953,8 +7441,7 @@
       "UK"
     ],
     "birthYear": 1963,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "McKie-Angus",
@@ -7968,8 +7455,7 @@
       "UK"
     ],
     "birthYear": 1951,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "McKinnon-Seb",
@@ -7983,8 +7469,7 @@
       "Canada"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "McPharlin-Dan",
@@ -8000,8 +7485,7 @@
       "Australia"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "McPherson-Tara",
@@ -8014,8 +7498,7 @@
       "USA"
     ],
     "birthYear": 1976,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "McQuarrie-Ralph-Angus",
@@ -8029,8 +7512,7 @@
       "USA"
     ],
     "birthYear": 1929,
-    "deathYear": 2012,
-    "notes": null
+    "deathYear": 2012
   },
   {
     "id": "McQue-Ian",
@@ -8046,8 +7528,7 @@
       "UK"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Mead-Syd",
@@ -8061,8 +7542,7 @@
       "USA"
     ],
     "birthYear": 1933,
-    "deathYear": 2019,
-    "notes": null
+    "deathYear": 2019
   },
   {
     "id": "Mell-Ed",
@@ -8076,8 +7556,7 @@
       "USA"
     ],
     "birthYear": 1942,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Memling-Hans",
@@ -8093,8 +7572,7 @@
       "15th Century"
     ],
     "birthYear": 1430,
-    "deathYear": 1494,
-    "notes": null
+    "deathYear": 1494
   },
   {
     "id": "Mendoza-Eddie",
@@ -8108,8 +7586,7 @@
       "USA"
     ],
     "birthYear": 1992,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Menzel-Adolph-von",
@@ -8125,8 +7602,7 @@
       "Germany"
     ],
     "birthYear": 1815,
-    "deathYear": 1905,
-    "notes": null
+    "deathYear": 1905
   },
   {
     "id": "Merian-Maria-Sibylla",
@@ -8142,8 +7618,7 @@
       "17th Century"
     ],
     "birthYear": 1647,
-    "deathYear": 1717,
-    "notes": null
+    "deathYear": 1717
   },
   {
     "id": "Merriam-Daniel",
@@ -8158,8 +7633,7 @@
       "USA"
     ],
     "birthYear": 1963,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Messina-Antonello-da",
@@ -8175,8 +7649,7 @@
       "15th Century"
     ],
     "birthYear": 1430,
-    "deathYear": 1479,
-    "notes": null
+    "deathYear": 1479
   },
   {
     "id": "Metzinger-Jean",
@@ -8193,8 +7666,7 @@
       "France"
     ],
     "birthYear": 1883,
-    "deathYear": 1956,
-    "notes": null
+    "deathYear": 1956
   },
   {
     "id": "Middleton-Joshua",
@@ -8210,8 +7682,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Mignola-Mike",
@@ -8225,8 +7696,7 @@
       "USA"
     ],
     "birthYear": 1960,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Mili-Gjon",
@@ -8239,8 +7709,7 @@
       "Albania"
     ],
     "birthYear": 1904,
-    "deathYear": 1984,
-    "notes": null
+    "deathYear": 1984
   },
   {
     "id": "Miller-Frank",
@@ -8254,8 +7723,7 @@
       "USA"
     ],
     "birthYear": 1957,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Miller-Ian",
@@ -8272,8 +7740,7 @@
       "USA"
     ],
     "birthYear": 1946,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Mills-Russ",
@@ -8286,8 +7753,7 @@
       "UK"
     ],
     "birthYear": 1952,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Miura-Kentar",
@@ -8301,8 +7767,7 @@
       "Japan"
     ],
     "birthYear": 1966,
-    "deathYear": 2021,
-    "notes": null
+    "deathYear": 2021
   },
   {
     "id": "Miyazaki-Hayao",
@@ -8316,8 +7781,7 @@
       "Japan"
     ],
     "birthYear": 1941,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Mizuno-Junko",
@@ -8330,8 +7794,7 @@
       "Japan"
     ],
     "birthYear": 1973,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Moebius-Giraud-Jean",
@@ -8344,8 +7807,7 @@
       "France"
     ],
     "birthYear": 1938,
-    "deathYear": 2012,
-    "notes": null
+    "deathYear": 2012
   },
   {
     "id": "Mohrbacher-Peter",
@@ -8358,8 +7820,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Monet-Claude",
@@ -8376,8 +7837,7 @@
       "19th Century"
     ],
     "birthYear": 1840,
-    "deathYear": 1926,
-    "notes": null
+    "deathYear": 1926
   },
   {
     "id": "Monge-Jean-Baptiste",
@@ -8391,8 +7851,7 @@
       "Canada"
     ],
     "birthYear": 1971,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Moore-Chris",
@@ -8407,8 +7866,7 @@
       "UK"
     ],
     "birthYear": 1947,
-    "deathYear": null,
-    "notes": "weaker on people, had to use [from:to:when] for H.C."
+    "deathYear": null
   },
   {
     "id": "Mora-Dan-Chaves",
@@ -8423,8 +7881,7 @@
       "Costa Rica"
     ],
     "birthYear": 1987,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Moran-Thomas",
@@ -8439,8 +7896,7 @@
       "19th Century"
     ],
     "birthYear": 1837,
-    "deathYear": 1926,
-    "notes": null
+    "deathYear": 1926
   },
   {
     "id": "Morandi-Giorgio",
@@ -8454,8 +7910,7 @@
       "Italy"
     ],
     "birthYear": 1890,
-    "deathYear": 1964,
-    "notes": null
+    "deathYear": 1964
   },
   {
     "id": "Moreau-Gustave",
@@ -8471,8 +7926,7 @@
       "19th Century"
     ],
     "birthYear": 1826,
-    "deathYear": 1898,
-    "notes": null
+    "deathYear": 1898
   },
   {
     "id": "Moret-Henry",
@@ -8489,8 +7943,7 @@
       "19th Century"
     ],
     "birthYear": 1856,
-    "deathYear": 1913,
-    "notes": null
+    "deathYear": 1913
   },
   {
     "id": "Morisot-Berthe",
@@ -8505,8 +7958,7 @@
       "19th Century"
     ],
     "birthYear": 1841,
-    "deathYear": 1895,
-    "notes": null
+    "deathYear": 1895
   },
   {
     "id": "Moronobu-Hishikawa",
@@ -8519,8 +7971,7 @@
       "17th Century"
     ],
     "birthYear": 1618,
-    "deathYear": 1694,
-    "notes": null
+    "deathYear": 1694
   },
   {
     "id": "Morrell-Stefan",
@@ -8535,8 +7986,7 @@
       "USA"
     ],
     "birthYear": 1982,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Morris-William",
@@ -8552,8 +8002,7 @@
       "19th Century"
     ],
     "birthYear": 1834,
-    "deathYear": 1896,
-    "notes": "512px + Highres. Fix"
+    "deathYear": 1896
   },
   {
     "id": "Morrocco-Alberto",
@@ -8567,8 +8016,7 @@
       "UK"
     ],
     "birthYear": 1917,
-    "deathYear": 1998,
-    "notes": null
+    "deathYear": 1998
   },
   {
     "id": "Morski-Igor",
@@ -8581,8 +8029,7 @@
       "Poland"
     ],
     "birthYear": 1960,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Mortensen-John-Kenn",
@@ -8594,8 +8041,7 @@
       "Denmark"
     ],
     "birthYear": 1978,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Moscoso-Victor",
@@ -8611,8 +8057,7 @@
       "USA"
     ],
     "birthYear": 1936,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix, Euler A"
+    "deathYear": null
   },
   {
     "id": "Moss-Olly",
@@ -8626,8 +8071,7 @@
       "USA"
     ],
     "birthYear": 1987,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Mucha-Alfons-Alphonse",
@@ -8641,8 +8085,7 @@
       "19th Century"
     ],
     "birthYear": 1860,
-    "deathYear": 1939,
-    "notes": null
+    "deathYear": 1939
   },
   {
     "id": "Mullins-Craig",
@@ -8655,8 +8098,7 @@
       "USA"
     ],
     "birthYear": 1964,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Mumford-Dan",
@@ -8669,8 +8111,7 @@
       "UK"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix, low denoising strength"
+    "deathYear": null
   },
   {
     "id": "Munari-Bruno",
@@ -8683,8 +8124,7 @@
       "Italy"
     ],
     "birthYear": 1907,
-    "deathYear": 1998,
-    "notes": null
+    "deathYear": 1998
   },
   {
     "id": "Munch-Edvard",
@@ -8700,8 +8140,7 @@
       "19th Century"
     ],
     "birthYear": 1863,
-    "deathYear": 1944,
-    "notes": null
+    "deathYear": 1944
   },
   {
     "id": "Murai-Will",
@@ -8716,8 +8155,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Murakami-Takashi",
@@ -8731,8 +8169,7 @@
       "Japan"
     ],
     "birthYear": 1962,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Murata-Yusuke",
@@ -8745,8 +8182,7 @@
       "Japan"
     ],
     "birthYear": 1978,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Nagai-Hiroshi",
@@ -8759,8 +8195,7 @@
       "Japan"
     ],
     "birthYear": 1947,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Nagai-Kazumasa",
@@ -8774,8 +8209,7 @@
       "Japan"
     ],
     "birthYear": 1929,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Nagel-Patrick",
@@ -8791,8 +8225,7 @@
       "USA"
     ],
     "birthYear": 1945,
-    "deathYear": 1984,
-    "notes": null
+    "deathYear": 1984
   },
   {
     "id": "Naismith-Scott",
@@ -8807,8 +8240,7 @@
       "UK"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Nasmith-Ted",
@@ -8822,8 +8254,7 @@
       "Canada"
     ],
     "birthYear": 1956,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Nasmyth-Alexander",
@@ -8839,8 +8270,7 @@
       "18th Century"
     ],
     "birthYear": 1758,
-    "deathYear": 1840,
-    "notes": null
+    "deathYear": 1840
   },
   {
     "id": "Neel-Alice",
@@ -8855,8 +8285,7 @@
       "USA"
     ],
     "birthYear": 1900,
-    "deathYear": 1984,
-    "notes": null
+    "deathYear": 1984
   },
   {
     "id": "Negley-Keith",
@@ -8870,8 +8299,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Nelson-Kadir",
@@ -8886,8 +8314,7 @@
       "USA"
     ],
     "birthYear": 1974,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Nelson-R-Kenton",
@@ -8899,8 +8326,7 @@
       "USA"
     ],
     "birthYear": 1954,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Nerdrum-Odd",
@@ -8915,8 +8341,7 @@
       "Norway"
     ],
     "birthYear": 1944,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Newland-Jane",
@@ -8930,8 +8355,7 @@
       "UK"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ngai-Victo",
@@ -8944,8 +8368,7 @@
       "USA"
     ],
     "birthYear": 1988,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Nguyen-Dustin",
@@ -8958,8 +8381,7 @@
       "USA"
     ],
     "birthYear": 1976,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Nielsen-Kay",
@@ -8972,8 +8394,7 @@
       "Denmark"
     ],
     "birthYear": 1886,
-    "deathYear": 1957,
-    "notes": null
+    "deathYear": 1957
   },
   {
     "id": "Nihei-Tsutomu",
@@ -8987,8 +8408,7 @@
       "Japan"
     ],
     "birthYear": 1971,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Nirasawa-Yasushi",
@@ -9001,8 +8421,7 @@
       "Japan"
     ],
     "birthYear": 1963,
-    "deathYear": 2016,
-    "notes": "512px + Highres. Fix"
+    "deathYear": 2016
   },
   {
     "id": "Nizovtsev-Victor",
@@ -9014,8 +8433,7 @@
       "Russia"
     ],
     "birthYear": 1965,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Nolin-Catherine",
@@ -9031,8 +8449,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Norem-Earl",
@@ -9048,8 +8465,7 @@
       "USA"
     ],
     "birthYear": 1923,
-    "deathYear": 2015,
-    "notes": null
+    "deathYear": 2015
   },
   {
     "id": "North-Marianne",
@@ -9064,8 +8480,7 @@
       "19th Century"
     ],
     "birthYear": 1830,
-    "deathYear": 1890,
-    "notes": null
+    "deathYear": 1890
   },
   {
     "id": "Oakley-Thornton",
@@ -9080,8 +8495,7 @@
       "USA"
     ],
     "birthYear": 1881,
-    "deathYear": 1953,
-    "notes": null
+    "deathYear": 1953
   },
   {
     "id": "Ofili-Chris",
@@ -9095,8 +8509,7 @@
       "UK"
     ],
     "birthYear": 1968,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ojala-Eiko",
@@ -9110,8 +8523,7 @@
       "Estonia"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Olschinsky-Atelier",
@@ -9125,8 +8537,7 @@
       "Austria"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Oprisco-Oleg",
@@ -9139,8 +8550,7 @@
       "Ukraine"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Otomo-Katsuhiro",
@@ -9153,8 +8563,7 @@
       "Japan"
     ],
     "birthYear": 1954,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Otomo-Shohei",
@@ -9168,8 +8577,7 @@
       "Japan"
     ],
     "birthYear": 1980,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Oum-Siya",
@@ -9183,8 +8591,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "OKeeffe-Georgia",
@@ -9197,8 +8604,7 @@
       "USA"
     ],
     "birthYear": 1887,
-    "deathYear": 1986,
-    "notes": null
+    "deathYear": 1986
   },
   {
     "id": "PA-Works",
@@ -9210,8 +8616,7 @@
       "Japan"
     ],
     "birthYear": 2000,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Panter-Gary",
@@ -9228,8 +8633,7 @@
       "USA"
     ],
     "birthYear": 1950,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Paolozzi-Eduardo",
@@ -9245,8 +8649,7 @@
       "UK"
     ],
     "birthYear": 1924,
-    "deathYear": 2005,
-    "notes": null
+    "deathYear": 2005
   },
   {
     "id": "Parel-Gerald",
@@ -9259,8 +8662,7 @@
       "Germany"
     ],
     "birthYear": 1975,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Parmigianino",
@@ -9276,8 +8678,7 @@
       "16th Century"
     ],
     "birthYear": 1503,
-    "deathYear": 1540,
-    "notes": "clothes might be wrong"
+    "deathYear": 1540
   },
   {
     "id": "Parrish-Maxfield",
@@ -9291,8 +8692,7 @@
       "USA"
     ],
     "birthYear": 1870,
-    "deathYear": 1966,
-    "notes": null
+    "deathYear": 1966
   },
   {
     "id": "Paschke-Edward-Francis",
@@ -9308,8 +8708,7 @@
       "USA"
     ],
     "birthYear": 1939,
-    "deathYear": 2004,
-    "notes": null
+    "deathYear": 2004
   },
   {
     "id": "Peak-Bob",
@@ -9323,8 +8722,7 @@
       "USA"
     ],
     "birthYear": 1927,
-    "deathYear": 1992,
-    "notes": null
+    "deathYear": 1992
   },
   {
     "id": "Peeters-Clara",
@@ -9338,8 +8736,7 @@
       "Belgium"
     ],
     "birthYear": 1594,
-    "deathYear": 1658,
-    "notes": null
+    "deathYear": 1658
   },
   {
     "id": "Pei-Guo",
@@ -9352,8 +8749,7 @@
       "China"
     ],
     "birthYear": 1967,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Pennington-Bruce",
@@ -9367,8 +8763,7 @@
       "UK"
     ],
     "birthYear": 1944,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Perceval-John",
@@ -9380,8 +8775,7 @@
       "Australia"
     ],
     "birthYear": 1923,
-    "deathYear": 2000,
-    "notes": null
+    "deathYear": 2000
   },
   {
     "id": "Petolas-Nikolina",
@@ -9396,8 +8790,7 @@
       "Croatia"
     ],
     "birthYear": 1978,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Phillips-Coles",
@@ -9410,8 +8803,7 @@
       "USA"
     ],
     "birthYear": 1880,
-    "deathYear": 1927,
-    "notes": "512px + Highres. Fix"
+    "deathYear": 1927
   },
   {
     "id": "Phillips-Sean",
@@ -9426,8 +8818,7 @@
       "UK"
     ],
     "birthYear": 1965,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Picabia-Francis-Marie-Martinez",
@@ -9445,8 +8836,7 @@
       "France"
     ],
     "birthYear": 1879,
-    "deathYear": 1953,
-    "notes": "looks different in 768px+, had to use [from:to:when] for H.C."
+    "deathYear": 1953
   },
   {
     "id": "Picolo-Gabriel",
@@ -9461,8 +8851,7 @@
       "Brazil"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Pieck-Anton-Franciscus",
@@ -9478,8 +8867,7 @@
       "Netherlands"
     ],
     "birthYear": 1895,
-    "deathYear": 1987,
-    "notes": null
+    "deathYear": 1987
   },
   {
     "id": "Pinkney-Jerry",
@@ -9493,8 +8881,7 @@
       "USA"
     ],
     "birthYear": 1939,
-    "deathYear": 2021,
-    "notes": null
+    "deathYear": 2021
   },
   {
     "id": "Pirner-Maximilian",
@@ -9508,8 +8895,7 @@
       "Czech Republic"
     ],
     "birthYear": 1854,
-    "deathYear": 1924,
-    "notes": null
+    "deathYear": 1924
   },
   {
     "id": "Pollock-Jackson",
@@ -9522,8 +8908,7 @@
       "USA"
     ],
     "birthYear": 1912,
-    "deathYear": 1956,
-    "notes": null
+    "deathYear": 1956
   },
   {
     "id": "Pontormo-Jacopo-da-",
@@ -9539,8 +8924,7 @@
       "16th Century"
     ],
     "birthYear": 1494,
-    "deathYear": 1557,
-    "notes": "looks nice, but lots of extra hands"
+    "deathYear": 1557
   },
   {
     "id": "Pope-Paul",
@@ -9553,8 +8937,7 @@
       "USA"
     ],
     "birthYear": 1970,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Porter-Fairfield",
@@ -9568,8 +8951,7 @@
       "USA"
     ],
     "birthYear": 1907,
-    "deathYear": 1975,
-    "notes": null
+    "deathYear": 1975
   },
   {
     "id": "Portinari-Candido",
@@ -9583,8 +8965,7 @@
       "Brazil"
     ],
     "birthYear": 1903,
-    "deathYear": 1962,
-    "notes": null
+    "deathYear": 1962
   },
   {
     "id": "Prades-Simn",
@@ -9597,8 +8978,7 @@
       "Germany"
     ],
     "birthYear": 1985,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Pranckevicius-Gediminas",
@@ -9612,8 +8992,7 @@
       "Lithuania"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Pratt-Hugo",
@@ -9629,8 +9008,7 @@
       "Italy"
     ],
     "birthYear": 1927,
-    "deathYear": 1995,
-    "notes": null
+    "deathYear": 1995
   },
   {
     "id": "Prins-Theo",
@@ -9642,8 +9020,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Procter-Dod",
@@ -9657,8 +9034,7 @@
       "UK"
     ],
     "birthYear": 1890,
-    "deathYear": 1972,
-    "notes": null
+    "deathYear": 1972
   },
   {
     "id": "Procter-Ernest",
@@ -9672,8 +9048,7 @@
       "UK"
     ],
     "birthYear": 1885,
-    "deathYear": 1935,
-    "notes": "way different, but looks nice - fits better with Dod Procter's style"
+    "deathYear": 1935
   },
   {
     "id": "Provensen-Alice",
@@ -9686,8 +9061,7 @@
       "USA"
     ],
     "birthYear": 1918,
-    "deathYear": 2018,
-    "notes": null
+    "deathYear": 2018
   },
   {
     "id": "Purcell-Steve",
@@ -9702,8 +9076,7 @@
       "USA"
     ],
     "birthYear": 1961,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Putz-Leo",
@@ -9717,8 +9090,7 @@
       "Italy"
     ],
     "birthYear": 1869,
-    "deathYear": 1940,
-    "notes": null
+    "deathYear": 1940
   },
   {
     "id": "Quitely-Frank",
@@ -9735,8 +9107,7 @@
       "UK"
     ],
     "birthYear": 1968,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Rackham-Arthur",
@@ -9753,8 +9124,7 @@
       "19th Century"
     ],
     "birthYear": 1867,
-    "deathYear": 1939,
-    "notes": null
+    "deathYear": 1939
   },
   {
     "id": "Raleigh-Henry-Patrick",
@@ -9768,8 +9138,7 @@
       "USA"
     ],
     "birthYear": 1880,
-    "deathYear": 1945,
-    "notes": null
+    "deathYear": 1945
   },
   {
     "id": "Ramos-Humberto",
@@ -9785,8 +9154,7 @@
       "Mexico"
     ],
     "birthYear": 1970,
-    "deathYear": null,
-    "notes": "DPM++ SDE Karras"
+    "deathYear": null
   },
   {
     "id": "Rand-Paul",
@@ -9800,8 +9168,7 @@
       "USA"
     ],
     "birthYear": 1914,
-    "deathYear": 1996,
-    "notes": null
+    "deathYear": 1996
   },
   {
     "id": "Raphael-Raffaello-Sanzio-da-Urbino",
@@ -9817,8 +9184,7 @@
       "15th Century"
     ],
     "birthYear": 1483,
-    "deathYear": 1520,
-    "notes": null
+    "deathYear": 1520
   },
   {
     "id": "Rebelka-Jakub",
@@ -9831,8 +9197,7 @@
       "Poland"
     ],
     "birthYear": 1981,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Redon-Odilon",
@@ -9846,8 +9211,7 @@
       "19th Century"
     ],
     "birthYear": 1840,
-    "deathYear": 1916,
-    "notes": null
+    "deathYear": 1916
   },
   {
     "id": "Redpath-Anne",
@@ -9863,8 +9227,7 @@
       "UK"
     ],
     "birthYear": 1895,
-    "deathYear": 1965,
-    "notes": null
+    "deathYear": 1965
   },
   {
     "id": "Reiniger-Lotte",
@@ -9879,8 +9242,7 @@
       "Germany"
     ],
     "birthYear": 1899,
-    "deathYear": 1981,
-    "notes": null
+    "deathYear": 1981
   },
   {
     "id": "Rembrandt-van-Rijn",
@@ -9896,8 +9258,7 @@
       "17th Century"
     ],
     "birthYear": 1606,
-    "deathYear": 1669,
-    "notes": "unflexible/difficult to prompt"
+    "deathYear": 1669
   },
   {
     "id": "Remnev-Andrey",
@@ -9911,8 +9272,7 @@
       "Russia"
     ],
     "birthYear": 1962,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Renoir-Pierre-Auguste",
@@ -9928,8 +9288,7 @@
       "19th Century"
     ],
     "birthYear": 1841,
-    "deathYear": 1919,
-    "notes": "feels a bit blurry and generic"
+    "deathYear": 1919
   },
   {
     "id": "Repin-IlyaIlja",
@@ -9944,8 +9303,7 @@
       "19th Century"
     ],
     "birthYear": 1844,
-    "deathYear": 1930,
-    "notes": null
+    "deathYear": 1930
   },
   {
     "id": "Retz-Zac",
@@ -9960,8 +9318,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": "might not be destinct enough, digital style with contemporary context"
+    "deathYear": null
   },
   {
     "id": "Rhads-Artem-Chebokha",
@@ -9974,8 +9331,7 @@
       "Russia"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Rhead-Louis",
@@ -9991,8 +9347,7 @@
       "USA"
     ],
     "birthYear": 1857,
-    "deathYear": 1926,
-    "notes": null
+    "deathYear": 1926
   },
   {
     "id": "Rhodes-Matt",
@@ -10006,8 +9361,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Rigaud-Hyacinthe",
@@ -10023,8 +9377,7 @@
       "17th Century"
     ],
     "birthYear": 1659,
-    "deathYear": 1743,
-    "notes": null
+    "deathYear": 1743
   },
   {
     "id": "Rikalo-Jovana",
@@ -10037,8 +9390,7 @@
       "Serbia"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ringgold-Faith",
@@ -10052,8 +9404,7 @@
       "USA"
     ],
     "birthYear": 1930,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Riopelle-Jean-Paul",
@@ -10068,8 +9419,7 @@
       "USA"
     ],
     "birthYear": 1923,
-    "deathYear": 2002,
-    "notes": null
+    "deathYear": 2002
   },
   {
     "id": "Rivera-Diego",
@@ -10084,8 +9434,7 @@
       "Mexico"
     ],
     "birthYear": 1886,
-    "deathYear": 1957,
-    "notes": null
+    "deathYear": 1957
   },
   {
     "id": "Robbins-Trina",
@@ -10101,8 +9450,7 @@
       "USA"
     ],
     "birthYear": 1938,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Robida-Albert",
@@ -10117,8 +9465,7 @@
       "19th Century"
     ],
     "birthYear": 1948,
-    "deathYear": 1926,
-    "notes": null
+    "deathYear": 1926
   },
   {
     "id": "Robinson-William-Heath",
@@ -10133,8 +9480,7 @@
       "USA"
     ],
     "birthYear": 1872,
-    "deathYear": 1944,
-    "notes": null
+    "deathYear": 1944
   },
   {
     "id": "Rocha-Andreas",
@@ -10148,8 +9494,7 @@
       "Portugal"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Rockwell-Norman",
@@ -10163,8 +9508,7 @@
       "USA"
     ],
     "birthYear": 1894,
-    "deathYear": 1978,
-    "notes": null
+    "deathYear": 1978
   },
   {
     "id": "Roerich-Nicholas",
@@ -10180,8 +9524,7 @@
       "19th Century"
     ],
     "birthYear": 1874,
-    "deathYear": 1947,
-    "notes": null
+    "deathYear": 1947
   },
   {
     "id": "Rolando-Cyril",
@@ -10193,8 +9536,7 @@
       "France"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Roset-Conrad",
@@ -10209,8 +9551,7 @@
       "Spain"
     ],
     "birthYear": 1984,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ross-Alex",
@@ -10227,8 +9568,7 @@
       "USA"
     ],
     "birthYear": 1970,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Rossier-Jessica",
@@ -10241,8 +9581,7 @@
       "France"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Rothko-Mark",
@@ -10258,8 +9597,7 @@
       "USA"
     ],
     "birthYear": 1903,
-    "deathYear": 1970,
-    "notes": null
+    "deathYear": 1970
   },
   {
     "id": "Rousseau-Henri",
@@ -10276,8 +9614,7 @@
       "19th Century"
     ],
     "birthYear": 1844,
-    "deathYear": 1910,
-    "notes": null
+    "deathYear": 1910
   },
   {
     "id": "Roversi-Paolo",
@@ -10290,8 +9627,7 @@
       "Italy"
     ],
     "birthYear": 1947,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ruas-Joo",
@@ -10304,8 +9640,7 @@
       "Brazil"
     ],
     "birthYear": 1981,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Rubens-Peter-Paul",
@@ -10321,8 +9656,7 @@
       "17th Century"
     ],
     "birthYear": 1577,
-    "deathYear": 1640,
-    "notes": "also known for curvy (naked) women and putti"
+    "deathYear": 1640
   },
   {
     "id": "Rutkowski-Grzegorz-Greg",
@@ -10336,8 +9670,7 @@
       "Poland"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ruysch-Rachel",
@@ -10353,8 +9686,7 @@
       "17th Century"
     ],
     "birthYear": 1664,
-    "deathYear": 1750,
-    "notes": null
+    "deathYear": 1750
   },
   {
     "id": "Ryden-Mark",
@@ -10366,8 +9698,7 @@
       "USA"
     ],
     "birthYear": 1963,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ryder-Albert-Pinkham",
@@ -10382,8 +9713,7 @@
       "19th Century"
     ],
     "birthYear": 1847,
-    "deathYear": 1917,
-    "notes": null
+    "deathYear": 1917
   },
   {
     "id": "Ryohei-Hase",
@@ -10397,8 +9727,7 @@
       "Japan"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Rysselberghe-Tho-van",
@@ -10412,8 +9741,7 @@
       "Belgium"
     ],
     "birthYear": 1862,
-    "deathYear": 1926,
-    "notes": null
+    "deathYear": 1926
   },
   {
     "id": "Saftleven-Cornelis",
@@ -10429,8 +9757,7 @@
       "17th Century"
     ],
     "birthYear": 1607,
-    "deathYear": 1681,
-    "notes": null
+    "deathYear": 1681
   },
   {
     "id": "Sage-Amanda",
@@ -10444,8 +9771,7 @@
       "USA"
     ],
     "birthYear": 1978,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Saintclair-Apollonia",
@@ -10460,8 +9786,7 @@
       "France"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Salminen-John",
@@ -10475,8 +9800,7 @@
       "USA"
     ],
     "birthYear": 1945,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Samor-Nicola",
@@ -10490,8 +9814,7 @@
       "Italy"
     ],
     "birthYear": 1977,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Sandoval-Tony",
@@ -10504,8 +9827,7 @@
       "USA"
     ],
     "birthYear": 1973,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Sargent-John-Singer",
@@ -10521,8 +9843,7 @@
       "19th Century"
     ],
     "birthYear": 1856,
-    "deathYear": 1925,
-    "notes": null
+    "deathYear": 1925
   },
   {
     "id": "Sarnoff-Arthur",
@@ -10538,8 +9859,7 @@
       "USA"
     ],
     "birthYear": 1912,
-    "deathYear": 2000,
-    "notes": null
+    "deathYear": 2000
   },
   {
     "id": "Sarrailh-Sylvain",
@@ -10553,8 +9873,7 @@
       "France"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Sarto-Andrea-del",
@@ -10570,8 +9889,7 @@
       "16th Century"
     ],
     "birthYear": 1486,
-    "deathYear": 1531,
-    "notes": null
+    "deathYear": 1531
   },
   {
     "id": "Saryan-Martiros",
@@ -10587,8 +9905,7 @@
       "Armenia"
     ],
     "birthYear": 1880,
-    "deathYear": 1972,
-    "notes": null
+    "deathYear": 1972
   },
   {
     "id": "Savrasov-Alexei",
@@ -10603,8 +9920,7 @@
       "19th Century"
     ],
     "birthYear": 1830,
-    "deathYear": 1897,
-    "notes": null
+    "deathYear": 1897
   },
   {
     "id": "Scarry-Richard",
@@ -10618,8 +9934,7 @@
       "USA"
     ],
     "birthYear": 1919,
-    "deathYear": 1994,
-    "notes": null
+    "deathYear": 1994
   },
   {
     "id": "Schalcken-Godfried",
@@ -10634,8 +9949,7 @@
       "17th Century"
     ],
     "birthYear": 1643,
-    "deathYear": 1706,
-    "notes": "Godefridus and Godfried both work, but the results of Godfried seem a bit nicer"
+    "deathYear": 1706
   },
   {
     "id": "Schaller-Thomas-W",
@@ -10650,8 +9964,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Scher-Paula",
@@ -10665,8 +9978,7 @@
       "USA"
     ],
     "birthYear": 1948,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Schjerfbeck-Helene",
@@ -10682,8 +9994,7 @@
       "19th Century"
     ],
     "birthYear": 1862,
-    "deathYear": 1946,
-    "notes": null
+    "deathYear": 1946
   },
   {
     "id": "Schoeller-Martin",
@@ -10696,8 +10007,7 @@
       "Germany"
     ],
     "birthYear": 1968,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Schoenherr-John-Carl",
@@ -10712,8 +10022,7 @@
       "USA"
     ],
     "birthYear": 1935,
-    "deathYear": 2010,
-    "notes": null
+    "deathYear": 2010
   },
   {
     "id": "Schomburg-Alex",
@@ -10729,8 +10038,7 @@
       "USA"
     ],
     "birthYear": 1905,
-    "deathYear": 1998,
-    "notes": "512px + Highres. Fix, DPM++ SDE Karras, a lot of cover art in training data = text everywhere"
+    "deathYear": 1998
   },
   {
     "id": "Schongauer-Martin",
@@ -10746,8 +10054,7 @@
       "15th Century"
     ],
     "birthYear": 1448,
-    "deathYear": 1491,
-    "notes": null
+    "deathYear": 1491
   },
   {
     "id": "Schrieck-Otto-Marseus-van",
@@ -10763,8 +10070,7 @@
       "17th Century"
     ],
     "birthYear": 1613,
-    "deathYear": 1678,
-    "notes": null
+    "deathYear": 1678
   },
   {
     "id": "Schuiten-Franois",
@@ -10777,8 +10083,7 @@
       "Belgium"
     ],
     "birthYear": 1956,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Schwabe-Carlos",
@@ -10793,8 +10098,7 @@
       "19th Century"
     ],
     "birthYear": 1866,
-    "deathYear": 1926,
-    "notes": null
+    "deathYear": 1926
   },
   {
     "id": "Schwitters-Kurt",
@@ -10812,8 +10116,7 @@
       "UK"
     ],
     "birthYear": 1887,
-    "deathYear": 1948,
-    "notes": "had to use [from:to:when] for H.C."
+    "deathYear": 1948
   },
   {
     "id": "Seddon-Boulet-Susan",
@@ -10826,8 +10129,7 @@
       "Brazil"
     ],
     "birthYear": 1941,
-    "deathYear": 1997,
-    "notes": null
+    "deathYear": 1997
   },
   {
     "id": "Seignac-Guillaume",
@@ -10841,8 +10143,7 @@
       "France"
     ],
     "birthYear": 1870,
-    "deathYear": 1924,
-    "notes": null
+    "deathYear": 1924
   },
   {
     "id": "Semenov-Anton",
@@ -10855,8 +10156,7 @@
       "Russia"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Seurat-Georges",
@@ -10870,8 +10170,7 @@
       "France"
     ],
     "birthYear": 1859,
-    "deathYear": 1891,
-    "notes": null
+    "deathYear": 1891
   },
   {
     "id": "Severin-Marie",
@@ -10885,8 +10184,7 @@
       "USA"
     ],
     "birthYear": 1929,
-    "deathYear": 2018,
-    "notes": null
+    "deathYear": 2018
   },
   {
     "id": "Seveso-Alberto",
@@ -10900,8 +10198,7 @@
       "UK"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Shaden-Brooke",
@@ -10914,8 +10211,7 @@
       "USA"
     ],
     "birthYear": 1987,
-    "deathYear": null,
-    "notes": "needs big images (face)"
+    "deathYear": null
   },
   {
     "id": "Shaw-Barclay",
@@ -10931,8 +10227,7 @@
       "USA"
     ],
     "birthYear": 1949,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Shepard-Ernest-Howard",
@@ -10946,8 +10241,7 @@
       "UK"
     ],
     "birthYear": 1879,
-    "deathYear": 1976,
-    "notes": null
+    "deathYear": 1976
   },
   {
     "id": "Sheppard-Cynthia",
@@ -10960,8 +10254,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Shields-Tyler",
@@ -10974,8 +10267,7 @@
       "USA"
     ],
     "birthYear": 1982,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix (1024)"
+    "deathYear": null
   },
   {
     "id": "Shimizu-Yuko",
@@ -10987,8 +10279,7 @@
       "USA"
     ],
     "birthYear": 1965,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Shinkai-Makoto",
@@ -11000,8 +10291,7 @@
       "Japan"
     ],
     "birthYear": 1973,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Shinkawa-Yji",
@@ -11014,8 +10304,7 @@
       "Japan"
     ],
     "birthYear": 1971,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Shinn-Everett",
@@ -11030,8 +10319,7 @@
       "USA"
     ],
     "birthYear": 1876,
-    "deathYear": 1953,
-    "notes": null
+    "deathYear": 1953
   },
   {
     "id": "Shirow-Masamune",
@@ -11045,8 +10333,7 @@
       "Japan"
     ],
     "birthYear": 1961,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Shiu-Emmanuel",
@@ -11059,8 +10346,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Sienkiewicz-Bill",
@@ -11075,8 +10361,7 @@
       "USA"
     ],
     "birthYear": 1958,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Signac-Paul",
@@ -11090,8 +10375,7 @@
       "France"
     ],
     "birthYear": 1863,
-    "deathYear": 1935,
-    "notes": null
+    "deathYear": 1935
   },
   {
     "id": "Silvestri-Marc",
@@ -11105,8 +10389,7 @@
       "USA"
     ],
     "birthYear": 1958,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Simkins-Greg",
@@ -11120,8 +10403,7 @@
       "USA"
     ],
     "birthYear": 1975,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Simonetti-Marc-",
@@ -11135,8 +10417,7 @@
       "France"
     ],
     "birthYear": 1977,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Siqueiros-David-Alfaro",
@@ -11151,8 +10432,7 @@
       "Mexico"
     ],
     "birthYear": 1896,
-    "deathYear": 1974,
-    "notes": null
+    "deathYear": 1974
   },
   {
     "id": "Sloan-Kevin",
@@ -11165,8 +10445,7 @@
       "USA"
     ],
     "birthYear": 1958,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Smith-Grace-Cossington",
@@ -11179,8 +10458,7 @@
       "Australia"
     ],
     "birthYear": 1892,
-    "deathYear": 1984,
-    "notes": null
+    "deathYear": 1984
   },
   {
     "id": "Spare-Austin-Osman",
@@ -11198,8 +10476,7 @@
       "UK"
     ],
     "birthYear": 1886,
-    "deathYear": 1956,
-    "notes": null
+    "deathYear": 1956
   },
   {
     "id": "Sparth",
@@ -11214,8 +10491,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Sperry-Chuck",
@@ -11229,8 +10505,7 @@
       "USA"
     ],
     "birthYear": 1962,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Spratt-Sam",
@@ -11243,8 +10518,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Steadman-Ralph",
@@ -11259,8 +10533,7 @@
       "UK"
     ],
     "birthYear": 1936,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Stelfreeze-Brian",
@@ -11274,8 +10547,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Stieglitz-Alfred",
@@ -11290,8 +10562,7 @@
       "19th Century"
     ],
     "birthYear": 1864,
-    "deathYear": 1946,
-    "notes": null
+    "deathYear": 1946
   },
   {
     "id": "Stokoe-James",
@@ -11305,8 +10576,7 @@
       "Canada"
     ],
     "birthYear": 1985,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Streeton-Arthur-Ernest",
@@ -11322,8 +10592,7 @@
       "19th Century"
     ],
     "birthYear": 1867,
-    "deathYear": 1943,
-    "notes": null
+    "deathYear": 1943
   },
   {
     "id": "Struzan-Drew",
@@ -11336,8 +10605,7 @@
       "USA"
     ],
     "birthYear": 1947,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Strzalkowski-Tomasz",
@@ -11351,8 +10619,7 @@
       "Poland"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Stlenhag-Simon",
@@ -11365,8 +10632,7 @@
       "Sweden"
     ],
     "birthYear": 1984,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Sugimori-Ken",
@@ -11380,8 +10646,7 @@
       "Japan"
     ],
     "birthYear": 1966,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Suydam-Arthur",
@@ -11395,8 +10660,7 @@
       "USA"
     ],
     "birthYear": 1953,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Swanland-Raymond",
@@ -11413,8 +10677,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Sve-Peter-de",
@@ -11428,8 +10691,7 @@
       "USA"
     ],
     "birthYear": 1958,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Takahashi-Hiroyuki-Mitsume",
@@ -11442,8 +10704,7 @@
       "Japan"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Takahashi-Kazuya",
@@ -11456,8 +10717,7 @@
       "Japan"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Takahashi-Rumiko",
@@ -11470,8 +10730,7 @@
       "Japan"
     ],
     "birthYear": 1957,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Tamayo-Rufino",
@@ -11487,8 +10746,7 @@
       "Mexico"
     ],
     "birthYear": 1899,
-    "deathYear": 1991,
-    "notes": null
+    "deathYear": 1991
   },
   {
     "id": "Tan-Shaun",
@@ -11503,8 +10761,7 @@
       "Australia"
     ],
     "birthYear": 1974,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Tanner-Henry-Ossawa",
@@ -11519,8 +10776,7 @@
       "19th Century"
     ],
     "birthYear": 1859,
-    "deathYear": 1937,
-    "notes": null
+    "deathYear": 1937
   },
   {
     "id": "Tartakovsky-Genndy",
@@ -11536,8 +10792,7 @@
       "USA"
     ],
     "birthYear": 1970,
-    "deathYear": null,
-    "notes": "Highres. Fix, DPM2++ Karas"
+    "deathYear": null
   },
   {
     "id": "Templesmith-Ben",
@@ -11550,8 +10805,7 @@
       "Australia"
     ],
     "birthYear": 1984,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Teng-Sachin",
@@ -11566,8 +10820,7 @@
       "USA"
     ],
     "birthYear": 1989,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Tenggren-Gustaf",
@@ -11580,8 +10833,7 @@
       "USA"
     ],
     "birthYear": 1896,
-    "deathYear": 1970,
-    "notes": null
+    "deathYear": 1970
   },
   {
     "id": "Tepper-Saul",
@@ -11596,8 +10848,7 @@
       "USA"
     ],
     "birthYear": 1899,
-    "deathYear": 1987,
-    "notes": null
+    "deathYear": 1987
   },
   {
     "id": "Terada-Katsuya",
@@ -11609,8 +10860,7 @@
       "Japan"
     ],
     "birthYear": 1963,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Terpning-Howard",
@@ -11627,8 +10877,7 @@
       "USA"
     ],
     "birthYear": 1927,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Tezuka-Osamu",
@@ -11641,8 +10890,7 @@
       "Japan"
     ],
     "birthYear": 1928,
-    "deathYear": 1989,
-    "notes": "512px + Highres. Fix, DPM++ SDE Karras"
+    "deathYear": 1989
   },
   {
     "id": "Thayer-Abbott-Handerson",
@@ -11657,8 +10905,7 @@
       "19th Century"
     ],
     "birthYear": 1849,
-    "deathYear": 1921,
-    "notes": null
+    "deathYear": 1921
   },
   {
     "id": "Thole-Karel",
@@ -11671,8 +10918,7 @@
       "Netherlands"
     ],
     "birthYear": 1914,
-    "deathYear": 2000,
-    "notes": null
+    "deathYear": 2000
   },
   {
     "id": "Thomas-Mickalene",
@@ -11687,8 +10933,7 @@
       "USA"
     ],
     "birthYear": 1971,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Thompson-Craig",
@@ -11703,8 +10948,7 @@
       "USA"
     ],
     "birthYear": 1975,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Thomson-Tom",
@@ -11719,8 +10963,7 @@
       "19th Century"
     ],
     "birthYear": 1877,
-    "deathYear": 1917,
-    "notes": null
+    "deathYear": 1917
   },
   {
     "id": "Tiepolo-Giovanni",
@@ -11733,8 +10976,7 @@
       "18th Century"
     ],
     "birthYear": 1696,
-    "deathYear": 1770,
-    "notes": null
+    "deathYear": 1770
   },
   {
     "id": "Timmermans-Alex",
@@ -11746,8 +10988,7 @@
       "Netherlands"
     ],
     "birthYear": 1962,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Titian-Tiziano-Vecelli",
@@ -11763,8 +11004,7 @@
       "16th Century"
     ],
     "birthYear": 1488,
-    "deathYear": 1576,
-    "notes": null
+    "deathYear": 1576
   },
   {
     "id": "Tomine-Adrian",
@@ -11778,8 +11018,7 @@
       "USA"
     ],
     "birthYear": 1974,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Toor-Ori",
@@ -11791,8 +11030,7 @@
       "Israel"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Toriyama-Akira",
@@ -11807,8 +11045,7 @@
       "Japan"
     ],
     "birthYear": 1955,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix, DPM++ SDE Karras"
+    "deathYear": null
   },
   {
     "id": "Toth-Alex",
@@ -11822,8 +11059,7 @@
       "USA"
     ],
     "birthYear": 1928,
-    "deathYear": 2006,
-    "notes": null
+    "deathYear": 2006
   },
   {
     "id": "Toulouse-Lautrec-Henri-de",
@@ -11837,8 +11073,7 @@
       "19th Century"
     ],
     "birthYear": 1864,
-    "deathYear": 1901,
-    "notes": null
+    "deathYear": 1901
   },
   {
     "id": "Tran-Ross-RossDraws",
@@ -11853,8 +11088,7 @@
       "USA"
     ],
     "birthYear": 1992,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Turner-William",
@@ -11871,8 +11105,7 @@
       "19th Century"
     ],
     "birthYear": 1775,
-    "deathYear": 1851,
-    "notes": null
+    "deathYear": 1851
   },
   {
     "id": "Turnham-Chris",
@@ -11884,8 +11117,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Tutwiler-David",
@@ -11900,8 +11132,7 @@
       "USA"
     ],
     "birthYear": 1952,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Uesugi-Tadahiro",
@@ -11913,8 +11144,7 @@
       "Japan"
     ],
     "birthYear": 1966,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Uglow-Euan",
@@ -11929,8 +11159,7 @@
       "UK"
     ],
     "birthYear": 1932,
-    "deathYear": 2000,
-    "notes": null
+    "deathYear": 2000
   },
   {
     "id": "Uhlig-Daniela",
@@ -11944,8 +11173,7 @@
       "Germany"
     ],
     "birthYear": 1982,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ural-Halil",
@@ -11959,8 +11187,7 @@
       "Turkey"
     ],
     "birthYear": 1983,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Urschel-Jan",
@@ -11975,8 +11202,7 @@
       "Germany"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Vallejo-Boris",
@@ -11994,8 +11220,7 @@
       "USA"
     ],
     "birthYear": 1941,
-    "deathYear": null,
-    "notes": "768px + Highres. Fix, DPM++ SDE Karras"
+    "deathYear": null
   },
   {
     "id": "Van-Gogh-Vincent-Willem",
@@ -12010,8 +11235,7 @@
       "19th Century"
     ],
     "birthYear": 1853,
-    "deathYear": 1890,
-    "notes": "when used alone, tends to be a bit inflexible (starry night clouds, his face structure in portraits)"
+    "deathYear": 1890
   },
   {
     "id": "Vargas-Alberto",
@@ -12024,8 +11248,7 @@
       "USA"
     ],
     "birthYear": 1896,
-    "deathYear": 1982,
-    "notes": null
+    "deathYear": 1982
   },
   {
     "id": "Vaughan-Brian-K",
@@ -12040,8 +11263,7 @@
       "USA"
     ],
     "birthYear": 1976,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Velzquez-Diego",
@@ -12057,8 +11279,7 @@
       "17th Century"
     ],
     "birthYear": 1599,
-    "deathYear": 1660,
-    "notes": "sometimes guitars"
+    "deathYear": 1660
   },
   {
     "id": "Vereshchagin-Vasily",
@@ -12074,8 +11295,7 @@
       "19th Century"
     ],
     "birthYear": 1842,
-    "deathYear": 1904,
-    "notes": "512px + Highres. Fix"
+    "deathYear": 1904
   },
   {
     "id": "Verrocchio-Andrea-del",
@@ -12089,8 +11309,7 @@
       "15th Century"
     ],
     "birthYear": 1435,
-    "deathYear": 1488,
-    "notes": null
+    "deathYear": 1488
   },
   {
     "id": "Vesalius-Andreas",
@@ -12107,8 +11326,7 @@
       "16th Century"
     ],
     "birthYear": 1514,
-    "deathYear": 1564,
-    "notes": null
+    "deathYear": 1564
   },
   {
     "id": "Vess-Charles",
@@ -12121,8 +11339,7 @@
       "USA"
     ],
     "birthYear": 1951,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Vige-Lebrun-lisabeth",
@@ -12138,8 +11355,7 @@
       "18th Century"
     ],
     "birthYear": 1755,
-    "deathYear": 1842,
-    "notes": "difficult to prompt men"
+    "deathYear": 1842
   },
   {
     "id": "Wain-Louis",
@@ -12157,8 +11373,7 @@
       "19th Century"
     ],
     "birthYear": 1860,
-    "deathYear": 1939,
-    "notes": null
+    "deathYear": 1939
   },
   {
     "id": "Walala-Camille",
@@ -12173,8 +11388,7 @@
       "France"
     ],
     "birthYear": 1975,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Walde-Alfons",
@@ -12188,8 +11402,7 @@
       "Austria"
     ],
     "birthYear": 1891,
-    "deathYear": 1958,
-    "notes": null
+    "deathYear": 1958
   },
   {
     "id": "Wallis-Alfred",
@@ -12202,8 +11415,7 @@
       "UK"
     ],
     "birthYear": 1855,
-    "deathYear": 1942,
-    "notes": null
+    "deathYear": 1942
   },
   {
     "id": "Ward-Lynd",
@@ -12220,8 +11432,7 @@
       "USA"
     ],
     "birthYear": 1905,
-    "deathYear": 1985,
-    "notes": null
+    "deathYear": 1985
   },
   {
     "id": "Warhol-Andy",
@@ -12234,8 +11445,7 @@
       "USA"
     ],
     "birthYear": 1928,
-    "deathYear": 1987,
-    "notes": null
+    "deathYear": 1987
   },
   {
     "id": "Waterhouse-John-William",
@@ -12250,8 +11460,7 @@
       "19th Century"
     ],
     "birthYear": 1849,
-    "deathYear": 1917,
-    "notes": null
+    "deathYear": 1917
   },
   {
     "id": "Watteau-Jean-Antoine",
@@ -12267,8 +11476,7 @@
       "18th Century"
     ],
     "birthYear": 1684,
-    "deathYear": 1721,
-    "notes": null
+    "deathYear": 1721
   },
   {
     "id": "Webb-Joe",
@@ -12281,8 +11489,7 @@
       "UK"
     ],
     "birthYear": 1976,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Weeks-Edwin-Lord",
@@ -12296,8 +11503,7 @@
       "USA"
     ],
     "birthYear": 1849,
-    "deathYear": 1903,
-    "notes": null
+    "deathYear": 1903
   },
   {
     "id": "Weissenbruch-Johan-Hendrik",
@@ -12313,8 +11519,7 @@
       "19th Century"
     ],
     "birthYear": 1824,
-    "deathYear": 1903,
-    "notes": null
+    "deathYear": 1903
   },
   {
     "id": "Weldon-Casey",
@@ -12328,8 +11533,7 @@
       "USA"
     ],
     "birthYear": 1979,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Whalen-Tom-Strongstuff",
@@ -12341,8 +11545,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Whelan-Michael",
@@ -12356,8 +11559,7 @@
       "USA"
     ],
     "birthYear": 1950,
-    "deathYear": null,
-    "notes": "512px + Highres. Fix"
+    "deathYear": null
   },
   {
     "id": "Whitcomb-Jon",
@@ -12373,8 +11575,7 @@
       "USA"
     ],
     "birthYear": 1906,
-    "deathYear": 1988,
-    "notes": null
+    "deathYear": 1988
   },
   {
     "id": "Whitmore-Coby",
@@ -12388,8 +11589,7 @@
       "USA"
     ],
     "birthYear": 1913,
-    "deathYear": 1988,
-    "notes": null
+    "deathYear": 1988
   },
   {
     "id": "Wileman-Peter",
@@ -12404,8 +11604,7 @@
       "UK"
     ],
     "birthYear": 1946,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Wiley-Kehinde",
@@ -12419,8 +11618,7 @@
       "USA"
     ],
     "birthYear": 1977,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Wilkins-Edward-Blair",
@@ -12434,8 +11632,7 @@
       "Cover Art"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Williamson-Al",
@@ -12447,8 +11644,7 @@
       "USA"
     ],
     "birthYear": 1931,
-    "deathYear": 2010,
-    "notes": null
+    "deathYear": 2010
   },
   {
     "id": "Windsor-Smith-Barry",
@@ -12463,8 +11659,7 @@
       "UK"
     ],
     "birthYear": 1949,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Winterhalter-Franz-Xaver",
@@ -12479,8 +11674,7 @@
       "19th Century"
     ],
     "birthYear": 1805,
-    "deathYear": 1873,
-    "notes": null
+    "deathYear": 1873
   },
   {
     "id": "Wirth-Nathan",
@@ -12494,8 +11688,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Wlop",
@@ -12507,8 +11700,7 @@
       "China"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Woelfel-Brandon",
@@ -12521,8 +11713,7 @@
       "USA"
     ],
     "birthYear": 1994,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Wong-Liam",
@@ -12536,8 +11727,7 @@
       "UK"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Wood-Ashley",
@@ -12552,8 +11742,7 @@
       "Australia"
     ],
     "birthYear": 1971,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Wood-Grant",
@@ -12568,8 +11757,7 @@
       "USA"
     ],
     "birthYear": 1891,
-    "deathYear": 1942,
-    "notes": null
+    "deathYear": 1942
   },
   {
     "id": "Wou-Ki-Zao",
@@ -12583,8 +11771,7 @@
       "China"
     ],
     "birthYear": 1921,
-    "deathYear": 2013,
-    "notes": null
+    "deathYear": 2013
   },
   {
     "id": "Wrightson-Bernie",
@@ -12599,8 +11786,7 @@
       "USA"
     ],
     "birthYear": 1948,
-    "deathYear": 2017,
-    "notes": null
+    "deathYear": 2017
   },
   {
     "id": "Wyeth-Andrew",
@@ -12618,8 +11804,7 @@
       "USA"
     ],
     "birthYear": 1917,
-    "deathYear": 2009,
-    "notes": null
+    "deathYear": 2009
   },
   {
     "id": "Xu-Zhelong",
@@ -12632,8 +11817,7 @@
       "China"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Yata-Hannah",
@@ -12648,8 +11832,7 @@
       "USA"
     ],
     "birthYear": 1989,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Ye-Liu",
@@ -12661,8 +11844,7 @@
       "China"
     ],
     "birthYear": 1964,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Yeager-Bunny",
@@ -12676,8 +11858,7 @@
       "USA"
     ],
     "birthYear": 1929,
-    "deathYear": 2014,
-    "notes": "lots of boobs and nudity, even with the keywords in the NP"
+    "deathYear": 2014
   },
   {
     "id": "Yerka-Jacek",
@@ -12691,8 +11872,7 @@
       "Poland"
     ],
     "birthYear": 1952,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Yokoo-Tadanori",
@@ -12706,8 +11886,7 @@
       "Japan"
     ],
     "birthYear": 1936,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Yoro-Sean-HULA",
@@ -12721,8 +11900,7 @@
       "USA"
     ],
     "birthYear": 1989,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Yoshida-Akihiko",
@@ -12736,8 +11914,7 @@
       "Japan"
     ],
     "birthYear": 1967,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Yoshida-Hiroshi",
@@ -12750,8 +11927,7 @@
       "Japan"
     ],
     "birthYear": 1876,
-    "deathYear": 1950,
-    "notes": null
+    "deathYear": 1950
   },
   {
     "id": "Young-Skottie",
@@ -12766,8 +11942,7 @@
       "USA"
     ],
     "birthYear": 1978,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Zabrocki-Darek",
@@ -12782,8 +11957,7 @@
       "Poland"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Zadkine-Ossip",
@@ -12797,8 +11971,7 @@
       "Belarus"
     ],
     "birthYear": 1888,
-    "deathYear": 1967,
-    "notes": null
+    "deathYear": 1967
   },
   {
     "id": "Zana-Eytan",
@@ -12812,8 +11985,7 @@
       "USA"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Zener-Eric",
@@ -12828,8 +12000,7 @@
       "USA"
     ],
     "birthYear": 1966,
-    "deathYear": null,
-    "notes": "not easy to prompt, needed 'sunglasses' and 't-shirt' in NP"
+    "deathYear": null
   },
   {
     "id": "Zhong-Fenghua-",
@@ -12841,8 +12012,7 @@
       "China"
     ],
     "birthYear": null,
-    "deathYear": null,
-    "notes": null
+    "deathYear": null
   },
   {
     "id": "Zorach-William",
@@ -12860,8 +12030,7 @@
       "USA"
     ],
     "birthYear": 1887,
-    "deathYear": 1966,
-    "notes": null
+    "deathYear": 1966
   },
   {
     "id": "Zorn-Anders",
@@ -12876,8 +12045,7 @@
       "19th Century"
     ],
     "birthYear": 1860,
-    "deathYear": 1920,
-    "notes": null
+    "deathYear": 1920
   },
   {
     "id": "Zuloaga-Ignacio",
@@ -12891,7 +12059,6 @@
       "Spain"
     ],
     "birthYear": 1870,
-    "deathYear": 1945,
-    "notes": null
+    "deathYear": 1945
   }
 ]

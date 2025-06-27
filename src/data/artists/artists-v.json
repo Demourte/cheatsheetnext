@@ -1,0 +1,155 @@
+[
+  {
+    "id": "Vallejo-Boris",
+    "name": "Vallejo, Boris",
+    "imagePath": "/artists/Boris-Vallejo.webp",
+    "prompt": "artwork in the style of Vallejo, Boris, illustration, painting, fantasy, Poster",
+    "category": [
+      "Illustration",
+      "Painting",
+      "Cover Art",
+      "Poster",
+      "Pin-Ups",
+      "Fantasy",
+      "Peru",
+      "USA"
+    ],
+    "birthYear": 1941,
+    "deathYear": null
+  },
+  {
+    "id": "Van-Gogh-Vincent-Willem",
+    "name": "Van Gogh, Vincent Willem",
+    "imagePath": "/artists/Vincent-van-Gogh.webp",
+    "prompt": "artwork in the style of Van Gogh, Vincent Willem, painting, oil, 19th Century, Pointillism",
+    "category": [
+      "Painting",
+      "Oil",
+      "Pointillism",
+      "Netherlands",
+      "19th Century"
+    ],
+    "birthYear": 1853,
+    "deathYear": 1890
+  },
+  {
+    "id": "Vargas-Alberto",
+    "name": "Vargas, Alberto",
+    "imagePath": "/artists/Alberto-Vargas.webp",
+    "prompt": "artwork in the style of Vargas, Alberto, illustration, Pin-Ups",
+    "category": [
+      "Illustration",
+      "Pin-Ups",
+      "USA"
+    ],
+    "birthYear": 1896,
+    "deathYear": 1982
+  },
+  {
+    "id": "Vaughan-Brian-K",
+    "name": "Vaughan, Brian K.",
+    "imagePath": "/artists/Brian-K-Vaughan.webp",
+    "prompt": "artwork in the style of Vaughan, Brian K., comic, dc comics, Graphic Novel",
+    "category": [
+      "Comic",
+      "Graphic Novel",
+      "DC Comics",
+      "Marvel",
+      "USA"
+    ],
+    "birthYear": 1976,
+    "deathYear": null
+  },
+  {
+    "id": "Velzquez-Diego",
+    "name": "Velázquez, Diego",
+    "imagePath": "/artists/Diego-Velazquez.webp",
+    "prompt": "artwork in the style of Velázquez, Diego, painting, oil, Baroque, portrait, 17th Century, Spain",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Baroque",
+      "Spain",
+      "17th Century"
+    ],
+    "birthYear": 1599,
+    "deathYear": 1660
+  },
+  {
+    "id": "Vereshchagin-Vasily",
+    "name": "Vereshchagin, Vasily",
+    "imagePath": "/artists/Vasily-Vereshchagin.webp",
+    "prompt": "artwork in the style of Vereshchagin, Vasily, painting, oil, Realism, 19th Century, Orientalism",
+    "category": [
+      "Painting",
+      "Oil",
+      "Realism",
+      "Orientalism",
+      "Russia",
+      "19th Century"
+    ],
+    "birthYear": 1842,
+    "deathYear": 1904
+  },
+  {
+    "id": "Verrocchio-Andrea-del",
+    "name": "Verrocchio, Andrea del",
+    "imagePath": "/artists/Andrea-del-Verrocchio.webp",
+    "prompt": "artwork in the style of Verrocchio, Andrea del, painting, oil, 15th Century, Italy",
+    "category": [
+      "Painting",
+      "Oil",
+      "Italy",
+      "15th Century"
+    ],
+    "birthYear": 1435,
+    "deathYear": 1488
+  },
+  {
+    "id": "Vesalius-Andreas",
+    "name": "Vesalius, Andreas",
+    "imagePath": "/artists/Andreas-Vesalius.webp",
+    "prompt": "artwork in the style of Vesalius, Andreas, illustration, engraving, woodcut, 16th Century, Author",
+    "category": [
+      "Author",
+      "Illustration",
+      "Anatomy",
+      "Engraving",
+      "Woodcut",
+      "Belgium",
+      "16th Century"
+    ],
+    "birthYear": 1514,
+    "deathYear": 1564
+  },
+  {
+    "id": "Vess-Charles",
+    "name": "Vess, Charles",
+    "imagePath": "/artists/Charles-Vess.webp",
+    "prompt": "artwork in the style of Vess, Charles, comic, fantasy, USA",
+    "category": [
+      "Comic",
+      "Fantasy",
+      "USA"
+    ],
+    "birthYear": 1951,
+    "deathYear": null
+  },
+  {
+    "id": "Vige-Lebrun-lisabeth",
+    "name": "Vigée-Lebrun, Élisabeth",
+    "imagePath": "/artists/Elisabeth-Vigee-Lebrun.webp",
+    "prompt": "artwork in the style of Vigée-Lebrun, Élisabeth, painting, oil, portrait, 18th Century, Rococo",
+    "category": [
+      "Painting",
+      "Oil",
+      "Portrait",
+      "Rococo",
+      "France",
+      "18th Century"
+    ],
+    "birthYear": 1755,
+    "deathYear": 1842
+  }
+]
