@@ -3,6 +3,7 @@ import { Inter, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import BackToTop from "./common/components/BackToTop";
 import { ToastProvider } from "./common/components/ToastProvider";
+import { Analytics } from "@vercel/analytics/next"
 
 const inter = Inter({
   variable: "--font-inter",
@@ -41,6 +42,7 @@ export default function RootLayout({
           <div className="flex-grow">{children}</div>
           <BackToTop />
         </ToastProvider>
+        <Analytics />
       </body>
     </html>
   );
