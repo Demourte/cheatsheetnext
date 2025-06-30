@@ -17,6 +17,15 @@ export default function AboutContent() {
           Behind the scenes, we're still using simple JSON files to store all your data - no complicated databases required. 
           This keeps things lightweight and makes the app super easy to deploy and maintain.
         </p>
+        <a 
+          href="https://github.com/Demourte/cheatsheetnext" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          className="btn btn-outline btn-sm"
+        >
+          <Github size={16} className="mr-2" />
+          <span className="ml-1">GitHub</span>
+        </a>
       </div>
       
       <div>
